@@ -1,0 +1,2889 @@
+{
+  "video_retention": {
+    "total_25pct": 139951,
+    "total_50pct": 74845,
+    "total_75pct": 42044,
+    "total_95pct": 29115,
+    "total_100pct": 27658,
+    "retention_50": 53.48,
+    "retention_75": 30.04,
+    "retention_95": 20.8,
+    "retention_100": 19.76,
+    "by_campaign": [
+      {
+        "campaign": "RACKS ALMACEN NUEVO 1",
+        "plays_25": 2,
+        "plays_100": 2,
+        "retention_rate": 100.0
+      },
+      {
+        "campaign": "RACK MODELO NUEVO 2 2025",
+        "plays_25": 1,
+        "plays_100": 1,
+        "retention_rate": 100.0
+      },
+      {
+        "campaign": "RACK TENDENCIA 2",
+        "plays_25": 1,
+        "plays_100": 1,
+        "retention_rate": 100.0
+      },
+      {
+        "campaign": "PIRAMIDE NUEVOS MD 4",
+        "plays_25": 4,
+        "plays_100": 2,
+        "retention_rate": 50.0
+      },
+      {
+        "campaign": "CESTAS 2 FOTOS 2025",
+        "plays_25": 25,
+        "plays_100": 9,
+        "retention_rate": 36.0
+      },
+      {
+        "campaign": "piramides 2025 1",
+        "plays_25": 20,
+        "plays_100": 7,
+        "retention_rate": 35.0
+      },
+      {
+        "campaign": "RACK JUN 3",
+        "plays_25": 6,
+        "plays_100": 2,
+        "retention_rate": 33.33
+      },
+      {
+        "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+        "plays_25": 13,
+        "plays_100": 4,
+        "retention_rate": 30.77
+      },
+      {
+        "campaign": "RACK 2424 REEL",
+        "plays_25": 1237,
+        "plays_100": 373,
+        "retention_rate": 30.15
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "plays_25": 15552,
+        "plays_100": 4496,
+        "retention_rate": 28.91
+      },
+      {
+        "campaign": "RACK MODELO NUEVO 2",
+        "plays_25": 14,
+        "plays_100": 4,
+        "retention_rate": 28.57
+      },
+      {
+        "campaign": "NEVERAS ABIERTAS Y CERRADAS NEVERAMA 2410 2",
+        "plays_25": 1100,
+        "plays_100": 304,
+        "retention_rate": 27.64
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "plays_25": 10390,
+        "plays_100": 2871,
+        "retention_rate": 27.63
+      },
+      {
+        "campaign": "RACKS REELS 24",
+        "plays_25": 8891,
+        "plays_100": 2450,
+        "retention_rate": 27.56
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS ULTRA",
+        "plays_25": 2483,
+        "plays_100": 664,
+        "retention_rate": 26.74
+      }
+    ],
+    "by_age": [
+      {
+        "age": "18-24",
+        "plays_25": 20704,
+        "plays_100": 4261,
+        "retention_rate": 20.58
+      },
+      {
+        "age": "25-34",
+        "plays_25": 40308,
+        "plays_100": 7295,
+        "retention_rate": 18.1
+      },
+      {
+        "age": "35-44",
+        "plays_25": 31293,
+        "plays_100": 5548,
+        "retention_rate": 17.73
+      },
+      {
+        "age": "45-54",
+        "plays_25": 19306,
+        "plays_100": 3904,
+        "retention_rate": 20.22
+      },
+      {
+        "age": "55-64",
+        "plays_25": 14651,
+        "plays_100": 3265,
+        "retention_rate": 22.29
+      },
+      {
+        "age": "65+",
+        "plays_25": 13689,
+        "plays_100": 3385,
+        "retention_rate": 24.73
+      }
+    ],
+    "avg_play_time": {
+      "mean": 2.96,
+      "median": 2.0,
+      "std": 8.81,
+      "max": 188.0
+    }
+  },
+  "frequency_optimization": {
+    "overall_avg_frequency": 1.33,
+    "overall_median_frequency": 1.14,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5",
+        "spend": 4045.32,
+        "results": 7146,
+        "reach": 2659751,
+        "ctr_avg": 0.829,
+        "cost_per_result": 0.57,
+        "ad_sets": 1770
+      },
+      {
+        "bucket": "1.5-2.5",
+        "spend": 9161.61,
+        "results": 10287,
+        "reach": 4146333,
+        "ctr_avg": 0.8949,
+        "cost_per_result": 0.89,
+        "ad_sets": 315
+      },
+      {
+        "bucket": "2.5-3.5",
+        "spend": 1290.13,
+        "results": 33,
+        "reach": 468806,
+        "ctr_avg": 0.8116,
+        "cost_per_result": 39.09,
+        "ad_sets": 49
+      },
+      {
+        "bucket": "3.5-5",
+        "spend": 14.83,
+        "results": 7,
+        "reach": 2846,
+        "ctr_avg": 0.9714,
+        "cost_per_result": 2.12,
+        "ad_sets": 15
+      },
+      {
+        "bucket": "5-10",
+        "spend": 12.24,
+        "results": 5,
+        "reach": 1684,
+        "ctr_avg": 0.6282,
+        "cost_per_result": 2.45,
+        "ad_sets": 11
+      }
+    ],
+    "optimal_frequency": "1-1.5"
+  },
+  "delivery_status": [
+    {
+      "status": "active",
+      "spend": 3280.94,
+      "results": 27,
+      "reach": 1181954,
+      "impressions": 2809976,
+      "campaigns": 2,
+      "cost_per_result": 121.52
+    },
+    {
+      "status": "archived",
+      "spend": 84.53,
+      "results": 46,
+      "reach": 51313,
+      "impressions": 59259,
+      "campaigns": 3,
+      "cost_per_result": 1.84
+    },
+    {
+      "status": "inactive",
+      "spend": 11162.67,
+      "results": 17413,
+      "reach": 6046153,
+      "impressions": 10016674,
+      "campaigns": 116,
+      "cost_per_result": 0.64
+    }
+  ],
+  "ctr_analysis": {
+    "CTR (all)": {
+      "mean": 0.8392,
+      "median": 0.5747,
+      "std": 1.4387,
+      "p25": 0.0,
+      "p75": 1.0113,
+      "max": 25.0
+    },
+    "CTR (link click-through rate)": {
+      "mean": 0.6923,
+      "median": 0.4047,
+      "std": 1.1501,
+      "p25": 0.266,
+      "p75": 0.6626,
+      "max": 16.6667
+    },
+    "Outbound CTR (click-through rate)": {
+      "mean": 0.4644,
+      "median": 0.0633,
+      "std": 0.7716,
+      "p25": 0.02,
+      "p75": 0.551,
+      "max": 3.7691
+    },
+    "by_demographic": [
+      {
+        "age": "18-24",
+        "gender": "female",
+        "ctr": 0.6664
+      },
+      {
+        "age": "18-24",
+        "gender": "male",
+        "ctr": 0.6098
+      },
+      {
+        "age": "18-24",
+        "gender": "unknown",
+        "ctr": 0.7531
+      },
+      {
+        "age": "25-34",
+        "gender": "female",
+        "ctr": 0.7877
+      },
+      {
+        "age": "25-34",
+        "gender": "male",
+        "ctr": 0.682
+      },
+      {
+        "age": "25-34",
+        "gender": "unknown",
+        "ctr": 0.5119
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "ctr": 0.8699
+      },
+      {
+        "age": "35-44",
+        "gender": "male",
+        "ctr": 0.7253
+      },
+      {
+        "age": "35-44",
+        "gender": "unknown",
+        "ctr": 0.6538
+      },
+      {
+        "age": "45-54",
+        "gender": "female",
+        "ctr": 1.0584
+      },
+      {
+        "age": "45-54",
+        "gender": "male",
+        "ctr": 0.8332
+      },
+      {
+        "age": "45-54",
+        "gender": "unknown",
+        "ctr": 0.8018
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "ctr": 1.0288
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "ctr": 0.9663
+      },
+      {
+        "age": "55-64",
+        "gender": "unknown",
+        "ctr": 0.8439
+      },
+      {
+        "age": "65+",
+        "gender": "female",
+        "ctr": 1.2678
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "ctr": 1.0061
+      },
+      {
+        "age": "65+",
+        "gender": "unknown",
+        "ctr": 1.0806
+      },
+      {
+        "age": "Unknown",
+        "gender": "female",
+        "ctr": 0.0
+      },
+      {
+        "age": "Unknown",
+        "gender": "male",
+        "ctr": 0.0
+      },
+      {
+        "age": "Unknown",
+        "gender": "unknown",
+        "ctr": 0.0
+      }
+    ],
+    "by_result_type": [
+      {
+        "type": "Link clicks",
+        "ctr_mean": 1.2048,
+        "ctr_median": 0.8226
+      },
+      {
+        "type": "Messaging conversations started",
+        "ctr_mean": 0.7604,
+        "ctr_median": 0.5428
+      },
+      {
+        "type": "Meta leads",
+        "ctr_mean": 0.9303,
+        "ctr_median": 0.6195
+      },
+      {
+        "type": "Phone calls placed",
+        "ctr_mean": 1.2762,
+        "ctr_median": 0.6422
+      }
+    ]
+  },
+  "efficiency_matrix": {
+    "CPC (cost per link click)": {
+      "mean": 0.4708,
+      "median": 0.3584,
+      "p10": 0.06,
+      "p90": 0.906
+    },
+    "CPC (all)": {
+      "mean": 0.2399,
+      "median": 0.1767,
+      "p10": 0.05,
+      "p90": 0.4687
+    },
+    "CPM (cost per 1,000 impressions)": {
+      "mean": 1.9311,
+      "median": 1.4118,
+      "p10": 0.3803,
+      "p90": 3.5345
+    },
+    "cpc_by_age": [
+      {
+        "age": "18-24",
+        "cpc": 0.1662
+      },
+      {
+        "age": "25-34",
+        "cpc": 0.1809
+      },
+      {
+        "age": "35-44",
+        "cpc": 0.2315
+      },
+      {
+        "age": "45-54",
+        "cpc": 0.2608
+      },
+      {
+        "age": "55-64",
+        "cpc": 0.3001
+      },
+      {
+        "age": "65+",
+        "cpc": 0.3184
+      },
+      {
+        "age": "Unknown",
+        "cpc": 0
+      }
+    ],
+    "cpm_by_age": [
+      {
+        "age": "18-24",
+        "cpm": 1.104
+      },
+      {
+        "age": "25-34",
+        "cpm": 1.2025
+      },
+      {
+        "age": "35-44",
+        "cpm": 1.6813
+      },
+      {
+        "age": "45-54",
+        "cpm": 2.0752
+      },
+      {
+        "age": "55-64",
+        "cpm": 2.5662
+      },
+      {
+        "age": "65+",
+        "cpm": 3.0028
+      },
+      {
+        "age": "Unknown",
+        "cpm": 0.0
+      }
+    ]
+  },
+  "post_engagement": {
+    "total_comments": 2266,
+    "avg_comments": 6.57,
+    "top_campaigns_by_comments": [
+      {
+        "campaign": "RACK N3",
+        "comments": 610
+      },
+      {
+        "campaign": "PIRAMIDE N4",
+        "comments": 218
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "comments": 208
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "comments": 191
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA SEPTIEMBRE 5",
+        "comments": 117
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "comments": 111
+      },
+      {
+        "campaign": "REEL PIRAMIDE HUMANO 1",
+        "comments": 109
+      },
+      {
+        "campaign": "RACK MODELO NUEVO 2",
+        "comments": 89
+      },
+      {
+        "campaign": "MOSTRADOR N1",
+        "comments": 75
+      },
+      {
+        "campaign": "RACK 2410",
+        "comments": 62
+      }
+    ],
+    "cost_per_engagement": {
+      "mean": 0.2497,
+      "median": 0.198,
+      "min": 0.0,
+      "max": 5.1
+    },
+    "comments_by_demographic": [
+      {
+        "age": "18-24",
+        "gender": "female",
+        "comments": 39
+      },
+      {
+        "age": "18-24",
+        "gender": "male",
+        "comments": 69
+      },
+      {
+        "age": "18-24",
+        "gender": "unknown",
+        "comments": 4
+      },
+      {
+        "age": "25-34",
+        "gender": "female",
+        "comments": 196
+      },
+      {
+        "age": "25-34",
+        "gender": "male",
+        "comments": 290
+      },
+      {
+        "age": "25-34",
+        "gender": "unknown",
+        "comments": 3
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "comments": 323
+      },
+      {
+        "age": "35-44",
+        "gender": "male",
+        "comments": 468
+      },
+      {
+        "age": "35-44",
+        "gender": "unknown",
+        "comments": 4
+      },
+      {
+        "age": "45-54",
+        "gender": "female",
+        "comments": 243
+      },
+      {
+        "age": "45-54",
+        "gender": "male",
+        "comments": 321
+      },
+      {
+        "age": "45-54",
+        "gender": "unknown",
+        "comments": 6
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "comments": 91
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "comments": 131
+      },
+      {
+        "age": "65+",
+        "gender": "female",
+        "comments": 25
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "comments": 51
+      },
+      {
+        "age": "65+",
+        "gender": "unknown",
+        "comments": 2
+      }
+    ]
+  },
+  "messaging_analysis": {
+    "cost_per_conversation": {
+      "mean": 1.7286,
+      "median": 1.2725,
+      "p10": 0.3838,
+      "p90": 3.438,
+      "min": 0.0,
+      "max": 17.43
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "avg_cost": 1.6445,
+        "conversations": 111
+      },
+      {
+        "age": "25-34",
+        "avg_cost": 1.7962,
+        "conversations": 165
+      },
+      {
+        "age": "35-44",
+        "avg_cost": 1.7711,
+        "conversations": 179
+      },
+      {
+        "age": "45-54",
+        "avg_cost": 1.8009,
+        "conversations": 152
+      },
+      {
+        "age": "55-64",
+        "avg_cost": 1.6193,
+        "conversations": 126
+      },
+      {
+        "age": "65+",
+        "avg_cost": 1.6749,
+        "conversations": 91
+      },
+      {
+        "age": "Unknown",
+        "avg_cost": 0.0,
+        "conversations": 1
+      }
+    ],
+    "by_gender": [
+      {
+        "gender": "female",
+        "avg_cost": 1.9869,
+        "conversations": 341
+      },
+      {
+        "gender": "male",
+        "avg_cost": 1.6712,
+        "conversations": 420
+      },
+      {
+        "gender": "unknown",
+        "avg_cost": 0.7294,
+        "conversations": 64
+      }
+    ],
+    "cheapest_campaigns": [
+      {
+        "campaign": "PIRAMIDES NUEVA INT 2",
+        "avg_cost_per_conv": 0.1,
+        "total_spend": 0.1,
+        "results": 0
+      },
+      {
+        "campaign": "RACK JUN 2",
+        "avg_cost_per_conv": 0.16,
+        "total_spend": 0.16,
+        "results": 1
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 1",
+        "avg_cost_per_conv": 0.165,
+        "total_spend": 0.33,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDE  JUN 5",
+        "avg_cost_per_conv": 0.1925,
+        "total_spend": 0.92,
+        "results": 5
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA NOVIEMBRE BLACK F 2",
+        "avg_cost_per_conv": 0.1962,
+        "total_spend": 1.12,
+        "results": 6
+      },
+      {
+        "campaign": "PIRAMIDE  JUN 4",
+        "avg_cost_per_conv": 0.218,
+        "total_spend": 1.09,
+        "results": 5
+      },
+      {
+        "campaign": "piramides 2025 1",
+        "avg_cost_per_conv": 0.286,
+        "total_spend": 1.43,
+        "results": 5
+      },
+      {
+        "campaign": "PIRAMIDES 2410",
+        "avg_cost_per_conv": 0.3,
+        "total_spend": 0.3,
+        "results": 1
+      },
+      {
+        "campaign": "RACKS 2 2025",
+        "avg_cost_per_conv": 0.3137,
+        "total_spend": 2.37,
+        "results": 8
+      },
+      {
+        "campaign": "CESTAS 2 FOTOS 2025",
+        "avg_cost_per_conv": 0.337,
+        "total_spend": 1.77,
+        "results": 6
+      }
+    ]
+  },
+  "link_clicks": {
+    "total_link_clicks": 50236,
+    "total_all_clicks": 103077,
+    "link_click_ratio": 48.74,
+    "top_campaigns": [
+      {
+        "campaign": "RACK N3",
+        "clicks": 6990,
+        "cpc": 0.2414,
+        "ctr": 0.5393,
+        "spend": 1667.93
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "clicks": 6796,
+        "cpc": 0.2772,
+        "ctr": 0.4454,
+        "spend": 1651.74
+      },
+      {
+        "campaign": "PIRAMIDE N4",
+        "clicks": 4584,
+        "cpc": 0.3538,
+        "ctr": 0.4509,
+        "spend": 1611.98
+      },
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "clicks": 3309,
+        "cpc": 0.0408,
+        "ctr": 1.7921,
+        "spend": 133.48
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "clicks": 3251,
+        "cpc": 0.4599,
+        "ctr": 0.3408,
+        "spend": 1337.69
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "clicks": 3160,
+        "cpc": 0.4073,
+        "ctr": 0.3069,
+        "spend": 1097.48
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "clicks": 1990,
+        "cpc": 0.0504,
+        "ctr": 1.1582,
+        "spend": 103.16
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA SEPTIEMBRE 5",
+        "clicks": 1786,
+        "cpc": 0.4077,
+        "ctr": 0.3471,
+        "spend": 698.44
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "clicks": 1370,
+        "cpc": 0.0524,
+        "ctr": 1.163,
+        "spend": 73.41
+      },
+      {
+        "campaign": "PASILLO GALA 24",
+        "clicks": 1266,
+        "cpc": 0.4298,
+        "ctr": 0.5818,
+        "spend": 481.31
+      }
+    ],
+    "ctr_by_age": [
+      {
+        "age": "18-24",
+        "ctr": 0.6409
+      },
+      {
+        "age": "25-34",
+        "ctr": 0.4179
+      },
+      {
+        "age": "35-44",
+        "ctr": 0.5033
+      },
+      {
+        "age": "45-54",
+        "ctr": 0.637
+      },
+      {
+        "age": "55-64",
+        "ctr": 0.7906
+      },
+      {
+        "age": "65+",
+        "ctr": 1.3792
+      }
+    ]
+  },
+  "result_type_performance": [
+    {
+      "type": "Link clicks",
+      "spend": 457.85,
+      "results": 9234,
+      "reach": 876440,
+      "impressions": 1188817,
+      "ctr_avg": 1.2048,
+      "cost_per_result": 0.05,
+      "cpm": 0.39,
+      "avg_frequency": 1.29,
+      "campaigns": 9
+    },
+    {
+      "type": "Messaging conversations started",
+      "spend": 9638.81,
+      "results": 8225,
+      "reach": 4646721,
+      "impressions": 8024895,
+      "ctr_avg": 0.7604,
+      "cost_per_result": 1.17,
+      "cpm": 1.2,
+      "avg_frequency": 1.31,
+      "campaigns": 83
+    },
+    {
+      "type": "Meta leads",
+      "spend": 4410.7,
+      "results": 27,
+      "reach": 1725341,
+      "impressions": 3633242,
+      "ctr_avg": 0.9303,
+      "cost_per_result": 163.36,
+      "cpm": 1.21,
+      "avg_frequency": 1.3,
+      "campaigns": 29
+    },
+    {
+      "type": "Phone calls placed",
+      "spend": 20.78,
+      "results": 0,
+      "reach": 30918,
+      "impressions": 38955,
+      "ctr_avg": 1.2762,
+      "cost_per_result": 0,
+      "cpm": 0.53,
+      "avg_frequency": 1.09,
+      "campaigns": 1
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 6331.21,
+      "results": 9607,
+      "reach": 3360864,
+      "ctr_avg": 0.9439,
+      "cost_per_result": 0.66,
+      "cpm": 1.13,
+      "comments": 917,
+      "link_clicks": 24072,
+      "avg_frequency": 1.21
+    },
+    {
+      "gender": "male",
+      "spend": 8032.14,
+      "results": 7751,
+      "reach": 3862887,
+      "ctr_avg": 0.8016,
+      "cost_per_result": 1.04,
+      "cpm": 1.12,
+      "comments": 1330,
+      "link_clicks": 25707,
+      "avg_frequency": 1.25
+    },
+    {
+      "gender": "unknown",
+      "spend": 164.79,
+      "results": 128,
+      "reach": 55669,
+      "ctr_avg": 0.7698,
+      "cost_per_result": 1.29,
+      "cpm": 1.41,
+      "comments": 19,
+      "link_clicks": 457,
+      "avg_frequency": 1.45
+    }
+  ],
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 1206.51,
+      "results": 2548,
+      "reach": 1046011,
+      "ctr_avg": 0.6756,
+      "cost_per_result": 0.47,
+      "cpc": 0.1662,
+      "cpm": 1.1,
+      "comments": 112,
+      "link_clicks": 5720,
+      "avg_frequency": 1.37
+    },
+    {
+      "age": "25-34",
+      "spend": 3750.93,
+      "results": 5089,
+      "reach": 2332446,
+      "ctr_avg": 0.6621,
+      "cost_per_result": 0.74,
+      "cpc": 0.1809,
+      "cpm": 1.2,
+      "comments": 489,
+      "link_clicks": 14574,
+      "avg_frequency": 1.34
+    },
+    {
+      "age": "35-44",
+      "spend": 4185.06,
+      "results": 3951,
+      "reach": 1942463,
+      "ctr_avg": 0.7499,
+      "cost_per_result": 1.06,
+      "cpc": 0.2315,
+      "cpm": 1.68,
+      "comments": 795,
+      "link_clicks": 13166,
+      "avg_frequency": 1.36
+    },
+    {
+      "age": "45-54",
+      "spend": 2976.35,
+      "results": 2656,
+      "reach": 1125058,
+      "ctr_avg": 0.8978,
+      "cost_per_result": 1.12,
+      "cpc": 0.2608,
+      "cpm": 2.08,
+      "comments": 570,
+      "link_clicks": 8738,
+      "avg_frequency": 1.27
+    },
+    {
+      "age": "55-64",
+      "spend": 1648.04,
+      "results": 1796,
+      "reach": 573306,
+      "ctr_avg": 0.9472,
+      "cost_per_result": 0.92,
+      "cpc": 0.3001,
+      "cpm": 2.57,
+      "comments": 222,
+      "link_clicks": 5202,
+      "avg_frequency": 1.32
+    },
+    {
+      "age": "65+",
+      "spend": 761.25,
+      "results": 1446,
+      "reach": 260134,
+      "ctr_avg": 1.1193,
+      "cost_per_result": 0.53,
+      "cpc": 0.3184,
+      "cpm": 3.0,
+      "comments": 78,
+      "link_clicks": 2836,
+      "avg_frequency": 1.18
+    },
+    {
+      "age": "Unknown",
+      "spend": 0.0,
+      "results": 0,
+      "reach": 2,
+      "ctr_avg": 0.0,
+      "cost_per_result": 0,
+      "cpc": 0,
+      "cpm": 0.0,
+      "comments": 0,
+      "link_clicks": 0,
+      "avg_frequency": 0.17
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "Amount spent (USD)",
+      "var_b": "Results",
+      "pearson_r": 0.4346,
+      "p_value": 0.0,
+      "significant": "True",
+      "n": 722
+    },
+    {
+      "var_a": "Amount spent (USD)",
+      "var_b": "CTR (all)",
+      "pearson_r": 0.002,
+      "p_value": 0.926969,
+      "significant": "False",
+      "n": 2196
+    },
+    {
+      "var_a": "Frequency",
+      "var_b": "CTR (all)",
+      "pearson_r": 0.0081,
+      "p_value": 0.703804,
+      "significant": "False",
+      "n": 2196
+    },
+    {
+      "var_a": "Frequency",
+      "var_b": "Results",
+      "pearson_r": 0.1976,
+      "p_value": 0.0,
+      "significant": "True",
+      "n": 722
+    },
+    {
+      "var_a": "Reach",
+      "var_b": "Results",
+      "pearson_r": 0.5894,
+      "p_value": 0.0,
+      "significant": "True",
+      "n": 722
+    },
+    {
+      "var_a": "CPM (cost per 1,000 impressions)",
+      "var_b": "CTR (all)",
+      "pearson_r": 0.052,
+      "p_value": 0.014867,
+      "significant": "True",
+      "n": 2196
+    },
+    {
+      "var_a": "Impressions",
+      "var_b": "Post comments",
+      "pearson_r": 0.7696,
+      "p_value": 0.0,
+      "significant": "True",
+      "n": 345
+    }
+  ],
+  "full_campaign_ranking": [
+    {
+      "campaign": "RACK N3",
+      "spend": 1668.96,
+      "results": 27,
+      "reach": 668546,
+      "impressions": 1541532,
+      "ctr": 0.9111,
+      "frequency": 2.14,
+      "clicks": 14544,
+      "link_clicks": 6990,
+      "comments": 610,
+      "cost_per_result": 61.81,
+      "cpm": 1.08,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES TITULO ABAJO 2025",
+      "spend": 1651.74,
+      "results": 1741,
+      "reach": 784256,
+      "impressions": 1719834,
+      "ctr": 1.0209,
+      "frequency": 2.58,
+      "clicks": 15506,
+      "link_clicks": 6796,
+      "comments": 208,
+      "cost_per_result": 0.95,
+      "cpm": 0.96,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE N4",
+      "spend": 1611.98,
+      "results": 0,
+      "reach": 513408,
+      "impressions": 1268444,
+      "ctr": 0.8315,
+      "frequency": 2.32,
+      "clicks": 9801,
+      "link_clicks": 4584,
+      "comments": 218,
+      "cost_per_result": 0,
+      "cpm": 1.27,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACKS 2025 NUEVO MODELO",
+      "spend": 1337.69,
+      "results": 1488,
+      "reach": 562608,
+      "impressions": 1121009,
+      "ctr": 0.9739,
+      "frequency": 1.92,
+      "clicks": 9159,
+      "link_clicks": 3251,
+      "comments": 191,
+      "cost_per_result": 0.9,
+      "cpm": 1.19,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVAS FOTOS",
+      "spend": 1097.95,
+      "results": 875,
+      "reach": 546560,
+      "impressions": 1139567,
+      "ctr": 0.577,
+      "frequency": 1.92,
+      "clicks": 6472,
+      "link_clicks": 3160,
+      "comments": 111,
+      "cost_per_result": 1.25,
+      "cpm": 0.96,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES OFERTA SEPTIEMBRE 5",
+      "spend": 699.19,
+      "results": 1032,
+      "reach": 307456,
+      "impressions": 578337,
+      "ctr": 0.7986,
+      "frequency": 1.82,
+      "clicks": 4532,
+      "link_clicks": 1786,
+      "comments": 117,
+      "cost_per_result": 0.68,
+      "cpm": 1.21,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PASILLO GALA 24",
+      "spend": 481.64,
+      "results": 0,
+      "reach": 159296,
+      "impressions": 329730,
+      "ctr": 0.9562,
+      "frequency": 2.03,
+      "clicks": 2406,
+      "link_clicks": 1266,
+      "comments": 40,
+      "cost_per_result": 0,
+      "cpm": 1.46,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PANADEROS CHARCUTEROS MODELO NUEVO  1",
+      "spend": 454.74,
+      "results": 344,
+      "reach": 155840,
+      "impressions": 325447,
+      "ctr": 0.759,
+      "frequency": 2.47,
+      "clicks": 2673,
+      "link_clicks": 1261,
+      "comments": 52,
+      "cost_per_result": 1.32,
+      "cpm": 1.4,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK MODELO NUEVO 2",
+      "spend": 430.46,
+      "results": 363,
+      "reach": 212928,
+      "impressions": 382926,
+      "ctr": 0.699,
+      "frequency": 1.8,
+      "clicks": 2398,
+      "link_clicks": 1230,
+      "comments": 89,
+      "cost_per_result": 1.19,
+      "cpm": 1.12,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "REEL PIRAMIDE HUMANO 1",
+      "spend": 380.64,
+      "results": 377,
+      "reach": 151712,
+      "impressions": 272461,
+      "ctr": 1.1986,
+      "frequency": 1.95,
+      "clicks": 2887,
+      "link_clicks": 803,
+      "comments": 109,
+      "cost_per_result": 1.01,
+      "cpm": 1.4,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 3 2025B",
+      "spend": 311.4,
+      "results": 269,
+      "reach": 154720,
+      "impressions": 221174,
+      "ctr": 0.9848,
+      "frequency": 1.3,
+      "clicks": 1928,
+      "link_clicks": 818,
+      "comments": 33,
+      "cost_per_result": 1.16,
+      "cpm": 1.41,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK 2410",
+      "spend": 261.77,
+      "results": 152,
+      "reach": 95744,
+      "impressions": 132010,
+      "ctr": 0.9748,
+      "frequency": 1.37,
+      "clicks": 1033,
+      "link_clicks": 390,
+      "comments": 62,
+      "cost_per_result": 1.72,
+      "cpm": 1.98,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "CARRITOS Y CESTAS 1",
+      "spend": 194.42,
+      "results": 116,
+      "reach": 112224,
+      "impressions": 146939,
+      "ctr": 0.7935,
+      "frequency": 1.43,
+      "clicks": 1013,
+      "link_clicks": 496,
+      "comments": 36,
+      "cost_per_result": 1.68,
+      "cpm": 1.32,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVOS MODELOS 1",
+      "spend": 193.07,
+      "results": 129,
+      "reach": 90803,
+      "impressions": 154921,
+      "ctr": 0.8303,
+      "frequency": 1.83,
+      "clicks": 1010,
+      "link_clicks": 490,
+      "comments": 35,
+      "cost_per_result": 1.5,
+      "cpm": 1.25,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "Nueva campaña de Interacción",
+      "spend": 186.64,
+      "results": 97,
+      "reach": 112395,
+      "impressions": 151223,
+      "ctr": 0.708,
+      "frequency": 1.25,
+      "clicks": 961,
+      "link_clicks": 456,
+      "comments": 21,
+      "cost_per_result": 1.92,
+      "cpm": 1.23,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK JUN 1.1",
+      "spend": 171.07,
+      "results": 80,
+      "reach": 129440,
+      "impressions": 173848,
+      "ctr": 0.6477,
+      "frequency": 1.54,
+      "clicks": 749,
+      "link_clicks": 380,
+      "comments": 10,
+      "cost_per_result": 2.14,
+      "cpm": 0.98,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 2 TITULO ABAJO",
+      "spend": 168.34,
+      "results": 77,
+      "reach": 117424,
+      "impressions": 133904,
+      "ctr": 0.6396,
+      "frequency": 1.15,
+      "clicks": 794,
+      "link_clicks": 382,
+      "comments": 9,
+      "cost_per_result": 2.19,
+      "cpm": 1.26,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE NUEVO MODELO",
+      "spend": 138.28,
+      "results": 64,
+      "reach": 69312,
+      "impressions": 96319,
+      "ctr": 0.4287,
+      "frequency": 1.51,
+      "clicks": 557,
+      "link_clicks": 254,
+      "comments": 11,
+      "cost_per_result": 2.16,
+      "cpm": 1.44,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES REEL 2 HUMANO",
+      "spend": 133.56,
+      "results": 3309,
+      "reach": 169248,
+      "impressions": 258592,
+      "ctr": 1.7386,
+      "frequency": 1.46,
+      "clicks": 3414,
+      "link_clicks": 3309,
+      "comments": 0,
+      "cost_per_result": 0.04,
+      "cpm": 0.52,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "PIRAMIDE  JUN 2",
+      "spend": 123.08,
+      "results": 91,
+      "reach": 68344,
+      "impressions": 87831,
+      "ctr": 0.8118,
+      "frequency": 1.34,
+      "clicks": 687,
+      "link_clicks": 278,
+      "comments": 14,
+      "cost_per_result": 1.35,
+      "cpm": 1.4,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 2424 PREMIUM",
+      "spend": 114.88,
+      "results": 65,
+      "reach": 59904,
+      "impressions": 85767,
+      "ctr": 0.8088,
+      "frequency": 1.42,
+      "clicks": 698,
+      "link_clicks": 314,
+      "comments": 10,
+      "cost_per_result": 1.77,
+      "cpm": 1.34,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK VIDEO REEL TRAFICO REY",
+      "spend": 103.4,
+      "results": 1990,
+      "reach": 214400,
+      "impressions": 328810,
+      "ctr": 1.2244,
+      "frequency": 1.42,
+      "clicks": 2177,
+      "link_clicks": 1990,
+      "comments": 0,
+      "cost_per_result": 0.05,
+      "cpm": 0.31,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "SIERRA BOIA 1",
+      "spend": 85.35,
+      "results": 0,
+      "reach": 53570,
+      "impressions": 68006,
+      "ctr": 1.1233,
+      "frequency": 1.13,
+      "clicks": 543,
+      "link_clicks": 280,
+      "comments": 32,
+      "cost_per_result": 0,
+      "cpm": 1.26,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES ROJO 1",
+      "spend": 84.9,
+      "results": 40,
+      "reach": 28835,
+      "impressions": 35047,
+      "ctr": 0.6123,
+      "frequency": 1.17,
+      "clicks": 240,
+      "link_clicks": 85,
+      "comments": 8,
+      "cost_per_result": 2.12,
+      "cpm": 2.42,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "MARKET Y ALMACEN VILLA MACHIQUES Y VILLA DEL ROSARIO",
+      "spend": 80.2,
+      "results": 0,
+      "reach": 29639,
+      "impressions": 76458,
+      "ctr": 0.5332,
+      "frequency": 2.57,
+      "clicks": 431,
+      "link_clicks": 296,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 1.05,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "MUEBLE GLUTEN NUEVO MODELO",
+      "spend": 80.12,
+      "results": 57,
+      "reach": 30496,
+      "impressions": 46059,
+      "ctr": 1.329,
+      "frequency": 1.49,
+      "clicks": 629,
+      "link_clicks": 232,
+      "comments": 14,
+      "cost_per_result": 1.41,
+      "cpm": 1.74,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "MOSTRADOR N1",
+      "spend": 79.89,
+      "results": 0,
+      "reach": 57588,
+      "impressions": 73609,
+      "ctr": 2.2577,
+      "frequency": 1.36,
+      "clicks": 1273,
+      "link_clicks": 402,
+      "comments": 75,
+      "cost_per_result": 0,
+      "cpm": 1.09,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES 23 CARRETE",
+      "spend": 79.6,
+      "results": 42,
+      "reach": 44880,
+      "impressions": 55990,
+      "ctr": 0.8548,
+      "frequency": 1.37,
+      "clicks": 420,
+      "link_clicks": 171,
+      "comments": 9,
+      "cost_per_result": 1.9,
+      "cpm": 1.42,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 21",
+      "spend": 78.58,
+      "results": 63,
+      "reach": 54576,
+      "impressions": 65941,
+      "ctr": 0.8513,
+      "frequency": 1.57,
+      "clicks": 440,
+      "link_clicks": 198,
+      "comments": 1,
+      "cost_per_result": 1.25,
+      "cpm": 1.19,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES PROMOCION 2",
+      "spend": 78.3,
+      "results": 53,
+      "reach": 24050,
+      "impressions": 32588,
+      "ctr": 1.0737,
+      "frequency": 1.37,
+      "clicks": 348,
+      "link_clicks": 154,
+      "comments": 20,
+      "cost_per_result": 1.48,
+      "cpm": 2.4,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS 1 2025",
+      "spend": 73.58,
+      "results": 83,
+      "reach": 43701,
+      "impressions": 52421,
+      "ctr": 0.8044,
+      "frequency": 1.32,
+      "clicks": 483,
+      "link_clicks": 184,
+      "comments": 7,
+      "cost_per_result": 0.89,
+      "cpm": 1.4,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES REEL PLUS",
+      "spend": 73.41,
+      "results": 1370,
+      "reach": 149952,
+      "impressions": 201674,
+      "ctr": 1.3951,
+      "frequency": 1.53,
+      "clicks": 1501,
+      "link_clicks": 1370,
+      "comments": 0,
+      "cost_per_result": 0.05,
+      "cpm": 0.36,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "RACK JUN 1",
+      "spend": 70.05,
+      "results": 23,
+      "reach": 63960,
+      "impressions": 72967,
+      "ctr": 0.5278,
+      "frequency": 1.8,
+      "clicks": 296,
+      "link_clicks": 150,
+      "comments": 4,
+      "cost_per_result": 3.05,
+      "cpm": 0.96,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 22 CARRETE",
+      "spend": 69.46,
+      "results": 20,
+      "reach": 39547,
+      "impressions": 50347,
+      "ctr": 0.7938,
+      "frequency": 1.18,
+      "clicks": 274,
+      "link_clicks": 156,
+      "comments": 7,
+      "cost_per_result": 3.47,
+      "cpm": 1.38,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE N1",
+      "spend": 64.94,
+      "results": 0,
+      "reach": 38475,
+      "impressions": 41751,
+      "ctr": 0.6529,
+      "frequency": 1.01,
+      "clicks": 297,
+      "link_clicks": 148,
+      "comments": 4,
+      "cost_per_result": 0,
+      "cpm": 1.56,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES PROMO PORTA PRECIOS",
+      "spend": 64.03,
+      "results": 31,
+      "reach": 13359,
+      "impressions": 17222,
+      "ctr": 1.0282,
+      "frequency": 1.28,
+      "clicks": 185,
+      "link_clicks": 76,
+      "comments": 0,
+      "cost_per_result": 2.07,
+      "cpm": 3.72,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES JULIO 1",
+      "spend": 62.83,
+      "results": 29,
+      "reach": 30278,
+      "impressions": 37114,
+      "ctr": 1.3757,
+      "frequency": 1.19,
+      "clicks": 278,
+      "link_clicks": 101,
+      "comments": 0,
+      "cost_per_result": 2.17,
+      "cpm": 1.69,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "CHECK OUT OFERTA SEPTIEMBRE",
+      "spend": 62.74,
+      "results": 29,
+      "reach": 46670,
+      "impressions": 54441,
+      "ctr": 0.4934,
+      "frequency": 1.47,
+      "clicks": 291,
+      "link_clicks": 132,
+      "comments": 5,
+      "cost_per_result": 2.16,
+      "cpm": 1.15,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK VIDEO MENSAJES PLUS",
+      "spend": 52.43,
+      "results": 19,
+      "reach": 13318,
+      "impressions": 14991,
+      "ctr": 0.827,
+      "frequency": 1.37,
+      "clicks": 94,
+      "link_clicks": 43,
+      "comments": 0,
+      "cost_per_result": 2.76,
+      "cpm": 3.5,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS REELS 24",
+      "spend": 51.35,
+      "results": 925,
+      "reach": 103279,
+      "impressions": 131938,
+      "ctr": 1.3436,
+      "frequency": 1.3,
+      "clicks": 1026,
+      "link_clicks": 925,
+      "comments": 0,
+      "cost_per_result": 0.06,
+      "cpm": 0.39,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "PIRAMIDE  JUN 3",
+      "spend": 50.41,
+      "results": 20,
+      "reach": 32544,
+      "impressions": 37184,
+      "ctr": 0.9116,
+      "frequency": 1.33,
+      "clicks": 255,
+      "link_clicks": 137,
+      "comments": 0,
+      "cost_per_result": 2.52,
+      "cpm": 1.36,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK BLANCO 1",
+      "spend": 49.99,
+      "results": 4,
+      "reach": 21924,
+      "impressions": 24522,
+      "ctr": 0.9206,
+      "frequency": 1.18,
+      "clicks": 120,
+      "link_clicks": 55,
+      "comments": 0,
+      "cost_per_result": 12.5,
+      "cpm": 2.04,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA ESPARTA MARGARITA",
+      "spend": 43.54,
+      "results": 9,
+      "reach": 25579,
+      "impressions": 38104,
+      "ctr": 0.3781,
+      "frequency": 1.49,
+      "clicks": 181,
+      "link_clicks": 75,
+      "comments": 0,
+      "cost_per_result": 4.84,
+      "cpm": 1.14,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "MUEBLES DE MADERA A MEDIDA 24",
+      "spend": 42.93,
+      "results": 0,
+      "reach": 26344,
+      "impressions": 34772,
+      "ctr": 1.663,
+      "frequency": 1.51,
+      "clicks": 825,
+      "link_clicks": 247,
+      "comments": 11,
+      "cost_per_result": 0,
+      "cpm": 1.23,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK N 24",
+      "spend": 42.81,
+      "results": 11,
+      "reach": 9862,
+      "impressions": 11520,
+      "ctr": 0.4028,
+      "frequency": 1.23,
+      "clicks": 71,
+      "link_clicks": 34,
+      "comments": 0,
+      "cost_per_result": 3.89,
+      "cpm": 3.72,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "NEVERAS ABIERTAS Y CERRADAS NEVERAMA 2410",
+      "spend": 41.14,
+      "results": 22,
+      "reach": 30383,
+      "impressions": 34420,
+      "ctr": 0.3488,
+      "frequency": 1.15,
+      "clicks": 159,
+      "link_clicks": 81,
+      "comments": 2,
+      "cost_per_result": 1.87,
+      "cpm": 1.2,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 24102",
+      "spend": 40.86,
+      "results": 21,
+      "reach": 21349,
+      "impressions": 24509,
+      "ctr": 0.6675,
+      "frequency": 1.29,
+      "clicks": 188,
+      "link_clicks": 77,
+      "comments": 1,
+      "cost_per_result": 1.95,
+      "cpm": 1.67,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK JULIO 2",
+      "spend": 37.57,
+      "results": 5,
+      "reach": 17878,
+      "impressions": 19361,
+      "ctr": 0.5908,
+      "frequency": 1.46,
+      "clicks": 98,
+      "link_clicks": 47,
+      "comments": 6,
+      "cost_per_result": 7.51,
+      "cpm": 1.94,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES REEL PLUS ULTRA",
+      "spend": 35.6,
+      "results": 617,
+      "reach": 81046,
+      "impressions": 92479,
+      "ctr": 1.1693,
+      "frequency": 1.2,
+      "clicks": 663,
+      "link_clicks": 617,
+      "comments": 0,
+      "cost_per_result": 0.06,
+      "cpm": 0.38,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+      "spend": 34.9,
+      "results": 0,
+      "reach": 18932,
+      "impressions": 21911,
+      "ctr": 3.683,
+      "frequency": 1.16,
+      "clicks": 757,
+      "link_clicks": 227,
+      "comments": 10,
+      "cost_per_result": 0,
+      "cpm": 1.59,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "NEVERAS NUEVA ESPARTA MARGARITA",
+      "spend": 34.55,
+      "results": 15,
+      "reach": 22224,
+      "impressions": 33332,
+      "ctr": 0.5902,
+      "frequency": 1.42,
+      "clicks": 166,
+      "link_clicks": 93,
+      "comments": 1,
+      "cost_per_result": 2.3,
+      "cpm": 1.04,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE NUEVOS MD 4",
+      "spend": 32.69,
+      "results": 22,
+      "reach": 17747,
+      "impressions": 21368,
+      "ctr": 0.7593,
+      "frequency": 1.31,
+      "clicks": 176,
+      "link_clicks": 92,
+      "comments": 4,
+      "cost_per_result": 1.49,
+      "cpm": 1.53,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE 2025 2",
+      "spend": 31.87,
+      "results": 26,
+      "reach": 17754,
+      "impressions": 21005,
+      "ctr": 0.5433,
+      "frequency": 1.33,
+      "clicks": 177,
+      "link_clicks": 63,
+      "comments": 0,
+      "cost_per_result": 1.23,
+      "cpm": 1.52,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS NUEVA ESPARTA",
+      "spend": 31.0,
+      "results": 5,
+      "reach": 17855,
+      "impressions": 29112,
+      "ctr": 0.3436,
+      "frequency": 1.56,
+      "clicks": 104,
+      "link_clicks": 49,
+      "comments": 1,
+      "cost_per_result": 6.2,
+      "cpm": 1.06,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES PROMO DOBLE",
+      "spend": 30.83,
+      "results": 16,
+      "reach": 4288,
+      "impressions": 5428,
+      "ctr": 2.1717,
+      "frequency": 1.26,
+      "clicks": 82,
+      "link_clicks": 33,
+      "comments": 0,
+      "cost_per_result": 1.93,
+      "cpm": 5.68,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK 2 24",
+      "spend": 26.99,
+      "results": 3,
+      "reach": 10527,
+      "impressions": 11796,
+      "ctr": 0.3247,
+      "frequency": 1.13,
+      "clicks": 59,
+      "link_clicks": 25,
+      "comments": 1,
+      "cost_per_result": 9.0,
+      "cpm": 2.29,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 4 2025",
+      "spend": 25.47,
+      "results": 16,
+      "reach": 21867,
+      "impressions": 24373,
+      "ctr": 1.9872,
+      "frequency": 1.09,
+      "clicks": 189,
+      "link_clicks": 69,
+      "comments": 1,
+      "cost_per_result": 1.59,
+      "cpm": 1.05,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "NEVERAS ABIERTAS Y CERRADAS NEVERAMA 2410 2",
+      "spend": 24.23,
+      "results": 5,
+      "reach": 19850,
+      "impressions": 21586,
+      "ctr": 0.5468,
+      "frequency": 1.15,
+      "clicks": 99,
+      "link_clicks": 53,
+      "comments": 1,
+      "cost_per_result": 4.85,
+      "cpm": 1.12,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA INT 4",
+      "spend": 23.3,
+      "results": 0,
+      "reach": 13122,
+      "impressions": 14760,
+      "ctr": 0.4136,
+      "frequency": 1.08,
+      "clicks": 98,
+      "link_clicks": 44,
+      "comments": 3,
+      "cost_per_result": 0,
+      "cpm": 1.58,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES Y RACKS 1",
+      "spend": 23.12,
+      "results": 11,
+      "reach": 19275,
+      "impressions": 20594,
+      "ctr": 0.4353,
+      "frequency": 1.09,
+      "clicks": 105,
+      "link_clicks": 51,
+      "comments": 0,
+      "cost_per_result": 2.1,
+      "cpm": 1.12,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES  IA MOD 24",
+      "spend": 22.99,
+      "results": 0,
+      "reach": 14208,
+      "impressions": 15597,
+      "ctr": 0.5153,
+      "frequency": 1.21,
+      "clicks": 122,
+      "link_clicks": 57,
+      "comments": 2,
+      "cost_per_result": 0,
+      "cpm": 1.47,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES JULIO 2",
+      "spend": 22.88,
+      "results": 9,
+      "reach": 13591,
+      "impressions": 14404,
+      "ctr": 0.4772,
+      "frequency": 1.04,
+      "clicks": 89,
+      "link_clicks": 50,
+      "comments": 1,
+      "cost_per_result": 2.54,
+      "cpm": 1.59,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "REEL RACK WHATSSAP 2 TRAFICO",
+      "spend": 20.78,
+      "results": 0,
+      "reach": 30918,
+      "impressions": 38955,
+      "ctr": 1.2762,
+      "frequency": 1.09,
+      "clicks": 295,
+      "link_clicks": 65,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 0.53,
+      "result_type": "Phone calls placed"
+    },
+    {
+      "campaign": "PIRAMIDE NUEVOS MD 3",
+      "spend": 20.72,
+      "results": 6,
+      "reach": 15441,
+      "impressions": 16425,
+      "ctr": 0.5173,
+      "frequency": 1.09,
+      "clicks": 76,
+      "link_clicks": 41,
+      "comments": 1,
+      "cost_per_result": 3.45,
+      "cpm": 1.26,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS REELS A",
+      "spend": 19.96,
+      "results": 2,
+      "reach": 2995,
+      "impressions": 3298,
+      "ctr": 0.4114,
+      "frequency": 1.08,
+      "clicks": 19,
+      "link_clicks": 6,
+      "comments": 0,
+      "cost_per_result": 9.98,
+      "cpm": 6.05,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 24 CARRETE",
+      "spend": 19.75,
+      "results": 6,
+      "reach": 11484,
+      "impressions": 12777,
+      "ctr": 1.3948,
+      "frequency": 1.29,
+      "clicks": 92,
+      "link_clicks": 46,
+      "comments": 5,
+      "cost_per_result": 3.29,
+      "cpm": 1.55,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA INT 3",
+      "spend": 19.1,
+      "results": 0,
+      "reach": 10676,
+      "impressions": 12561,
+      "ctr": 0.8252,
+      "frequency": 1.18,
+      "clicks": 105,
+      "link_clicks": 53,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.52,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVOS MD 2",
+      "spend": 18.75,
+      "results": 10,
+      "reach": 13421,
+      "impressions": 15945,
+      "ctr": 0.3651,
+      "frequency": 1.28,
+      "clicks": 80,
+      "link_clicks": 34,
+      "comments": 4,
+      "cost_per_result": 1.88,
+      "cpm": 1.18,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES TITULO ABAJO MOD NUEVO 1",
+      "spend": 17.51,
+      "results": 0,
+      "reach": 15804,
+      "impressions": 18690,
+      "ctr": 2.1837,
+      "frequency": 1.33,
+      "clicks": 243,
+      "link_clicks": 112,
+      "comments": 4,
+      "cost_per_result": 0,
+      "cpm": 0.94,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK REEL MENSAJES DIRECT",
+      "spend": 17.5,
+      "results": 7,
+      "reach": 11782,
+      "impressions": 13008,
+      "ctr": 0.7742,
+      "frequency": 1.4,
+      "clicks": 50,
+      "link_clicks": 18,
+      "comments": 0,
+      "cost_per_result": 2.5,
+      "cpm": 1.35,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK REEL WHATSSAP TRAFICO 3",
+      "spend": 17.23,
+      "results": 197,
+      "reach": 35296,
+      "impressions": 39160,
+      "ctr": 0.7234,
+      "frequency": 1.17,
+      "clicks": 242,
+      "link_clicks": 197,
+      "comments": 0,
+      "cost_per_result": 0.09,
+      "cpm": 0.44,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVOS MD 1",
+      "spend": 15.93,
+      "results": 13,
+      "reach": 11429,
+      "impressions": 13218,
+      "ctr": 0.5886,
+      "frequency": 1.2,
+      "clicks": 83,
+      "link_clicks": 45,
+      "comments": 5,
+      "cost_per_result": 1.23,
+      "cpm": 1.21,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "ESTANTES ULTRA 1",
+      "spend": 15.36,
+      "results": 0,
+      "reach": 9551,
+      "impressions": 11099,
+      "ctr": 1.9973,
+      "frequency": 1.17,
+      "clicks": 105,
+      "link_clicks": 43,
+      "comments": 2,
+      "cost_per_result": 0,
+      "cpm": 1.38,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES IA MOD 1",
+      "spend": 15.24,
+      "results": 296,
+      "reach": 37646,
+      "impressions": 42203,
+      "ctr": 0.9144,
+      "frequency": 1.3,
+      "clicks": 327,
+      "link_clicks": 296,
+      "comments": 0,
+      "cost_per_result": 0.05,
+      "cpm": 0.36,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "RACKS ALT 2",
+      "spend": 15.01,
+      "results": 0,
+      "reach": 8940,
+      "impressions": 10401,
+      "ctr": 0.5885,
+      "frequency": 1.1,
+      "clicks": 72,
+      "link_clicks": 32,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 1.44,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACKS ALMACEN NUEVO 1",
+      "spend": 14.65,
+      "results": 3,
+      "reach": 4472,
+      "impressions": 5050,
+      "ctr": 0.4777,
+      "frequency": 1.14,
+      "clicks": 40,
+      "link_clicks": 11,
+      "comments": 0,
+      "cost_per_result": 4.88,
+      "cpm": 2.9,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES COMBO TRÁFICO",
+      "spend": 14.33,
+      "results": 328,
+      "reach": 40437,
+      "impressions": 43000,
+      "ctr": 1.2509,
+      "frequency": 1.19,
+      "clicks": 395,
+      "link_clicks": 328,
+      "comments": 0,
+      "cost_per_result": 0.04,
+      "cpm": 0.33,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "RACKS TENDENCIA 1",
+      "spend": 13.89,
+      "results": 0,
+      "reach": 8233,
+      "impressions": 9263,
+      "ctr": 1.1494,
+      "frequency": 1.15,
+      "clicks": 73,
+      "link_clicks": 32,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.5,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK 2424 REEL",
+      "spend": 13.73,
+      "results": 202,
+      "reach": 45136,
+      "impressions": 50961,
+      "ctr": 1.084,
+      "frequency": 1.08,
+      "clicks": 222,
+      "link_clicks": 202,
+      "comments": 0,
+      "cost_per_result": 0.07,
+      "cpm": 0.27,
+      "result_type": "Link clicks"
+    },
+    {
+      "campaign": "PIRAMIDES Y CHECK OUTS",
+      "spend": 13.68,
+      "results": 13,
+      "reach": 6444,
+      "impressions": 7897,
+      "ctr": 0.8645,
+      "frequency": 1.09,
+      "clicks": 121,
+      "link_clicks": 45,
+      "comments": 5,
+      "cost_per_result": 1.05,
+      "cpm": 1.73,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK NUEVO 1",
+      "spend": 13.59,
+      "results": 4,
+      "reach": 4726,
+      "impressions": 5218,
+      "ctr": 0.3174,
+      "frequency": 1.09,
+      "clicks": 29,
+      "link_clicks": 11,
+      "comments": 0,
+      "cost_per_result": 3.4,
+      "cpm": 2.6,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK MODELO NUEVO 2 2025",
+      "spend": 13.31,
+      "results": 11,
+      "reach": 6436,
+      "impressions": 7884,
+      "ctr": 1.6932,
+      "frequency": 1.36,
+      "clicks": 93,
+      "link_clicks": 32,
+      "comments": 3,
+      "cost_per_result": 1.21,
+      "cpm": 1.69,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUNU1",
+      "spend": 12.8,
+      "results": 0,
+      "reach": 9927,
+      "impressions": 10511,
+      "ctr": 0.4994,
+      "frequency": 1.06,
+      "clicks": 56,
+      "link_clicks": 28,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 1.22,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK NEW AGE 1",
+      "spend": 12.25,
+      "results": 0,
+      "reach": 8759,
+      "impressions": 9256,
+      "ctr": 1.134,
+      "frequency": 1.26,
+      "clicks": 45,
+      "link_clicks": 28,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.32,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK JUN 3",
+      "spend": 10.67,
+      "results": 4,
+      "reach": 10935,
+      "impressions": 11585,
+      "ctr": 0.2425,
+      "frequency": 1.26,
+      "clicks": 44,
+      "link_clicks": 30,
+      "comments": 0,
+      "cost_per_result": 2.67,
+      "cpm": 0.92,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES N2",
+      "spend": 10.34,
+      "results": 0,
+      "reach": 8177,
+      "impressions": 8459,
+      "ctr": 0.3397,
+      "frequency": 0.99,
+      "clicks": 36,
+      "link_clicks": 15,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.22,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES IA MOD 2",
+      "spend": 10.11,
+      "results": 0,
+      "reach": 1779,
+      "impressions": 1799,
+      "ctr": 0.3497,
+      "frequency": 1.01,
+      "clicks": 8,
+      "link_clicks": 6,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 5.62,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDE 4 PATROCINIO",
+      "spend": 10.11,
+      "results": 14,
+      "reach": 10204,
+      "impressions": 11517,
+      "ctr": 0.906,
+      "frequency": 1.08,
+      "clicks": 173,
+      "link_clicks": 90,
+      "comments": 3,
+      "cost_per_result": 0.72,
+      "cpm": 0.88,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 3",
+      "spend": 9.95,
+      "results": 7,
+      "reach": 5439,
+      "impressions": 6286,
+      "ctr": 0.6351,
+      "frequency": 1.22,
+      "clicks": 52,
+      "link_clicks": 26,
+      "comments": 1,
+      "cost_per_result": 1.42,
+      "cpm": 1.58,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE MODELO NUEVO CARRETE",
+      "spend": 9.62,
+      "results": 5,
+      "reach": 2731,
+      "impressions": 3111,
+      "ctr": 0.5876,
+      "frequency": 1.11,
+      "clicks": 30,
+      "link_clicks": 12,
+      "comments": 4,
+      "cost_per_result": 1.92,
+      "cpm": 3.09,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK 24 SEGMENTADO 1",
+      "spend": 9.23,
+      "results": 2,
+      "reach": 3848,
+      "impressions": 4309,
+      "ctr": 1.2123,
+      "frequency": 1.16,
+      "clicks": 38,
+      "link_clicks": 16,
+      "comments": 0,
+      "cost_per_result": 4.62,
+      "cpm": 2.14,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES N3",
+      "spend": 9.03,
+      "results": 0,
+      "reach": 7663,
+      "impressions": 7933,
+      "ctr": 0.3329,
+      "frequency": 1.07,
+      "clicks": 50,
+      "link_clicks": 19,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.14,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACKS MODELO NUEVO 11",
+      "spend": 8.86,
+      "results": 2,
+      "reach": 5201,
+      "impressions": 5641,
+      "ctr": 0.2458,
+      "frequency": 1.07,
+      "clicks": 22,
+      "link_clicks": 6,
+      "comments": 1,
+      "cost_per_result": 4.43,
+      "cpm": 1.57,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE FOTOS CARRETE",
+      "spend": 7.68,
+      "results": 1,
+      "reach": 3606,
+      "impressions": 3935,
+      "ctr": 0.8558,
+      "frequency": 1.13,
+      "clicks": 40,
+      "link_clicks": 22,
+      "comments": 0,
+      "cost_per_result": 7.68,
+      "cpm": 1.95,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS MODELO NUEVO 12",
+      "spend": 7.57,
+      "results": 2,
+      "reach": 2142,
+      "impressions": 2456,
+      "ctr": 0.5923,
+      "frequency": 1.12,
+      "clicks": 21,
+      "link_clicks": 12,
+      "comments": 1,
+      "cost_per_result": 3.79,
+      "cpm": 3.08,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA INT 5",
+      "spend": 7.38,
+      "results": 0,
+      "reach": 5047,
+      "impressions": 5496,
+      "ctr": 0.3361,
+      "frequency": 1.26,
+      "clicks": 30,
+      "link_clicks": 17,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.34,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK TENDENCIA 2",
+      "spend": 7.23,
+      "results": 0,
+      "reach": 4872,
+      "impressions": 5153,
+      "ctr": 0.9349,
+      "frequency": 1.04,
+      "clicks": 38,
+      "link_clicks": 18,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.4,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES NUNU2",
+      "spend": 7.13,
+      "results": 0,
+      "reach": 4493,
+      "impressions": 4681,
+      "ctr": 0.3729,
+      "frequency": 1.05,
+      "clicks": 19,
+      "link_clicks": 14,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.52,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES 2410",
+      "spend": 6.98,
+      "results": 1,
+      "reach": 2234,
+      "impressions": 2366,
+      "ctr": 0.2503,
+      "frequency": 1.05,
+      "clicks": 12,
+      "link_clicks": 5,
+      "comments": 0,
+      "cost_per_result": 6.98,
+      "cpm": 2.95,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK VALOR 1",
+      "spend": 6.53,
+      "results": 0,
+      "reach": 1724,
+      "impressions": 1893,
+      "ctr": 0.5551,
+      "frequency": 1.14,
+      "clicks": 12,
+      "link_clicks": 8,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 3.45,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES VALOR 1",
+      "spend": 6.37,
+      "results": 0,
+      "reach": 2734,
+      "impressions": 2926,
+      "ctr": 0.2904,
+      "frequency": 1.06,
+      "clicks": 15,
+      "link_clicks": 6,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 2.18,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES LIBRE 25 1",
+      "spend": 6.33,
+      "results": 2,
+      "reach": 3442,
+      "impressions": 3832,
+      "ctr": 0.2957,
+      "frequency": 1.13,
+      "clicks": 14,
+      "link_clicks": 8,
+      "comments": 0,
+      "cost_per_result": 3.17,
+      "cpm": 1.65,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 20",
+      "spend": 5.87,
+      "results": 4,
+      "reach": 6148,
+      "impressions": 6565,
+      "ctr": 0.403,
+      "frequency": 1.15,
+      "clicks": 42,
+      "link_clicks": 18,
+      "comments": 1,
+      "cost_per_result": 1.47,
+      "cpm": 0.89,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE 25 2",
+      "spend": 5.61,
+      "results": 0,
+      "reach": 2055,
+      "impressions": 2250,
+      "ctr": 0.2065,
+      "frequency": 1.1,
+      "clicks": 8,
+      "link_clicks": 3,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 2.49,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES IA MOD 4",
+      "spend": 5.24,
+      "results": 0,
+      "reach": 1808,
+      "impressions": 1869,
+      "ctr": 0.5452,
+      "frequency": 1.02,
+      "clicks": 14,
+      "link_clicks": 8,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 2.8,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA INT 1",
+      "spend": 4.76,
+      "results": 0,
+      "reach": 2972,
+      "impressions": 3135,
+      "ctr": 0.4552,
+      "frequency": 1.03,
+      "clicks": 15,
+      "link_clicks": 8,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.52,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACK LIBRE 25 1",
+      "spend": 4.67,
+      "results": 0,
+      "reach": 856,
+      "impressions": 945,
+      "ctr": 1.302,
+      "frequency": 1.15,
+      "clicks": 5,
+      "link_clicks": 2,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 4.94,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES NUEVA INT 2",
+      "spend": 4.56,
+      "results": 0,
+      "reach": 2825,
+      "impressions": 2928,
+      "ctr": 0.6028,
+      "frequency": 1.03,
+      "clicks": 13,
+      "link_clicks": 9,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 1.56,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "RACKS ALT 1",
+      "spend": 4.45,
+      "results": 0,
+      "reach": 1989,
+      "impressions": 2057,
+      "ctr": 0.2286,
+      "frequency": 1.03,
+      "clicks": 13,
+      "link_clicks": 4,
+      "comments": 1,
+      "cost_per_result": 0,
+      "cpm": 2.16,
+      "result_type": "Meta leads"
+    },
+    {
+      "campaign": "CESTAS 2 FOTOS 2025",
+      "spend": 3.98,
+      "results": 6,
+      "reach": 734,
+      "impressions": 844,
+      "ctr": 1.287,
+      "frequency": 1.11,
+      "clicks": 13,
+      "link_clicks": 6,
+      "comments": 0,
+      "cost_per_result": 0.66,
+      "cpm": 4.72,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACKS 2 2025",
+      "spend": 3.91,
+      "results": 8,
+      "reach": 1395,
+      "impressions": 1566,
+      "ctr": 2.2438,
+      "frequency": 1.11,
+      "clicks": 44,
+      "link_clicks": 13,
+      "comments": 2,
+      "cost_per_result": 0.49,
+      "cpm": 2.5,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE  JUN 1",
+      "spend": 3.35,
+      "results": 1,
+      "reach": 3913,
+      "impressions": 4027,
+      "ctr": 0.4309,
+      "frequency": 1.02,
+      "clicks": 22,
+      "link_clicks": 7,
+      "comments": 0,
+      "cost_per_result": 3.35,
+      "cpm": 0.83,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE  JUN 4",
+      "spend": 2.75,
+      "results": 5,
+      "reach": 3379,
+      "impressions": 3457,
+      "ctr": 0.4474,
+      "frequency": 1.01,
+      "clicks": 24,
+      "link_clicks": 10,
+      "comments": 1,
+      "cost_per_result": 0.55,
+      "cpm": 0.8,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK JUN 4",
+      "spend": 2.58,
+      "results": 0,
+      "reach": 3246,
+      "impressions": 3311,
+      "ctr": 0.4435,
+      "frequency": 1.01,
+      "clicks": 22,
+      "link_clicks": 9,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 0.78,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "piramides 2025 1",
+      "spend": 2.36,
+      "results": 5,
+      "reach": 1247,
+      "impressions": 1419,
+      "ctr": 1.9888,
+      "frequency": 1.09,
+      "clicks": 19,
+      "link_clicks": 11,
+      "comments": 0,
+      "cost_per_result": 0.47,
+      "cpm": 1.66,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES 24 LIBRE",
+      "spend": 2.33,
+      "results": 0,
+      "reach": 1703,
+      "impressions": 1764,
+      "ctr": 0.8169,
+      "frequency": 1.03,
+      "clicks": 9,
+      "link_clicks": 4,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 1.32,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "CARRETE PIRAMIDES 24",
+      "spend": 2.25,
+      "results": 0,
+      "reach": 1015,
+      "impressions": 1070,
+      "ctr": 0.6443,
+      "frequency": 1.03,
+      "clicks": 11,
+      "link_clicks": 8,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 2.1,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDE  JUN 5",
+      "spend": 2.19,
+      "results": 5,
+      "reach": 2273,
+      "impressions": 2329,
+      "ctr": 0.6115,
+      "frequency": 1.02,
+      "clicks": 24,
+      "link_clicks": 7,
+      "comments": 0,
+      "cost_per_result": 0.44,
+      "cpm": 0.94,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK JUN 2",
+      "spend": 1.83,
+      "results": 1,
+      "reach": 2474,
+      "impressions": 2533,
+      "ctr": 0.1509,
+      "frequency": 1.07,
+      "clicks": 5,
+      "link_clicks": 2,
+      "comments": 0,
+      "cost_per_result": 1.83,
+      "cpm": 0.72,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "PIRAMIDES OFERTA NOVIEMBRE BLACK F 2",
+      "spend": 1.75,
+      "results": 6,
+      "reach": 1112,
+      "impressions": 1169,
+      "ctr": 0.9997,
+      "frequency": 1.06,
+      "clicks": 20,
+      "link_clicks": 6,
+      "comments": 0,
+      "cost_per_result": 0.29,
+      "cpm": 1.5,
+      "result_type": "Messaging conversations started"
+    },
+    {
+      "campaign": "RACK NUEVO MODELO",
+      "spend": 1.18,
+      "results": 0,
+      "reach": 1162,
+      "impressions": 1187,
+      "ctr": 0.5024,
+      "frequency": 1.08,
+      "clicks": 6,
+      "link_clicks": 3,
+      "comments": 0,
+      "cost_per_result": 0,
+      "cpm": 0.99,
+      "result_type": "Messaging conversations started"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "romo",
+    "name": "Romo",
+    "hasConclusions": true,
+    "hasConversations": true,
+    "files": [
+      "advanced_analysis.json",
+      "analysis_results.json",
+      "creative_analysis.json",
+      "deep_analysis.json"
+    ],
+    "pdfFile": "Informe_Ejecutivo_arizon_Romo.pdf"
+  },
+  {
+    "id": "veoyoca",
+    "name": "Veoyoca",
+    "hasConclusions": true,
+    "hasConversations": true,
+    "files": [
+      "advanced_analysis.json",
+      "analysis_results.json",
+      "deep_analysis.json"
+    ],
+    "pdfFile": "Informe_Ejecutivo_arizon_Veoyoca.pdf"
+  }
+]

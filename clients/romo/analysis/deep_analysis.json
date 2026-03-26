@@ -1,0 +1,258 @@
+{
+  "video_retention": {
+    "totals": {
+      "video_25": 77735,
+      "video_50": 43119,
+      "video_75": 29536,
+      "video_95": 22925,
+      "video_100": 22075
+    },
+    "retention_rates": {
+      "video_25": 100.0,
+      "video_50": 55.5,
+      "video_75": 38.0,
+      "video_95": 29.5,
+      "video_100": 28.4
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "retention_100": 25.1
+      },
+      {
+        "age": "25-34",
+        "retention_100": 25.1
+      },
+      {
+        "age": "35-44",
+        "retention_100": 26.8
+      },
+      {
+        "age": "45-54",
+        "retention_100": 28.7
+      },
+      {
+        "age": "55-64",
+        "retention_100": 29.5
+      },
+      {
+        "age": "65+",
+        "retention_100": 30.7
+      },
+      {
+        "age": "Unknown",
+        "retention_100": null
+      }
+    ]
+  },
+  "frequency_optimization": {
+    "avg_frequency": 1.27,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5",
+        "spend": 147.25,
+        "results": 400,
+        "cpr": 0.37,
+        "rows": 434
+      },
+      {
+        "bucket": "1.5-2.5",
+        "spend": 213.55,
+        "results": 1374,
+        "cpr": 0.16,
+        "rows": 94
+      },
+      {
+        "bucket": "2.5-4",
+        "spend": 0.05,
+        "results": 0,
+        "cpr": null,
+        "rows": 1
+      }
+    ]
+  },
+  "engagement": {
+    "total_comments": 573,
+    "avg_comments": 1.08,
+    "top_campaigns": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "comments": 573
+      }
+    ]
+  },
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 8.0188,
+      "results": 20.0,
+      "cpr": 0.4009,
+      "cpm": 0.5351,
+      "cpc": 0.0153,
+      "ctr": 1.458,
+      "comments": 9.0,
+      "link_clicks": 275.0
+    },
+    {
+      "age": "25-34",
+      "spend": 33.0394,
+      "results": 170.0,
+      "cpr": 0.1943,
+      "cpm": 0.6521,
+      "cpc": 0.015,
+      "ctr": 2.9206,
+      "comments": 51.0,
+      "link_clicks": 924.0
+    },
+    {
+      "age": "35-44",
+      "spend": 76.3905,
+      "results": 475.0,
+      "cpr": 0.1608,
+      "cpm": 0.617,
+      "cpc": 0.02,
+      "ctr": 2.851,
+      "comments": 195.0,
+      "link_clicks": 1498.0
+    },
+    {
+      "age": "45-54",
+      "spend": 86.9704,
+      "results": 468.0,
+      "cpr": 0.1858,
+      "cpm": 0.8486,
+      "cpc": 0.0248,
+      "ctr": 2.392,
+      "comments": 165.0,
+      "link_clicks": 1899.0
+    },
+    {
+      "age": "55-64",
+      "spend": 74.8375,
+      "results": 318.0,
+      "cpr": 0.2353,
+      "cpm": 1.1611,
+      "cpc": 0.023,
+      "ctr": 3.5537,
+      "comments": 111.0,
+      "link_clicks": 2211.0
+    },
+    {
+      "age": "65+",
+      "spend": 81.5934,
+      "results": 323.0,
+      "cpr": 0.2526,
+      "cpm": 1.3076,
+      "cpc": 0.0211,
+      "ctr": 5.5088,
+      "comments": 42.0,
+      "link_clicks": 3180.0
+    },
+    {
+      "age": "Unknown",
+      "spend": 0.0,
+      "results": 1.0,
+      "cpr": 0.0,
+      "cpm": 0.0,
+      "cpc": 0.0,
+      "ctr": 0.0,
+      "comments": 0.0,
+      "link_clicks": 0.0
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 287.3139,
+      "results": 1407.0,
+      "cpr": 0.2042,
+      "ctr": 3.0917,
+      "comments": 507.0,
+      "link_clicks": 7096.0,
+      "frequency": 1.2567
+    },
+    {
+      "gender": "male",
+      "spend": 70.8362,
+      "results": 358.0,
+      "cpr": 0.1979,
+      "ctr": 3.0335,
+      "comments": 64.0,
+      "link_clicks": 2829.0,
+      "frequency": 1.2578
+    },
+    {
+      "gender": "unknown",
+      "spend": 2.6999,
+      "results": 10.0,
+      "cpr": 0.27,
+      "ctr": 3.3772,
+      "comments": 2.0,
+      "link_clicks": 62.0,
+      "frequency": 1.2953
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "reach",
+      "var_b": "results",
+      "pearson_r": 0.7363,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "impressions",
+      "var_b": "comments",
+      "pearson_r": 0.6204,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "spend",
+      "var_b": "results",
+      "pearson_r": 0.8975,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "results",
+      "pearson_r": 0.4413,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "cpm",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0547,
+      "p_value": 0.20883
+    },
+    {
+      "var_a": "spend",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0004,
+      "p_value": 0.992575
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "ctr_all",
+      "pearson_r": -0.0699,
+      "p_value": 0.107938
+    }
+  ],
+  "campaign_ranking": {
+    "top": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "spend": 360.85,
+        "results": 1775,
+        "cpr": 0.2033,
+        "efficiency": 4.9189
+      }
+    ],
+    "bottom": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "spend": 360.85,
+        "results": 1775,
+        "cpr": 0.2033
+      }
+    ]
+  }
+}

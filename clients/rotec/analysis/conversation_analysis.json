@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "totalMessages": 8306,
+    "uniqueSessions": 1146,
+    "realSessions": 1146,
+    "avgMessagesPerSession": 7.2
+  },
+  "channelDistribution": {
+    "whatsapp": 59,
+    "messenger": 1087,
+    "instagram": 0,
+    "other": 0
+  },
+  "conversationDepth": {
+    "1-2": 514,
+    "3-5": 249,
+    "6-10": 212,
+    "11-20": 105,
+    "20+": 66
+  },
+  "followUp": {
+    "totalSessions": 185,
+    "responded": 107,
+    "noResponse": 78,
+    "responseRate": 57.8,
+    "products": {
+      "Protectores": 91,
+      "Mangueras": 8,
+      "Compresores": 52,
+      "Resistencias": 5,
+      "Motores": 127,
+      "Ventiladores": 33,
+      "Reguladores": 5,
+      "Correas": 2
+    }
+  },
+  "leadCapture": {
+    "withPhone": 298,
+    "withName": 147,
+    "withLocation": 277,
+    "geographicDistribution": {
+      "Carabobo": 34,
+      "Barquisimeto": 21,
+      "Lara": 24,
+      "Acarigua": 4,
+      "Trujillo": 11,
+      "Aragua": 29,
+      "Caracas": 44,
+      "Maracay": 25,
+      "Valencia": 53,
+      "Miranda": 22,
+      "Portuguesa": 3,
+      "Maracaibo": 13,
+      "Zulia": 19,
+      "Tachira": 3,
+      "Bolivar": 15,
+      "Monagas": 4,
+      "Guarenas": 3,
+      "Anzoategui": 5,
+      "Puerto La Cruz": 4,
+      "Margarita": 2,
+      "Barinas": 9,
+      "Yaracuy": 15,
+      "Guatire": 9,
+      "La Victoria": 6,
+      "Cojedes": 2,
+      "Apure": 11,
+      "Merida": 3,
+      "Falcon": 1,
+      "Sucre": 6
+    }
+  },
+  "ariPerformance": {
+    "productFound": 1722,
+    "productNotFound": 87,
+    "pricesGiven": 773,
+    "imageLinksShared": 102,
+    "referredToAdvisor": 2106,
+    "duplicateResponses": 531,
+    "emptyResponses": 65,
+    "resolutionRate": 95.2
+  },
+  "intents": {
+    "Precio/Cotizacion": 494,
+    "Info tecnica/Producto": 435,
+    "Ubicacion/Envio": 456,
+    "Compra directa": 221,
+    "Saludo/Inicial": 247,
+    "Seguimiento (Follow-up prompt)": 185,
+    "Agradecimiento/Despedida": 157,
+    "Reclamo/Queja": 4,
+    "Solicitud de empleo": 19,
+    "Propuesta comercial/B2B": 134,
+    "Patrocinio": 2,
+    "Imagen/Foto": 54,
+    "Metodo de pago": 20,
+    "Disponibilidad": 143
+  },
+  "productsAsked": {
+    "Compresores": 92,
+    "Motores (nevera/refrigerador)": 112,
+    "Protectores de voltaje": 211,
+    "Ventiladores": 18,
+    "Kits/Star Kit": 13,
+    "Mangueras": 5,
+    "Valvulas": 5,
+    "Capacitores": 8,
+    "Llaves": 3,
+    "Termostatos": 5,
+    "Resistencias": 8,
+    "Correas": 9,
+    "Reguladores de gas": 4,
+    "Extractores": 3
+  },
+  "brandsMentioned": {
+    "GE": 125,
+    "LG": 55,
+    "SAMSUNG": 12,
+    "HAIER": 3,
+    "FRIGIDAIRE": 5,
+    "WHIRLPOOL": 3,
+    "MABE": 6,
+    "DAEWOO": 1
+  },
+  "economicValue": {
+    "totalManualHours": 96,
+    "workDays": 11.9,
+    "costEquivalent": 179
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "video_retention": {
+    "totals": {
+      "video_25": 119247,
+      "video_50": 70518,
+      "video_75": 51935,
+      "video_95": 40484,
+      "video_100": 38268
+    },
+    "retention_rates": {
+      "video_25": 100.0,
+      "video_50": 59.1,
+      "video_75": 43.6,
+      "video_95": 33.9,
+      "video_100": 32.1
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "retention_100": 29.3
+      },
+      {
+        "age": "25-34",
+        "retention_100": 25.7
+      },
+      {
+        "age": "35-44",
+        "retention_100": 33.1
+      },
+      {
+        "age": "45-54",
+        "retention_100": 34.3
+      },
+      {
+        "age": "55-64",
+        "retention_100": 35.1
+      },
+      {
+        "age": "65+",
+        "retention_100": 36.3
+      },
+      {
+        "age": "Unknown",
+        "retention_100": 0.0
+      }
+    ]
+  },
+  "frequency_optimization": {
+    "avg_frequency": 1.4,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5",
+        "spend": 872.96,
+        "results": 68449,
+        "cpr": 0.01,
+        "rows": 458
+      },
+      {
+        "bucket": "1.5-2.5",
+        "spend": 731.33,
+        "results": 20129,
+        "cpr": 0.04,
+        "rows": 187
+      },
+      {
+        "bucket": "2.5-4",
+        "spend": 0.2,
+        "results": 4,
+        "cpr": 0.05,
+        "rows": 6
+      }
+    ]
+  },
+  "delivery_status": [
+    {
+      "status": "archived",
+      "spend": 85.33,
+      "results": 57,
+      "campaigns": 3,
+      "cpr": 1.5
+    },
+    {
+      "status": "completed",
+      "spend": 892.33,
+      "results": 36191,
+      "campaigns": 13,
+      "cpr": 0.02
+    },
+    {
+      "status": "inactive",
+      "spend": 616.04,
+      "results": 8402,
+      "campaigns": 12,
+      "cpr": 0.07
+    },
+    {
+      "status": "not_delivering",
+      "spend": 10.79,
+      "results": 43932,
+      "campaigns": 1,
+      "cpr": 0.0
+    }
+  ],
+  "engagement": {
+    "total_comments": 268,
+    "avg_comments": 0.41,
+    "top_campaigns": [
+      {
+        "campaign": "Publicación de Instagram: Hay detalles que solo...",
+        "comments": 65
+      },
+      {
+        "campaign": "Publicación de Instagram: 🚨 ¡Atención Valencia!...",
+        "comments": 37
+      },
+      {
+        "campaign": "Publicación de Instagram: Solo para quienes saben...",
+        "comments": 30
+      },
+      {
+        "campaign": "Publicación de Instagram: Después de años...",
+        "comments": 19
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...",
+        "comments": 17
+      },
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025 2)",
+        "comments": 15
+      },
+      {
+        "campaign": "Publicación de Instagram: DISCOVERY SPORT 2023...",
+        "comments": 13
+      },
+      {
+        "campaign": "Publicación de Instagram: Protección que...",
+        "comments": 9
+      },
+      {
+        "campaign": "CAMPAÑA TRAFICO MENSAJES BRONCO",
+        "comments": 8
+      },
+      {
+        "campaign": "CARRUSEL LAND ROVER",
+        "comments": 8
+      }
+    ]
+  },
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 43.9,
+      "results": 3109.0,
+      "cpr": 0.0141,
+      "cpm": 1.5508,
+      "cpc": 0.0698,
+      "ctr": 1.705,
+      "comments": 0.0,
+      "link_clicks": 406.0
+    },
+    {
+      "age": "25-34",
+      "spend": 245.9,
+      "results": 32512.0,
+      "cpr": 0.0076,
+      "cpm": 2.7652,
+      "cpc": 0.119,
+      "ctr": 1.8637,
+      "comments": 41.0,
+      "link_clicks": 2507.0
+    },
+    {
+      "age": "35-44",
+      "spend": 328.37,
+      "results": 20340.0,
+      "cpr": 0.0161,
+      "cpm": 2.7376,
+      "cpc": 0.1221,
+      "ctr": 1.8842,
+      "comments": 62.0,
+      "link_clicks": 3198.0
+    },
+    {
+      "age": "45-54",
+      "spend": 393.71,
+      "results": 14900.0,
+      "cpr": 0.0264,
+      "cpm": 4.1898,
+      "cpc": 0.1666,
+      "ctr": 2.0286,
+      "comments": 82.0,
+      "link_clicks": 2965.0
+    },
+    {
+      "age": "55-64",
+      "spend": 346.48,
+      "results": 11073.0,
+      "cpr": 0.0313,
+      "cpm": 4.7182,
+      "cpc": 0.2008,
+      "ctr": 2.8334,
+      "comments": 45.0,
+      "link_clicks": 2239.0
+    },
+    {
+      "age": "65+",
+      "spend": 246.1,
+      "results": 6648.0,
+      "cpr": 0.037,
+      "cpm": 5.2752,
+      "cpc": 0.1767,
+      "ctr": 2.8494,
+      "comments": 38.0,
+      "link_clicks": 1312.0
+    },
+    {
+      "age": "Unknown",
+      "spend": 0.03,
+      "results": 0.0,
+      "cpr": null,
+      "cpm": 2.1429,
+      "cpc": 0.0,
+      "ctr": 0.0,
+      "comments": 0.0,
+      "link_clicks": 0.0
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 383.95,
+      "results": 26289.0,
+      "cpr": 0.0146,
+      "ctr": 2.2694,
+      "comments": 90.0,
+      "link_clicks": 2888.0,
+      "frequency": 1.3453
+    },
+    {
+      "gender": "male",
+      "spend": 1208.03,
+      "results": 61811.0,
+      "cpr": 0.0195,
+      "ctr": 2.0416,
+      "comments": 177.0,
+      "link_clicks": 9631.0,
+      "frequency": 1.4453
+    },
+    {
+      "gender": "unknown",
+      "spend": 12.51,
+      "results": 482.0,
+      "cpr": 0.026,
+      "ctr": 2.3522,
+      "comments": 1.0,
+      "link_clicks": 108.0,
+      "frequency": 1.4058
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "reach",
+      "var_b": "results",
+      "pearson_r": 0.7007,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "impressions",
+      "var_b": "comments",
+      "pearson_r": 0.4595,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "spend",
+      "var_b": "results",
+      "pearson_r": 0.1194,
+      "p_value": 0.002273
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "results",
+      "pearson_r": -0.0697,
+      "p_value": 0.075478
+    },
+    {
+      "var_a": "cpm",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0761,
+      "p_value": 0.052336
+    },
+    {
+      "var_a": "spend",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0391,
+      "p_value": 0.318793
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "ctr_all",
+      "pearson_r": -0.0166,
+      "p_value": 0.673224
+    }
+  ],
+  "campaign_ranking": {
+    "top": [
+      {
+        "campaign": "Reel FULL PPF · Multiservicios H4",
+        "spend": 10.79,
+        "results": 43932,
+        "cpr": 0.0002,
+        "efficiency": 4071.5477
+      },
+      {
+        "campaign": "REEL RANGE ROVER",
+        "spend": 49.98,
+        "results": 19223,
+        "cpr": 0.0026,
+        "efficiency": 384.6138
+      },
+      {
+        "campaign": "CAMPAÑA TRAFICO MENSAJES BRONCO",
+        "spend": 43.87,
+        "results": 6029,
+        "cpr": 0.0073,
+        "efficiency": 137.4288
+      },
+      {
+        "campaign": "CAMPAÑA TRAFICO COROLLA",
+        "spend": 49.83,
+        "results": 5261,
+        "cpr": 0.0095,
+        "efficiency": 105.579
+      },
+      {
+        "campaign": "CARRUSEL LAND ROVER",
+        "spend": 49.96,
+        "results": 4944,
+        "cpr": 0.0101,
+        "efficiency": 98.9592
+      },
+      {
+        "campaign": "Publicación de Instagram: Solo para quienes saben...",
+        "spend": 56.93,
+        "results": 2560,
+        "cpr": 0.0222,
+        "efficiency": 44.9675
+      },
+      {
+        "campaign": "Publicación de Instagram: Hay detalles que solo...",
+        "spend": 92.64,
+        "results": 3022,
+        "cpr": 0.0307,
+        "efficiency": 32.6209
+      },
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025)",
+        "spend": 24.68,
+        "results": 487,
+        "cpr": 0.0507,
+        "efficiency": 19.7326
+      },
+      {
+        "campaign": "Publicación de Instagram: Cada aplicación es...",
+        "spend": 53.97,
+        "results": 1045,
+        "cpr": 0.0516,
+        "efficiency": 19.3626
+      },
+      {
+        "campaign": "Publicación de Instagram: Algo extraño empezó a...",
+        "spend": 54.32,
+        "results": 780,
+        "cpr": 0.0696,
+        "efficiency": 14.3594
+      }
+    ],
+    "bottom": [
+      {
+        "campaign": "Publicación de Instagram: Un choque no solo daña...",
+        "spend": 53.0,
+        "results": 70,
+        "cpr": 0.7571
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...",
+        "spend": 226.27,
+        "results": 185,
+        "cpr": 1.2231
+      },
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025 2)",
+        "spend": 109.93,
+        "results": 82,
+        "cpr": 1.3406
+      },
+      {
+        "campaign": "Publicación de Instagram: BRONCO WILDTRAK 2022...",
+        "spend": 49.93,
+        "results": 34,
+        "cpr": 1.4685
+      },
+      {
+        "campaign": "Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...",
+        "spend": 99.77,
+        "results": 64,
+        "cpr": 1.5589
+      },
+      {
+        "campaign": "Publicación de Instagram: LC200 BLINDADA...",
+        "spend": 25.0,
+        "results": 16,
+        "cpr": 1.5625
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...",
+        "spend": 103.47,
+        "results": 49,
+        "cpr": 2.1116
+      },
+      {
+        "campaign": "Publicación de Instagram: DISCOVERY SPORT 2023...",
+        "spend": 121.05,
+        "results": 57,
+        "cpr": 2.1237
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...",
+        "spend": 61.68,
+        "results": 17,
+        "cpr": 3.6282
+      },
+      {
+        "campaign": "Publicación de Instagram: 🔥 Ford Bronco Wildtrak...",
+        "spend": 0.82,
+        "results": 0,
+        "cpr": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+=== UNIQUE CAMPAIGN NAMES + STATS ===
+  [CAMPAÑA TRAFICO COROLLA]  Spend=$49.83  Results=5261  MsgConv=1  Reach=29235
+  [CAMPAÑA TRAFICO MENSAJES BRONCO]  Spend=$43.87  Results=6029  MsgConv=2  Reach=40565
+  [CARRUSEL LAND ROVER]  Spend=$49.96  Results=4944  MsgConv=1  Reach=31085
+  [H4 Autos: Varios (noviembre 2025 2)]  Spend=$109.93  Results=82  MsgConv=82  Reach=18742
+  [H4 Autos: Varios (noviembre 2025)]  Spend=$24.68  Results=487  MsgConv=13  Reach=31513
+  [Publicación de Instagram: Algo extraño empezó a...]  Spend=$54.32  Results=780  MsgConv=1  Reach=25166
+  [Publicación de Instagram: BRONCO WILDTRAK 2022...]  Spend=$49.93  Results=34  MsgConv=34  Reach=6675
+  [Publicación de Instagram: Cada aplicación es...]  Spend=$53.97  Results=1045  MsgConv=8  Reach=33935
+  [Publicación de Instagram: Cuando tu carro...]  Spend=$57.26  Results=321  MsgConv=3  Reach=14061
+  [Publicación de Instagram: DISCOVERY SPORT 2023...]  Spend=$121.05  Results=57  MsgConv=57  Reach=14633
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...]  Spend=$226.27  Results=185  MsgConv=185  Reach=36154
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...]  Spend=$103.47  Results=49  MsgConv=49  Reach=14967
+  [Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...]  Spend=$61.68  Results=17  MsgConv=17  Reach=8044
+  [Publicación de Instagram: Después de años...]  Spend=$49.42  Results=154  MsgConv=154  Reach=9001
+  [Publicación de Instagram: Hay detalles que solo...]  Spend=$92.64  Results=3022  MsgConv=55  Reach=53065
+  [Publicación de Instagram: LC200 BLINDADA...]  Spend=$25.00  Results=16  MsgConv=16  Reach=2409
+  [Publicación de Instagram: Protección que...]  Spend=$35.69  Results=54  MsgConv=54  Reach=5399
+  [Publicación de Instagram: Solo para quienes saben...]  Spend=$56.93  Results=2560  MsgConv=17  Reach=54410
+  [Publicación de Instagram: TOYOTA COROLLA LEVIN...]  Spend=$49.98  Results=69  MsgConv=69  Reach=11708
+  [Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...]  Spend=$99.77  Results=64  MsgConv=64  Reach=9206
+  [Publicación de Instagram: Un choque no solo daña...]  Spend=$53.00  Results=70  MsgConv=70  Reach=10983
+  [Publicación de Instagram: 🔥 Ford Bronco Wildtrak...]  Spend=$0.82  Results=0  MsgConv=0  Reach=257
+  [Publicación de Instagram: 🚨 ¡Atención Valencia!...]  Spend=$74.25  Results=127  MsgConv=127  Reach=17773
+  [REEL RANGE ROVER]  Spend=$49.98  Results=19223  MsgConv=5  Reach=80633
+  [Reel FULL PPF · Multiservicios H4]  Spend=$10.79  Results=43932  MsgConv=0  Reach=64194
+
+=== MESSAGING CONVERSATIONS DETAIL ===
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...]  Msgs=185  Spend=$198.00  CostPerMsg=$1.07  NewContacts=177
+  [Publicación de Instagram: Después de años...]  Msgs=154  Spend=$49.31  CostPerMsg=$0.32  NewContacts=135
+  [Publicación de Instagram: 🚨 ¡Atención Valencia!...]  Msgs=127  Spend=$70.74  CostPerMsg=$0.56  NewContacts=108
+  [H4 Autos: Varios (noviembre 2025 2)]  Msgs=82  Spend=$100.48  CostPerMsg=$1.23  NewContacts=82
+  [Publicación de Instagram: Un choque no solo daña...]  Msgs=70  Spend=$52.38  CostPerMsg=$0.75  NewContacts=62
+  [Publicación de Instagram: TOYOTA COROLLA LEVIN...]  Msgs=69  Spend=$48.79  CostPerMsg=$0.71  NewContacts=68
+  [Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...]  Msgs=64  Spend=$88.04  CostPerMsg=$1.38  NewContacts=61
+  [Publicación de Instagram: DISCOVERY SPORT 2023...]  Msgs=57  Spend=$106.02  CostPerMsg=$1.86  NewContacts=55
+  [Publicación de Instagram: Hay detalles que solo...]  Msgs=55  Spend=$88.50  CostPerMsg=$1.61  NewContacts=53
+  [Publicación de Instagram: Protección que...]  Msgs=54  Spend=$34.70  CostPerMsg=$0.64  NewContacts=48
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...]  Msgs=49  Spend=$82.42  CostPerMsg=$1.68  NewContacts=47
+  [Publicación de Instagram: BRONCO WILDTRAK 2022...]  Msgs=34  Spend=$45.41  CostPerMsg=$1.34  NewContacts=34
+  [Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...]  Msgs=17  Spend=$47.27  CostPerMsg=$2.78  NewContacts=16
+  [Publicación de Instagram: Solo para quienes saben...]  Msgs=17  Spend=$52.64  CostPerMsg=$3.10  NewContacts=16
+  [Publicación de Instagram: LC200 BLINDADA...]  Msgs=16  Spend=$23.60  CostPerMsg=$1.48  NewContacts=13
+  [H4 Autos: Varios (noviembre 2025)]  Msgs=13  Spend=$17.07  CostPerMsg=$1.31  NewContacts=12
+  [Publicación de Instagram: Cada aplicación es...]  Msgs=8  Spend=$32.48  CostPerMsg=$4.06  NewContacts=8
+  [REEL RANGE ROVER]  Msgs=5  Spend=$13.96  CostPerMsg=$2.79  NewContacts=5
+  [Publicación de Instagram: Cuando tu carro...]  Msgs=3  Spend=$14.77  CostPerMsg=$4.92  NewContacts=3
+  [CAMPAÑA TRAFICO MENSAJES BRONCO]  Msgs=2  Spend=$5.29  CostPerMsg=$2.65  NewContacts=2
+  [Publicación de Instagram: Algo extraño empezó a...]  Msgs=1  Spend=$7.19  CostPerMsg=$7.19  NewContacts=0
+  [CAMPAÑA TRAFICO COROLLA]  Msgs=1  Spend=$3.13  CostPerMsg=$3.13  NewContacts=1
+  [CARRUSEL LAND ROVER]  Msgs=1  Spend=$7.02  CostPerMsg=$7.02  NewContacts=1
+
+=== OBJECTIVES ===
+Objective
+MESSAGES              401
+OUTCOME_ENGAGEMENT    165
+LINK_CLICKS            85
+
+=== RESULT TYPES ===
+Result type
+Messaging conversations started    226
+Post engagements                    66
+Instagram profile visits            61
+Link clicks                         40
+ThruPlay                            17
+
+=== VEHICLE IDENTIFICATION ===
+  Branding/Lifestyle:
+    Spend=$844.65  Results=8257  Msgs=613  CostPerMsg=$1.38
+    Reach=265185  Comments=161  LinkClicks=9189  Engagements=131948
+    Campaigns: 11
+      - Publicación de Instagram: Solo para quienes saben...
+      - Publicación de Instagram: Hay detalles que solo...
+      - Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...
+      - Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...
+      - Publicación de Instagram: Cada aplicación es...
+      - Publicación de Instagram: Un choque no solo daña...
+      - Publicación de Instagram: Cuando tu carro...
+      - Publicación de Instagram: Después de años...
+      - Publicación de Instagram: Algo extraño empezó a...
+      - Publicación de Instagram: Protección que...
+      - Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...
+  Range Rover:
+    Spend=$149.75  Results=19287  Msgs=69  CostPerMsg=$2.17
+    Reach=89839  Comments=9  LinkClicks=392  Engagements=60485
+    Campaigns: 2
+      - Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...
+      - REEL RANGE ROVER
+  Multi-vehiculo (Catalogo):
+    Spend=$134.61  Results=569  Msgs=95  CostPerMsg=$1.42
+    Reach=50255  Comments=15  LinkClicks=766  Engagements=7532
+    Campaigns: 2
+      - H4 Autos: Varios (noviembre 2025 2)
+      - H4 Autos: Varios (noviembre 2025)
+  Land Rover Discovery Sport:
+    Spend=$121.05  Results=57  Msgs=57  CostPerMsg=$2.12
+    Reach=14633  Comments=13  LinkClicks=364  Engagements=536
+    Campaigns: 1
+      - Publicación de Instagram: DISCOVERY SPORT 2023...
+  Toyota Corolla Levin:
+    Spend=$99.81  Results=5330  Msgs=70  CostPerMsg=$1.43
+    Reach=40943  Comments=12  LinkClicks=675  Engagements=5711
+    Campaigns: 2
+      - Publicación de Instagram: TOYOTA COROLLA LEVIN...
+      - CAMPAÑA TRAFICO COROLLA
+  Ford Bronco Wildtrak:
+    Spend=$94.62  Results=6063  Msgs=36  CostPerMsg=$2.63
+    Reach=47497  Comments=11  LinkClicks=652  Engagements=6358
+    Campaigns: 3
+      - CAMPAÑA TRAFICO MENSAJES BRONCO
+      - Publicación de Instagram: BRONCO WILDTRAK 2022...
+      - Publicación de Instagram: 🔥 Ford Bronco Wildtrak...
+  Presencia Local Valencia:
+    Spend=$74.25  Results=127  Msgs=127  CostPerMsg=$0.58
+    Reach=17773  Comments=37  LinkClicks=187  Engagements=10134
+    Campaigns: 1
+      - Publicación de Instagram: 🚨 ¡Atención Valencia!...
+  Land Rover Discovery:
+    Spend=$49.96  Results=4944  Msgs=1  CostPerMsg=$49.96
+    Reach=31085  Comments=8  LinkClicks=289  Engagements=4944
+    Campaigns: 1
+      - CARRUSEL LAND ROVER
+  Toyota LC200 Blindada:
+    Spend=$25.00  Results=16  Msgs=16  CostPerMsg=$1.56
+    Reach=2409  Comments=1  LinkClicks=54  Engagements=87
+    Campaigns: 1
+      - Publicación de Instagram: LC200 BLINDADA...
+  Servicio PPF/Detailing:
+    Spend=$10.79  Results=43932  Msgs=0  CostPerMsg=$0.00
+    Reach=64194  Comments=1  LinkClicks=59  Engagements=43932
+    Campaigns: 1
+      - Reel FULL PPF · Multiservicios H4
+
+=== NEW MESSAGING CONTACTS TOTAL ===
+  Total new messaging contacts: 1007
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...]  NewContacts=177
+  [Publicación de Instagram: Después de años...]  NewContacts=135
+  [Publicación de Instagram: 🚨 ¡Atención Valencia!...]  NewContacts=108
+  [H4 Autos: Varios (noviembre 2025 2)]  NewContacts=82
+  [Publicación de Instagram: TOYOTA COROLLA LEVIN...]  NewContacts=68
+  [Publicación de Instagram: Un choque no solo daña...]  NewContacts=62
+  [Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...]  NewContacts=61
+  [Publicación de Instagram: DISCOVERY SPORT 2023...]  NewContacts=55
+  [Publicación de Instagram: Hay detalles que solo...]  NewContacts=53
+  [Publicación de Instagram: Protección que...]  NewContacts=48
+  [Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...]  NewContacts=47
+  [Publicación de Instagram: BRONCO WILDTRAK 2022...]  NewContacts=34
+  [Publicación de Instagram: Solo para quienes saben...]  NewContacts=16
+  [Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...]  NewContacts=16
+  [Publicación de Instagram: LC200 BLINDADA...]  NewContacts=13
+  [H4 Autos: Varios (noviembre 2025)]  NewContacts=12
+  [Publicación de Instagram: Cada aplicación es...]  NewContacts=8
+  [REEL RANGE ROVER]  NewContacts=5
+  [Publicación de Instagram: Cuando tu carro...]  NewContacts=3
+  [CAMPAÑA TRAFICO MENSAJES BRONCO]  NewContacts=2
+  [CAMPAÑA TRAFICO COROLLA]  NewContacts=1
+  [CARRUSEL LAND ROVER]  NewContacts=1
+
+=== POST ENGAGEMENTS TOTAL ===
+  Total post engagements: 271667
+
+=== MESSAGING CONVERSATIONS per AGE/GENDER ===
+  Age=45-54  Gender=male  Msgs=211  Spend=$297.31  CostPerMsg=$1.41
+  Age=55-64  Gender=male  Msgs=195  Spend=$267.01  CostPerMsg=$1.37
+  Age=65+  Gender=male  Msgs=172  Spend=$185.80  CostPerMsg=$1.08
+  Age=35-44  Gender=male  Msgs=149  Spend=$243.57  CostPerMsg=$1.63
+  Age=25-34  Gender=male  Msgs=97  Spend=$183.27  CostPerMsg=$1.89
+  Age=55-64  Gender=female  Msgs=62  Spend=$76.82  CostPerMsg=$1.24
+  Age=45-54  Gender=female  Msgs=57  Spend=$91.89  CostPerMsg=$1.61
+  Age=35-44  Gender=female  Msgs=54  Spend=$82.70  CostPerMsg=$1.53
+  Age=65+  Gender=female  Msgs=43  Spend=$59.29  CostPerMsg=$1.38
+  Age=25-34  Gender=female  Msgs=27  Spend=$60.69  CostPerMsg=$2.25
+  Age=18-24  Gender=male  Msgs=6  Spend=$31.05  CostPerMsg=$5.17
+  Age=55-64  Gender=unknown  Msgs=4  Spend=$2.65  CostPerMsg=$0.66
+  Age=25-34  Gender=unknown  Msgs=3  Spend=$1.94  CostPerMsg=$0.65
+  Age=45-54  Gender=unknown  Msgs=3  Spend=$4.51  CostPerMsg=$1.50
+  Age=35-44  Gender=unknown  Msgs=1  Spend=$2.10  CostPerMsg=$2.10
+
+=== DELIVERY LEVEL VALUES ===
+Delivery level
+campaign    651
+
+=== VIEWS BY CAMPAIGN ===

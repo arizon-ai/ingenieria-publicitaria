@@ -1,0 +1,1917 @@
+{
+  "metadata": {
+    "client": "KSA Home",
+    "handle": "@ksaconstructor.ve",
+    "period": "Marzo 2023 – Marzo 2026",
+    "totalRows": 744,
+    "totalCreatives": 39,
+    "generatedAt": "2026-03-02T17:01:01.406Z"
+  },
+  "global_kpis": {
+    "total_spend": 1851.39,
+    "total_reach": 1212109,
+    "total_impressions": 1731386,
+    "total_results": 67274,
+    "total_clicks": 77577,
+    "total_link_clicks": 70340,
+    "total_comments": 506,
+    "total_engagements": 422369,
+    "total_ig_visits": 64917,
+    "total_views": 0
+  },
+  "creative_analysis": [
+    {
+      "name": "Publicación de Instagram: ¡Celebra con nosotros...",
+      "spend": 209.86,
+      "results": 1312,
+      "cpr": 0.16,
+      "reach": 38608,
+      "impressions": 53971,
+      "clicks": 1056,
+      "comments": 21,
+      "engagements": 25791,
+      "igVisits": 1312,
+      "engRate": 66.8,
+      "commentRate": 5.44,
+      "ctr": 1.96,
+      "cpe": 0.0081,
+      "efficiencyScore": 51.1,
+      "category": "Temporalidad/Fechas",
+      "contentType": "Temporal/Estacional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Nuevo anuncio de Tráfico REEL PAPA",
+      "spend": 120.24,
+      "results": 4046,
+      "cpr": 0.0297,
+      "reach": 54261,
+      "impressions": 90235,
+      "clicks": 3603,
+      "comments": 10,
+      "engagements": 39466,
+      "igVisits": 4028,
+      "engRate": 72.73,
+      "commentRate": 1.84,
+      "ctr": 3.99,
+      "cpe": 0.003,
+      "efficiencyScore": 81.8,
+      "category": "Temporalidad/Fechas",
+      "contentType": "Temporal/Estacional",
+      "resultTypes": "Profile and Page visits"
+    },
+    {
+      "name": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+      "spend": 104.87,
+      "results": 6660,
+      "cpr": 0.0157,
+      "reach": 65193,
+      "impressions": 113582,
+      "clicks": 6474,
+      "comments": 117,
+      "engagements": 7219,
+      "igVisits": 6660,
+      "engRate": 11.07,
+      "commentRate": 17.95,
+      "ctr": 5.7,
+      "cpe": 0.0145,
+      "efficiencyScore": 74.6,
+      "category": "Brand/Lifestyle",
+      "contentType": "Aspiracional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+      "spend": 83.92,
+      "results": 4228,
+      "cpr": 0.0198,
+      "reach": 40844,
+      "impressions": 63894,
+      "clicks": 4077,
+      "comments": 22,
+      "engagements": 26966,
+      "igVisits": 4228,
+      "engRate": 66.02,
+      "commentRate": 5.39,
+      "ctr": 6.38,
+      "cpe": 0.0031,
+      "efficiencyScore": 85.4,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: En cada producto MA...",
+      "spend": 79.78,
+      "results": 3293,
+      "cpr": 0.0242,
+      "reach": 43976,
+      "impressions": 59362,
+      "clicks": 3360,
+      "comments": 8,
+      "engagements": 28681,
+      "igVisits": 3293,
+      "engRate": 65.22,
+      "commentRate": 1.82,
+      "ctr": 5.66,
+      "cpe": 0.0028,
+      "efficiencyScore": 81.8,
+      "category": "Brand/Lifestyle",
+      "contentType": "Producto Específico",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+      "spend": 70.11,
+      "results": 272,
+      "cpr": 0.2578,
+      "reach": 10436,
+      "impressions": 12042,
+      "clicks": 243,
+      "comments": 2,
+      "engagements": 6238,
+      "igVisits": 272,
+      "engRate": 59.77,
+      "commentRate": 1.92,
+      "ctr": 2.02,
+      "cpe": 0.0112,
+      "efficiencyScore": 41.6,
+      "category": "Brand/Lifestyle",
+      "contentType": "Propuesta de Valor",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "DRYWALL",
+      "spend": 60.57,
+      "results": 8,
+      "cpr": 7.5713,
+      "reach": 31373,
+      "impressions": 53320,
+      "clicks": 2001,
+      "comments": 1,
+      "engagements": 21905,
+      "igVisits": 681,
+      "engRate": 69.82,
+      "commentRate": 0.32,
+      "ctr": 3.75,
+      "cpe": 0.0028,
+      "efficiencyScore": 30.6,
+      "category": "Drywall",
+      "contentType": "Producto Específico",
+      "resultTypes": "Landing page views"
+    },
+    {
+      "name": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+      "spend": 59.96,
+      "results": 1996,
+      "cpr": 0.03,
+      "reach": 37879,
+      "impressions": 57967,
+      "clicks": 1912,
+      "comments": 6,
+      "engagements": 11237,
+      "igVisits": 1996,
+      "engRate": 29.67,
+      "commentRate": 1.58,
+      "ctr": 3.3,
+      "cpe": 0.0053,
+      "efficiencyScore": 69.4,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: Caterina nos cuenta más...",
+      "spend": 53.89,
+      "results": 455,
+      "cpr": 0.1184,
+      "reach": 16172,
+      "impressions": 18653,
+      "clicks": 431,
+      "comments": 8,
+      "engagements": 10756,
+      "igVisits": 455,
+      "engRate": 66.51,
+      "commentRate": 4.95,
+      "ctr": 2.31,
+      "cpe": 0.005,
+      "efficiencyScore": 56.1,
+      "category": "Brand/Lifestyle",
+      "contentType": "Storytelling/Lifestyle",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Instagram Post",
+      "spend": 49.99,
+      "results": 2160,
+      "cpr": 0.0231,
+      "reach": 41224,
+      "impressions": 60223,
+      "clicks": 2062,
+      "comments": 8,
+      "engagements": 2613,
+      "igVisits": 2160,
+      "engRate": 6.34,
+      "commentRate": 1.94,
+      "ctr": 3.42,
+      "cpe": 0.0191,
+      "efficiencyScore": 55.7,
+      "category": "Brand/Lifestyle",
+      "contentType": "General",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: A todos nuestros...",
+      "spend": 49.94,
+      "results": 513,
+      "cpr": 0.0973,
+      "reach": 36466,
+      "impressions": 40196,
+      "clicks": 546,
+      "comments": 5,
+      "engagements": 17382,
+      "igVisits": 513,
+      "engRate": 47.67,
+      "commentRate": 1.37,
+      "ctr": 1.36,
+      "cpe": 0.0029,
+      "efficiencyScore": 55.7,
+      "category": "Brand/Lifestyle",
+      "contentType": "General",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+      "spend": 49.91,
+      "results": 5077,
+      "cpr": 0.0098,
+      "reach": 35064,
+      "impressions": 48761,
+      "clicks": 4842,
+      "comments": 7,
+      "engagements": 30783,
+      "igVisits": 5077,
+      "engRate": 87.79,
+      "commentRate": 2,
+      "ctr": 9.93,
+      "cpe": 0.0016,
+      "efficiencyScore": 82,
+      "category": "Ofertas/Promociones",
+      "contentType": "Temporal/Estacional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+      "spend": 48.95,
+      "results": 2167,
+      "cpr": 0.0226,
+      "reach": 41368,
+      "impressions": 58596,
+      "clicks": 2101,
+      "comments": 7,
+      "engagements": 2457,
+      "igVisits": 2167,
+      "engRate": 5.94,
+      "commentRate": 1.69,
+      "ctr": 3.59,
+      "cpe": 0.0199,
+      "efficiencyScore": 55.3,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: Semana de ofertas...",
+      "spend": 48.95,
+      "results": 1612,
+      "cpr": 0.0304,
+      "reach": 52704,
+      "impressions": 68659,
+      "clicks": 1561,
+      "comments": 2,
+      "engagements": 1904,
+      "igVisits": 1612,
+      "engRate": 3.61,
+      "commentRate": 0.38,
+      "ctr": 2.27,
+      "cpe": 0.0257,
+      "efficiencyScore": 52.5,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¿Cansado de tanques...",
+      "spend": 48.94,
+      "results": 1961,
+      "cpr": 0.025,
+      "reach": 43682,
+      "impressions": 53477,
+      "clicks": 1793,
+      "comments": 55,
+      "engagements": 26822,
+      "igVisits": 1961,
+      "engRate": 61.4,
+      "commentRate": 12.59,
+      "ctr": 3.35,
+      "cpe": 0.0018,
+      "efficiencyScore": 92.6,
+      "category": "Tanques de Agua",
+      "contentType": "Producto Específico",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: Tu baño merece...",
+      "spend": 48.88,
+      "results": 2260,
+      "cpr": 0.0216,
+      "reach": 39230,
+      "impressions": 47797,
+      "clicks": 2188,
+      "comments": 30,
+      "engagements": 23363,
+      "igVisits": 2260,
+      "engRate": 59.55,
+      "commentRate": 7.65,
+      "ctr": 4.58,
+      "cpe": 0.0021,
+      "efficiencyScore": 87.6,
+      "category": "Cerámicas/Baños",
+      "contentType": "Aspiracional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Que la lluvia no te...",
+      "spend": 42.5,
+      "results": 733,
+      "cpr": 0.058,
+      "reach": 33256,
+      "impressions": 48252,
+      "clicks": 678,
+      "comments": 2,
+      "engagements": 859,
+      "igVisits": 733,
+      "engRate": 2.58,
+      "commentRate": 0.6,
+      "ctr": 1.41,
+      "cpe": 0.0495,
+      "efficiencyScore": 45.3,
+      "category": "Brand/Lifestyle",
+      "contentType": "Problema/Solución",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: El lujo que tu baño...",
+      "spend": 41.95,
+      "results": 945,
+      "cpr": 0.0444,
+      "reach": 24448,
+      "impressions": 38773,
+      "clicks": 887,
+      "comments": 0,
+      "engagements": 1106,
+      "igVisits": 945,
+      "engRate": 4.52,
+      "commentRate": 0,
+      "ctr": 2.29,
+      "cpe": 0.0379,
+      "efficiencyScore": 52.7,
+      "category": "Cerámicas/Baños",
+      "contentType": "Aspiracional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Alerta de Oferta KSA...",
+      "spend": 39.99,
+      "results": 1400,
+      "cpr": 0.0286,
+      "reach": 43398,
+      "impressions": 55951,
+      "clicks": 1359,
+      "comments": 3,
+      "engagements": 1737,
+      "igVisits": 1400,
+      "engRate": 4,
+      "commentRate": 0.69,
+      "ctr": 2.43,
+      "cpe": 0.023,
+      "efficiencyScore": 53.1,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+      "spend": 39.97,
+      "results": 3249,
+      "cpr": 0.0123,
+      "reach": 24741,
+      "impressions": 36502,
+      "clicks": 3060,
+      "comments": 7,
+      "engagements": 20770,
+      "igVisits": 3249,
+      "engRate": 83.95,
+      "commentRate": 2.83,
+      "ctr": 8.38,
+      "cpe": 0.0019,
+      "efficiencyScore": 82.8,
+      "category": "Brand/Lifestyle",
+      "contentType": "Urgencia/FOMO",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "CAMPAÑA MOT 06-06",
+      "spend": 39.96,
+      "results": 3208,
+      "cpr": 0.0125,
+      "reach": 47649,
+      "impressions": 64033,
+      "clicks": 3645,
+      "comments": 2,
+      "engagements": 27582,
+      "igVisits": 8,
+      "engRate": 57.89,
+      "commentRate": 0.42,
+      "ctr": 5.69,
+      "cpe": 0.0014,
+      "efficiencyScore": 80.4,
+      "category": "Tráfico/Leads",
+      "contentType": "Tráfico Directo",
+      "resultTypes": "Link clicks"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Atención! ❗️ Este...",
+      "spend": 39.95,
+      "results": 168,
+      "cpr": 0.2378,
+      "reach": 12292,
+      "impressions": 15461,
+      "clicks": 171,
+      "comments": 0,
+      "engagements": 5535,
+      "igVisits": 168,
+      "engRate": 45.03,
+      "commentRate": 0,
+      "ctr": 1.11,
+      "cpe": 0.0072,
+      "efficiencyScore": 37.5,
+      "category": "Brand/Lifestyle",
+      "contentType": "Urgencia/FOMO",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: El Jaque Mate de la...",
+      "spend": 39.89,
+      "results": 576,
+      "cpr": 0.0693,
+      "reach": 33230,
+      "impressions": 42734,
+      "clicks": 501,
+      "comments": 4,
+      "engagements": 15782,
+      "igVisits": 576,
+      "engRate": 47.49,
+      "commentRate": 1.2,
+      "ctr": 1.17,
+      "cpe": 0.0025,
+      "efficiencyScore": 65.8,
+      "category": "Brand/Lifestyle",
+      "contentType": "Storytelling/Lifestyle",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+      "spend": 34.92,
+      "results": 2099,
+      "cpr": 0.0166,
+      "reach": 19616,
+      "impressions": 29108,
+      "clicks": 1940,
+      "comments": 59,
+      "engagements": 17110,
+      "igVisits": 2099,
+      "engRate": 87.22,
+      "commentRate": 30.08,
+      "ctr": 6.66,
+      "cpe": 0.002,
+      "efficiencyScore": 100,
+      "category": "Temporalidad/Fechas",
+      "contentType": "Temporal/Estacional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Para cerrar nuestro...",
+      "spend": 34.84,
+      "results": 2506,
+      "cpr": 0.0139,
+      "reach": 22538,
+      "impressions": 31220,
+      "clicks": 2365,
+      "comments": 3,
+      "engagements": 13701,
+      "igVisits": 2506,
+      "engRate": 60.79,
+      "commentRate": 1.33,
+      "ctr": 7.58,
+      "cpe": 0.0025,
+      "efficiencyScore": 81.3,
+      "category": "Brand/Lifestyle",
+      "contentType": "Urgencia/FOMO",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: Nos encanta que...",
+      "spend": 31.97,
+      "results": 3503,
+      "cpr": 0.0091,
+      "reach": 39799,
+      "impressions": 56139,
+      "clicks": 3411,
+      "comments": 3,
+      "engagements": 4272,
+      "igVisits": 3503,
+      "engRate": 10.73,
+      "commentRate": 0.75,
+      "ctr": 6.08,
+      "cpe": 0.0075,
+      "efficiencyScore": 57.2,
+      "category": "Brand/Lifestyle",
+      "contentType": "Storytelling/Lifestyle",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+      "spend": 30,
+      "results": 0,
+      "cpr": null,
+      "reach": 66546,
+      "impressions": 113563,
+      "clicks": 10380,
+      "comments": 27,
+      "engagements": 7460,
+      "igVisits": 0,
+      "engRate": 11.21,
+      "commentRate": 4.06,
+      "ctr": 9.14,
+      "cpe": 0.004,
+      "efficiencyScore": 10.8,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Estimated call confirmation clicks"
+    },
+    {
+      "name": "Publicación de Instagram: ¡PRECIOS DE LOCURA EN...",
+      "spend": 29.96,
+      "results": 973,
+      "cpr": 0.0308,
+      "reach": 29799,
+      "impressions": 39651,
+      "clicks": 956,
+      "comments": 2,
+      "engagements": 1161,
+      "igVisits": 973,
+      "engRate": 3.9,
+      "commentRate": 0.67,
+      "ctr": 2.41,
+      "cpe": 0.0258,
+      "efficiencyScore": 53,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡OFERTAS POR...",
+      "spend": 29.96,
+      "results": 1712,
+      "cpr": 0.0175,
+      "reach": 29464,
+      "impressions": 36306,
+      "clicks": 1755,
+      "comments": 2,
+      "engagements": 2114,
+      "igVisits": 1712,
+      "engRate": 7.17,
+      "commentRate": 0.68,
+      "ctr": 4.83,
+      "cpe": 0.0142,
+      "efficiencyScore": 55,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+      "spend": 29.95,
+      "results": 1866,
+      "cpr": 0.0161,
+      "reach": 32285,
+      "impressions": 43616,
+      "clicks": 1800,
+      "comments": 9,
+      "engagements": 2165,
+      "igVisits": 1866,
+      "engRate": 6.71,
+      "commentRate": 2.79,
+      "ctr": 4.13,
+      "cpe": 0.0138,
+      "efficiencyScore": 56.8,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¿Tu próximo proyecto de...",
+      "spend": 29.93,
+      "results": 1618,
+      "cpr": 0.0185,
+      "reach": 33792,
+      "impressions": 44049,
+      "clicks": 1599,
+      "comments": 7,
+      "engagements": 1886,
+      "igVisits": 1618,
+      "engRate": 5.58,
+      "commentRate": 2.07,
+      "ctr": 3.63,
+      "cpe": 0.0159,
+      "efficiencyScore": 55.4,
+      "category": "Construcción General",
+      "contentType": "Aspiracional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡EL MOMENTO DE...",
+      "spend": 26.88,
+      "results": 1043,
+      "cpr": 0.0258,
+      "reach": 12687,
+      "impressions": 23430,
+      "clicks": 1033,
+      "comments": 2,
+      "engagements": 1180,
+      "igVisits": 1043,
+      "engRate": 9.3,
+      "commentRate": 1.58,
+      "ctr": 4.41,
+      "cpe": 0.0228,
+      "efficiencyScore": 57.2,
+      "category": "Brand/Lifestyle",
+      "contentType": "Urgencia/FOMO",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+      "spend": 19.91,
+      "results": 2065,
+      "cpr": 0.0096,
+      "reach": 20508,
+      "impressions": 31704,
+      "clicks": 2005,
+      "comments": 5,
+      "engagements": 2274,
+      "igVisits": 2065,
+      "engRate": 11.09,
+      "commentRate": 2.44,
+      "ctr": 6.32,
+      "cpe": 0.0088,
+      "efficiencyScore": 59.1,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡4 DÍAS DE PRECIOS...",
+      "spend": 19.89,
+      "results": 627,
+      "cpr": 0.0317,
+      "reach": 20943,
+      "impressions": 28401,
+      "clicks": 582,
+      "comments": 5,
+      "engagements": 739,
+      "igVisits": 627,
+      "engRate": 3.53,
+      "commentRate": 2.39,
+      "ctr": 2.05,
+      "cpe": 0.0269,
+      "efficiencyScore": 54.5,
+      "category": "Ofertas/Promociones",
+      "contentType": "Oferta Directa",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: ¡EL TRÍO DINÁMICO DE LA...",
+      "spend": 19.56,
+      "results": 20,
+      "cpr": 0.978,
+      "reach": 11252,
+      "impressions": 19161,
+      "clicks": 255,
+      "comments": 3,
+      "engagements": 122,
+      "igVisits": 220,
+      "engRate": 1.08,
+      "commentRate": 2.67,
+      "ctr": 1.33,
+      "cpe": 0.1603,
+      "efficiencyScore": 5.9,
+      "category": "Mensajería",
+      "contentType": "General",
+      "resultTypes": "Messaging conversations started"
+    },
+    {
+      "name": "Publicación de Instagram: Dale a tu hogar el...",
+      "spend": 17.3,
+      "results": 549,
+      "cpr": 0.0315,
+      "reach": 8950,
+      "impressions": 12360,
+      "clicks": 558,
+      "comments": 48,
+      "engagements": 6208,
+      "igVisits": 549,
+      "engRate": 69.36,
+      "commentRate": 53.63,
+      "ctr": 4.51,
+      "cpe": 0.0028,
+      "efficiencyScore": 100,
+      "category": "Brand/Lifestyle",
+      "contentType": "Aspiracional",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: POV: Encontraste al...",
+      "spend": 12.96,
+      "results": 200,
+      "cpr": 0.0648,
+      "reach": 8832,
+      "impressions": 11826,
+      "clicks": 213,
+      "comments": 3,
+      "engagements": 3921,
+      "igVisits": 200,
+      "engRate": 44.4,
+      "commentRate": 3.4,
+      "ctr": 1.8,
+      "cpe": 0.0033,
+      "efficiencyScore": 68.6,
+      "category": "Brand/Lifestyle",
+      "contentType": "Storytelling/Lifestyle",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "Publicación de Instagram: En cada conexión hay...",
+      "spend": 7.43,
+      "results": 72,
+      "cpr": 0.1032,
+      "reach": 3176,
+      "impressions": 3442,
+      "clicks": 46,
+      "comments": 0,
+      "engagements": 839,
+      "igVisits": 72,
+      "engRate": 26.42,
+      "commentRate": 0,
+      "ctr": 1.34,
+      "cpe": 0.0089,
+      "efficiencyScore": 40.1,
+      "category": "Eléctricos",
+      "contentType": "Producto Específico",
+      "resultTypes": "Instagram profile visits"
+    },
+    {
+      "name": "PORCELANATO",
+      "spend": 2.96,
+      "results": 132,
+      "cpr": 0.0224,
+      "reach": 4661,
+      "impressions": 5289,
+      "clicks": 140,
+      "comments": 1,
+      "engagements": 307,
+      "igVisits": 123,
+      "engRate": 6.59,
+      "commentRate": 2.15,
+      "ctr": 2.65,
+      "cpe": 0.0096,
+      "efficiencyScore": 56.1,
+      "category": "Cerámicas/Baños",
+      "contentType": "Producto Específico",
+      "resultTypes": "Profile and Page visits"
+    }
+  ],
+  "rankings": {
+    "by_efficiency": [
+      {
+        "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "score": 100,
+        "spend": 34.92,
+        "results": 2099,
+        "cpr": 0.0166,
+        "engRate": 87.22
+      },
+      {
+        "name": "Publicación de Instagram: Dale a tu hogar el...",
+        "score": 100,
+        "spend": 17.3,
+        "results": 549,
+        "cpr": 0.0315,
+        "engRate": 69.36
+      },
+      {
+        "name": "Publicación de Instagram: ¿Cansado de tanques...",
+        "score": 92.6,
+        "spend": 48.94,
+        "results": 1961,
+        "cpr": 0.025,
+        "engRate": 61.4
+      },
+      {
+        "name": "Publicación de Instagram: Tu baño merece...",
+        "score": 87.6,
+        "spend": 48.88,
+        "results": 2260,
+        "cpr": 0.0216,
+        "engRate": 59.55
+      },
+      {
+        "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "score": 85.4,
+        "spend": 83.92,
+        "results": 4228,
+        "cpr": 0.0198,
+        "engRate": 66.02
+      },
+      {
+        "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "score": 82.8,
+        "spend": 39.97,
+        "results": 3249,
+        "cpr": 0.0123,
+        "engRate": 83.95
+      },
+      {
+        "name": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "score": 82,
+        "spend": 49.91,
+        "results": 5077,
+        "cpr": 0.0098,
+        "engRate": 87.79
+      },
+      {
+        "name": "Nuevo anuncio de Tráfico REEL PAPA",
+        "score": 81.8,
+        "spend": 120.24,
+        "results": 4046,
+        "cpr": 0.0297,
+        "engRate": 72.73
+      },
+      {
+        "name": "Publicación de Instagram: En cada producto MA...",
+        "score": 81.8,
+        "spend": 79.78,
+        "results": 3293,
+        "cpr": 0.0242,
+        "engRate": 65.22
+      },
+      {
+        "name": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "score": 81.3,
+        "spend": 34.84,
+        "results": 2506,
+        "cpr": 0.0139,
+        "engRate": 60.79
+      },
+      {
+        "name": "CAMPAÑA MOT 06-06",
+        "score": 80.4,
+        "spend": 39.96,
+        "results": 3208,
+        "cpr": 0.0125,
+        "engRate": 57.89
+      },
+      {
+        "name": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "score": 74.6,
+        "spend": 104.87,
+        "results": 6660,
+        "cpr": 0.0157,
+        "engRate": 11.07
+      },
+      {
+        "name": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+        "score": 69.4,
+        "spend": 59.96,
+        "results": 1996,
+        "cpr": 0.03,
+        "engRate": 29.67
+      },
+      {
+        "name": "Publicación de Instagram: POV: Encontraste al...",
+        "score": 68.6,
+        "spend": 12.96,
+        "results": 200,
+        "cpr": 0.0648,
+        "engRate": 44.4
+      },
+      {
+        "name": "Publicación de Instagram: El Jaque Mate de la...",
+        "score": 65.8,
+        "spend": 39.89,
+        "results": 576,
+        "cpr": 0.0693,
+        "engRate": 47.49
+      }
+    ],
+    "by_cpr": [
+      {
+        "name": "Publicación de Instagram: Nos encanta que...",
+        "cpr": 0.0091,
+        "spend": 31.97,
+        "results": 3503
+      },
+      {
+        "name": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+        "cpr": 0.0096,
+        "spend": 19.91,
+        "results": 2065
+      },
+      {
+        "name": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "cpr": 0.0098,
+        "spend": 49.91,
+        "results": 5077
+      },
+      {
+        "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "cpr": 0.0123,
+        "spend": 39.97,
+        "results": 3249
+      },
+      {
+        "name": "CAMPAÑA MOT 06-06",
+        "cpr": 0.0125,
+        "spend": 39.96,
+        "results": 3208
+      },
+      {
+        "name": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "cpr": 0.0139,
+        "spend": 34.84,
+        "results": 2506
+      },
+      {
+        "name": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "cpr": 0.0157,
+        "spend": 104.87,
+        "results": 6660
+      },
+      {
+        "name": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+        "cpr": 0.0161,
+        "spend": 29.95,
+        "results": 1866
+      },
+      {
+        "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "cpr": 0.0166,
+        "spend": 34.92,
+        "results": 2099
+      },
+      {
+        "name": "Publicación de Instagram: ¡OFERTAS POR...",
+        "cpr": 0.0175,
+        "spend": 29.96,
+        "results": 1712
+      },
+      {
+        "name": "Publicación de Instagram: ¿Tu próximo proyecto de...",
+        "cpr": 0.0185,
+        "spend": 29.93,
+        "results": 1618
+      },
+      {
+        "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "cpr": 0.0198,
+        "spend": 83.92,
+        "results": 4228
+      },
+      {
+        "name": "Publicación de Instagram: Tu baño merece...",
+        "cpr": 0.0216,
+        "spend": 48.88,
+        "results": 2260
+      },
+      {
+        "name": "PORCELANATO",
+        "cpr": 0.0224,
+        "spend": 2.96,
+        "results": 132
+      },
+      {
+        "name": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+        "cpr": 0.0226,
+        "spend": 48.95,
+        "results": 2167
+      }
+    ],
+    "by_engagement": [
+      {
+        "name": "Nuevo anuncio de Tráfico REEL PAPA",
+        "engagements": 39466,
+        "spend": 120.24,
+        "engRate": 72.73,
+        "comments": 10
+      },
+      {
+        "name": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "engagements": 30783,
+        "spend": 49.91,
+        "engRate": 87.79,
+        "comments": 7
+      },
+      {
+        "name": "Publicación de Instagram: En cada producto MA...",
+        "engagements": 28681,
+        "spend": 79.78,
+        "engRate": 65.22,
+        "comments": 8
+      },
+      {
+        "name": "CAMPAÑA MOT 06-06",
+        "engagements": 27582,
+        "spend": 39.96,
+        "engRate": 57.89,
+        "comments": 2
+      },
+      {
+        "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "engagements": 26966,
+        "spend": 83.92,
+        "engRate": 66.02,
+        "comments": 22
+      },
+      {
+        "name": "Publicación de Instagram: ¿Cansado de tanques...",
+        "engagements": 26822,
+        "spend": 48.94,
+        "engRate": 61.4,
+        "comments": 55
+      },
+      {
+        "name": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "engagements": 25791,
+        "spend": 209.86,
+        "engRate": 66.8,
+        "comments": 21
+      },
+      {
+        "name": "Publicación de Instagram: Tu baño merece...",
+        "engagements": 23363,
+        "spend": 48.88,
+        "engRate": 59.55,
+        "comments": 30
+      },
+      {
+        "name": "DRYWALL",
+        "engagements": 21905,
+        "spend": 60.57,
+        "engRate": 69.82,
+        "comments": 1
+      },
+      {
+        "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "engagements": 20770,
+        "spend": 39.97,
+        "engRate": 83.95,
+        "comments": 7
+      }
+    ],
+    "by_comments": [
+      {
+        "name": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "comments": 117,
+        "spend": 104.87,
+        "commentPerDollar": 1.12
+      },
+      {
+        "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "comments": 59,
+        "spend": 34.92,
+        "commentPerDollar": 1.69
+      },
+      {
+        "name": "Publicación de Instagram: ¿Cansado de tanques...",
+        "comments": 55,
+        "spend": 48.94,
+        "commentPerDollar": 1.12
+      },
+      {
+        "name": "Publicación de Instagram: Dale a tu hogar el...",
+        "comments": 48,
+        "spend": 17.3,
+        "commentPerDollar": 2.77
+      },
+      {
+        "name": "Publicación de Instagram: Tu baño merece...",
+        "comments": 30,
+        "spend": 48.88,
+        "commentPerDollar": 0.61
+      },
+      {
+        "name": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+        "comments": 27,
+        "spend": 30,
+        "commentPerDollar": 0.9
+      },
+      {
+        "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "comments": 22,
+        "spend": 83.92,
+        "commentPerDollar": 0.26
+      },
+      {
+        "name": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "comments": 21,
+        "spend": 209.86,
+        "commentPerDollar": 0.1
+      },
+      {
+        "name": "Nuevo anuncio de Tráfico REEL PAPA",
+        "comments": 10,
+        "spend": 120.24,
+        "commentPerDollar": 0.08
+      },
+      {
+        "name": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+        "comments": 9,
+        "spend": 29.95,
+        "commentPerDollar": 0.3
+      }
+    ],
+    "by_engagement_rate": [
+      {
+        "name": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "engRate": 87.79,
+        "reach": 35064,
+        "engagements": 30783,
+        "spend": 49.91
+      },
+      {
+        "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "engRate": 87.22,
+        "reach": 19616,
+        "engagements": 17110,
+        "spend": 34.92
+      },
+      {
+        "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "engRate": 83.95,
+        "reach": 24741,
+        "engagements": 20770,
+        "spend": 39.97
+      },
+      {
+        "name": "Nuevo anuncio de Tráfico REEL PAPA",
+        "engRate": 72.73,
+        "reach": 54261,
+        "engagements": 39466,
+        "spend": 120.24
+      },
+      {
+        "name": "DRYWALL",
+        "engRate": 69.82,
+        "reach": 31373,
+        "engagements": 21905,
+        "spend": 60.57
+      },
+      {
+        "name": "Publicación de Instagram: Dale a tu hogar el...",
+        "engRate": 69.36,
+        "reach": 8950,
+        "engagements": 6208,
+        "spend": 17.3
+      },
+      {
+        "name": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "engRate": 66.8,
+        "reach": 38608,
+        "engagements": 25791,
+        "spend": 209.86
+      },
+      {
+        "name": "Publicación de Instagram: Caterina nos cuenta más...",
+        "engRate": 66.51,
+        "reach": 16172,
+        "engagements": 10756,
+        "spend": 53.89
+      },
+      {
+        "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "engRate": 66.02,
+        "reach": 40844,
+        "engagements": 26966,
+        "spend": 83.92
+      },
+      {
+        "name": "Publicación de Instagram: En cada producto MA...",
+        "engRate": 65.22,
+        "reach": 43976,
+        "engagements": 28681,
+        "spend": 79.78
+      }
+    ]
+  },
+  "category_analysis": [
+    {
+      "category": "Brand/Lifestyle",
+      "spend": 694.84,
+      "results": 25880,
+      "cpr": 0.0268,
+      "reach": 409792,
+      "comments": 220,
+      "engagements": 145117,
+      "creatives": 15,
+      "igVisits": 25880
+    },
+    {
+      "category": "Ofertas/Promociones",
+      "spend": 491.35,
+      "results": 23723,
+      "cpr": 0.0207,
+      "reach": 450802,
+      "comments": 97,
+      "engagements": 90997,
+      "creatives": 12,
+      "igVisits": 23723
+    },
+    {
+      "category": "Temporalidad/Fechas",
+      "spend": 365.02,
+      "results": 7457,
+      "cpr": 0.0489,
+      "reach": 112485,
+      "comments": 90,
+      "engagements": 82367,
+      "creatives": 3,
+      "igVisits": 7439
+    },
+    {
+      "category": "Cerámicas/Baños",
+      "spend": 93.79,
+      "results": 3337,
+      "cpr": 0.0281,
+      "reach": 68339,
+      "comments": 31,
+      "engagements": 24776,
+      "creatives": 3,
+      "igVisits": 3328
+    },
+    {
+      "category": "Drywall",
+      "spend": 60.57,
+      "results": 8,
+      "cpr": 7.5713,
+      "reach": 31373,
+      "comments": 1,
+      "engagements": 21905,
+      "creatives": 1,
+      "igVisits": 681
+    },
+    {
+      "category": "Tanques de Agua",
+      "spend": 48.94,
+      "results": 1961,
+      "cpr": 0.025,
+      "reach": 43682,
+      "comments": 55,
+      "engagements": 26822,
+      "creatives": 1,
+      "igVisits": 1961
+    },
+    {
+      "category": "Tráfico/Leads",
+      "spend": 39.96,
+      "results": 3208,
+      "cpr": 0.0125,
+      "reach": 47649,
+      "comments": 2,
+      "engagements": 27582,
+      "creatives": 1,
+      "igVisits": 8
+    },
+    {
+      "category": "Construcción General",
+      "spend": 29.93,
+      "results": 1618,
+      "cpr": 0.0185,
+      "reach": 33792,
+      "comments": 7,
+      "engagements": 1886,
+      "creatives": 1,
+      "igVisits": 1618
+    },
+    {
+      "category": "Mensajería",
+      "spend": 19.56,
+      "results": 20,
+      "cpr": 0.978,
+      "reach": 11252,
+      "comments": 3,
+      "engagements": 122,
+      "creatives": 1,
+      "igVisits": 220
+    },
+    {
+      "category": "Eléctricos",
+      "spend": 7.43,
+      "results": 72,
+      "cpr": 0.1032,
+      "reach": 3176,
+      "comments": 0,
+      "engagements": 839,
+      "creatives": 1,
+      "igVisits": 72
+    }
+  ],
+  "content_type_analysis": [
+    {
+      "contentType": "Oferta Directa",
+      "spend": 441.44,
+      "results": 18646,
+      "cpr": 0.0237,
+      "reach": 415738,
+      "comments": 90,
+      "engagements": 60214,
+      "creatives": 11
+    },
+    {
+      "contentType": "Temporal/Estacional",
+      "spend": 414.93,
+      "results": 12534,
+      "cpr": 0.0331,
+      "reach": 147549,
+      "comments": 97,
+      "engagements": 113150,
+      "creatives": 4
+    },
+    {
+      "contentType": "Aspiracional",
+      "spend": 242.93,
+      "results": 12032,
+      "cpr": 0.0202,
+      "reach": 171613,
+      "comments": 202,
+      "engagements": 39782,
+      "creatives": 5
+    },
+    {
+      "contentType": "Producto Específico",
+      "spend": 199.68,
+      "results": 5466,
+      "cpr": 0.0365,
+      "reach": 126868,
+      "comments": 65,
+      "engagements": 78554,
+      "creatives": 5
+    },
+    {
+      "contentType": "Urgencia/FOMO",
+      "spend": 141.64,
+      "results": 6966,
+      "cpr": 0.0203,
+      "reach": 72258,
+      "comments": 12,
+      "engagements": 41186,
+      "creatives": 4
+    },
+    {
+      "contentType": "Storytelling/Lifestyle",
+      "spend": 138.71,
+      "results": 4734,
+      "cpr": 0.0293,
+      "reach": 98033,
+      "comments": 18,
+      "engagements": 34731,
+      "creatives": 4
+    },
+    {
+      "contentType": "General",
+      "spend": 119.49,
+      "results": 2693,
+      "cpr": 0.0444,
+      "reach": 88942,
+      "comments": 16,
+      "engagements": 20117,
+      "creatives": 3
+    },
+    {
+      "contentType": "Propuesta de Valor",
+      "spend": 70.11,
+      "results": 272,
+      "cpr": 0.2578,
+      "reach": 10436,
+      "comments": 2,
+      "engagements": 6238,
+      "creatives": 1
+    },
+    {
+      "contentType": "Problema/Solución",
+      "spend": 42.5,
+      "results": 733,
+      "cpr": 0.058,
+      "reach": 33256,
+      "comments": 2,
+      "engagements": 859,
+      "creatives": 1
+    },
+    {
+      "contentType": "Tráfico Directo",
+      "spend": 39.96,
+      "results": 3208,
+      "cpr": 0.0125,
+      "reach": 47649,
+      "comments": 2,
+      "engagements": 27582,
+      "creatives": 1
+    }
+  ],
+  "result_types": [
+    {
+      "type": "Instagram profile visits",
+      "spend": 1578.1,
+      "results": 59870,
+      "cpr": 0.0264,
+      "rows": 635
+    },
+    {
+      "type": "Profile and Page visits",
+      "spend": 123.2,
+      "results": 4178,
+      "cpr": 0.0295,
+      "rows": 35
+    },
+    {
+      "type": "Link clicks",
+      "spend": 39.96,
+      "results": 3208,
+      "cpr": 0.0125,
+      "rows": 18
+    },
+    {
+      "type": "Messaging conversations started",
+      "spend": 19.56,
+      "results": 20,
+      "cpr": 0.978,
+      "rows": 19
+    },
+    {
+      "type": "Landing page views",
+      "spend": 60.57,
+      "results": 8,
+      "cpr": 7.5713,
+      "rows": 19
+    },
+    {
+      "type": "Estimated call confirmation clicks",
+      "spend": 30,
+      "results": 0,
+      "cpr": null,
+      "rows": 18
+    }
+  ],
+  "demographics": {
+    "by_age": [
+      {
+        "age": "Unknown",
+        "spend": 0,
+        "results": 0,
+        "cpr": null,
+        "reach": 0,
+        "ctr": 0,
+        "cpc": 0,
+        "comments": 0,
+        "retention100": null
+      },
+      {
+        "age": "18-24",
+        "spend": 77.93,
+        "results": 3334,
+        "cpr": 0.0234,
+        "reach": 63326,
+        "ctr": 4.1,
+        "cpc": 0.0233,
+        "comments": 17,
+        "retention100": 10.6
+      },
+      {
+        "age": "25-34",
+        "spend": 285.63,
+        "results": 11929,
+        "cpr": 0.0239,
+        "reach": 210377,
+        "ctr": 4.04,
+        "cpc": 0.0242,
+        "comments": 54,
+        "retention100": 16.7
+      },
+      {
+        "age": "35-44",
+        "spend": 423.48,
+        "results": 14435,
+        "cpr": 0.0293,
+        "reach": 280249,
+        "ctr": 4.07,
+        "cpc": 0.0282,
+        "comments": 96,
+        "retention100": 20.9
+      },
+      {
+        "age": "45-54",
+        "spend": 458.87,
+        "results": 14877,
+        "cpr": 0.0308,
+        "reach": 265810,
+        "ctr": 4.57,
+        "cpc": 0.0293,
+        "comments": 146,
+        "retention100": 22.9
+      },
+      {
+        "age": "55-64",
+        "spend": 388.6,
+        "results": 14275,
+        "cpr": 0.0272,
+        "reach": 244209,
+        "ctr": 4.98,
+        "cpc": 0.0254,
+        "comments": 128,
+        "retention100": 23
+      },
+      {
+        "age": "65+",
+        "spend": 216.88,
+        "results": 8434,
+        "cpr": 0.0257,
+        "reach": 148371,
+        "ctr": 5.13,
+        "cpc": 0.0234,
+        "comments": 65,
+        "retention100": 20.8
+      }
+    ],
+    "by_gender": [
+      {
+        "gender": "unknown",
+        "spend": 12.44,
+        "results": 441,
+        "cpr": 0.0282,
+        "ctr": 4.67,
+        "comments": 2,
+        "avgFreq": 1.58
+      },
+      {
+        "gender": "male",
+        "spend": 675.33,
+        "results": 19359,
+        "cpr": 0.0349,
+        "ctr": 3.79,
+        "comments": 123,
+        "avgFreq": 1.39
+      },
+      {
+        "gender": "female",
+        "spend": 1163.62,
+        "results": 47484,
+        "cpr": 0.0245,
+        "ctr": 4.92,
+        "comments": 381,
+        "avgFreq": 1.39
+      }
+    ],
+    "best_segments": [
+      {
+        "age": "18-24",
+        "gender": "female",
+        "spend": 44.94,
+        "results": 2223,
+        "cpr": 0.0202
+      },
+      {
+        "age": "25-34",
+        "gender": "female",
+        "spend": 174.87,
+        "results": 8235,
+        "cpr": 0.0212
+      },
+      {
+        "age": "65+",
+        "gender": "female",
+        "spend": 147.28,
+        "results": 6363,
+        "cpr": 0.0231
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "spend": 255.09,
+        "results": 10465,
+        "cpr": 0.0244
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "spend": 258.91,
+        "results": 9914,
+        "cpr": 0.0261
+      },
+      {
+        "age": "45-54",
+        "gender": "female",
+        "spend": 282.53,
+        "results": 10284,
+        "cpr": 0.0275
+      },
+      {
+        "age": "18-24",
+        "gender": "male",
+        "spend": 32.46,
+        "results": 1088,
+        "cpr": 0.0298
+      },
+      {
+        "age": "25-34",
+        "gender": "male",
+        "spend": 109.34,
+        "results": 3651,
+        "cpr": 0.0299
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "spend": 67.92,
+        "results": 2005,
+        "cpr": 0.0339
+      },
+      {
+        "age": "45-54",
+        "gender": "unknown",
+        "spend": 3.47,
+        "results": 98,
+        "cpr": 0.0354
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "spend": 130.6,
+        "results": 3679,
+        "cpr": 0.0355
+      },
+      {
+        "age": "35-44",
+        "gender": "male",
+        "spend": 162.14,
+        "results": 4441,
+        "cpr": 0.0365
+      },
+      {
+        "age": "45-54",
+        "gender": "male",
+        "spend": 172.87,
+        "results": 4495,
+        "cpr": 0.0385
+      }
+    ]
+  },
+  "video_retention": {
+    "total": {
+      "v25": 162532,
+      "v50": 95567,
+      "v75": 57108,
+      "v95": 37866,
+      "v100": 34050
+    },
+    "rates": {
+      "r50": 58.8,
+      "r75": 35.1,
+      "r95": 23.3,
+      "r100": 20.9
+    }
+  },
+  "correlations": [
+    {
+      "a": "Reach",
+      "b": "Results",
+      "r": 0.793
+    },
+    {
+      "a": "Engagements",
+      "b": "Results",
+      "r": 0.6848
+    },
+    {
+      "a": "Spend",
+      "b": "Results",
+      "r": 0.6789
+    },
+    {
+      "a": "Reach",
+      "b": "Engagements",
+      "r": 0.6646
+    },
+    {
+      "a": "Comments",
+      "b": "Results",
+      "r": 0.575
+    },
+    {
+      "a": "Impressions",
+      "b": "Comments",
+      "r": 0.553
+    },
+    {
+      "a": "Spend",
+      "b": "CTR",
+      "r": -0.0295
+    },
+    {
+      "a": "Frequency",
+      "b": "Results",
+      "r": 0.0211
+    }
+  ],
+  "frequency": [
+    {
+      "label": "1.0-1.5x",
+      "spend": 1257.01,
+      "results": 43572,
+      "rows": 478,
+      "cpr": 0.0288
+    },
+    {
+      "label": "1.5-2.5x",
+      "spend": 592.91,
+      "results": 23662,
+      "rows": 197,
+      "cpr": 0.0251
+    },
+    {
+      "label": "2.5-4.0x",
+      "spend": 1.12,
+      "results": 29,
+      "rows": 16,
+      "cpr": 0.0386
+    },
+    {
+      "label": "4.0x+",
+      "spend": 0.35,
+      "results": 11,
+      "rows": 6,
+      "cpr": 0.0318
+    }
+  ],
+  "waste": {
+    "total_spend": 1851.39,
+    "waste_spend": 68.46,
+    "waste_pct": 3.7,
+    "zero_result_rows": 98
+  },
+  "engagement_quality": [
+    {
+      "name": "Publicación de Instagram: Dale a tu hogar el...",
+      "comments": 48,
+      "engagements": 6208,
+      "spend": 17.3,
+      "commentPerDollar": 2.77,
+      "engPerDollar": 358.84,
+      "engRate": 69.36
+    },
+    {
+      "name": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+      "comments": 59,
+      "engagements": 17110,
+      "spend": 34.92,
+      "commentPerDollar": 1.69,
+      "engPerDollar": 489.98,
+      "engRate": 87.22
+    },
+    {
+      "name": "Publicación de Instagram: ¿Cansado de tanques...",
+      "comments": 55,
+      "engagements": 26822,
+      "spend": 48.94,
+      "commentPerDollar": 1.12,
+      "engPerDollar": 548.06,
+      "engRate": 61.4
+    },
+    {
+      "name": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+      "comments": 117,
+      "engagements": 7219,
+      "spend": 104.87,
+      "commentPerDollar": 1.12,
+      "engPerDollar": 68.84,
+      "engRate": 11.07
+    },
+    {
+      "name": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+      "comments": 27,
+      "engagements": 7460,
+      "spend": 30,
+      "commentPerDollar": 0.9,
+      "engPerDollar": 248.67,
+      "engRate": 11.21
+    },
+    {
+      "name": "Publicación de Instagram: Tu baño merece...",
+      "comments": 30,
+      "engagements": 23363,
+      "spend": 48.88,
+      "commentPerDollar": 0.61,
+      "engPerDollar": 477.97,
+      "engRate": 59.55
+    },
+    {
+      "name": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+      "comments": 9,
+      "engagements": 2165,
+      "spend": 29.95,
+      "commentPerDollar": 0.3,
+      "engPerDollar": 72.29,
+      "engRate": 6.71
+    },
+    {
+      "name": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+      "comments": 22,
+      "engagements": 26966,
+      "spend": 83.92,
+      "commentPerDollar": 0.26,
+      "engPerDollar": 321.33,
+      "engRate": 66.02
+    },
+    {
+      "name": "Publicación de Instagram: ¡4 DÍAS DE PRECIOS...",
+      "comments": 5,
+      "engagements": 739,
+      "spend": 19.89,
+      "commentPerDollar": 0.25,
+      "engPerDollar": 37.15,
+      "engRate": 3.53
+    },
+    {
+      "name": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+      "comments": 5,
+      "engagements": 2274,
+      "spend": 19.91,
+      "commentPerDollar": 0.25,
+      "engPerDollar": 114.21,
+      "engRate": 11.09
+    },
+    {
+      "name": "Publicación de Instagram: ¿Tu próximo proyecto de...",
+      "comments": 7,
+      "engagements": 1886,
+      "spend": 29.93,
+      "commentPerDollar": 0.23,
+      "engPerDollar": 63.01,
+      "engRate": 5.58
+    },
+    {
+      "name": "Publicación de Instagram: POV: Encontraste al...",
+      "comments": 3,
+      "engagements": 3921,
+      "spend": 12.96,
+      "commentPerDollar": 0.23,
+      "engPerDollar": 302.55,
+      "engRate": 44.4
+    },
+    {
+      "name": "Publicación de Instagram: ¡Así es! Si estabas...",
+      "comments": 7,
+      "engagements": 20770,
+      "spend": 39.97,
+      "commentPerDollar": 0.18,
+      "engPerDollar": 519.64,
+      "engRate": 83.95
+    },
+    {
+      "name": "Instagram Post",
+      "comments": 8,
+      "engagements": 2613,
+      "spend": 49.99,
+      "commentPerDollar": 0.16,
+      "engPerDollar": 52.27,
+      "engRate": 6.34
+    },
+    {
+      "name": "Publicación de Instagram: ¡EL TRÍO DINÁMICO DE LA...",
+      "comments": 3,
+      "engagements": 122,
+      "spend": 19.56,
+      "commentPerDollar": 0.15,
+      "engPerDollar": 6.24,
+      "engRate": 1.08
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "product_performance": [
+    {
+      "product": "Compresores",
+      "spend": 570.97,
+      "results": 819,
+      "cpr": 0.6972,
+      "campaigns": 6,
+      "reach": 462880
+    },
+    {
+      "product": "Visitas al Perfil",
+      "spend": 322.23,
+      "results": 123,
+      "cpr": 2.6198,
+      "campaigns": 7,
+      "reach": 193988
+    },
+    {
+      "product": "Ventas General",
+      "spend": 312.7,
+      "results": 447,
+      "cpr": 0.6996,
+      "campaigns": 3,
+      "reach": 279103
+    },
+    {
+      "product": "Correas",
+      "spend": 168.89,
+      "results": 39,
+      "cpr": 4.3305,
+      "campaigns": 2,
+      "reach": 111156
+    },
+    {
+      "product": "Branding/Reconocimiento",
+      "spend": 148.46,
+      "results": 17,
+      "cpr": 8.7329,
+      "campaigns": 3,
+      "reach": 724214
+    },
+    {
+      "product": "Reguladores",
+      "spend": 112.8,
+      "results": 33,
+      "cpr": 3.4182,
+      "campaigns": 1,
+      "reach": 69890
+    },
+    {
+      "product": "OTROS",
+      "spend": 73.96,
+      "results": 40,
+      "cpr": 1.849,
+      "campaigns": 4,
+      "reach": 26846
+    },
+    {
+      "product": "Extractores",
+      "spend": 72.92,
+      "results": 8,
+      "cpr": 9.115,
+      "campaigns": 1,
+      "reach": 72997
+    },
+    {
+      "product": "Distribuidores",
+      "spend": 61.4,
+      "results": 11,
+      "cpr": 5.5818,
+      "campaigns": 1,
+      "reach": 12821
+    },
+    {
+      "product": "Llaves",
+      "spend": 59.84,
+      "results": 4,
+      "cpr": 14.96,
+      "campaigns": 1,
+      "reach": 31939
+    },
+    {
+      "product": "Capacitores",
+      "spend": 33,
+      "results": 13,
+      "cpr": 2.5385,
+      "campaigns": 1,
+      "reach": 37440
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 1937.17,
+    "wasted_spend": 368.61,
+    "waste_percentage": 19,
+    "rows_without_results": 490,
+    "by_campaign": [
+      {
+        "campaign": "Rotec - interacción - abril",
+        "spend": 49.98
+      },
+      {
+        "campaign": "Kildes - Retargeting - Leads - Febrero",
+        "spend": 14.54
+      },
+      {
+        "campaign": "Nuevo Tráfico Campaña",
+        "spend": 0.55
+      }
+    ],
+    "by_product": []
+  },
+  "ad_fatigue": {
+    "by_saturation": [
+      {
+        "bucket": "1-1.5x",
+        "ctr": 2.6727,
+        "spend": 662.31,
+        "results": 370
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr": 2.3399,
+        "spend": 1226.17,
+        "results": 1152
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr": 1.7831,
+        "spend": 41.92,
+        "results": 30
+      },
+      {
+        "bucket": "4x+",
+        "ctr": 1.3572,
+        "spend": 6.51,
+        "results": 2
+      }
+    ]
+  },
+  "anomaly_detection": {
+    "total_anomalies": 0,
+    "anomalies": []
+  },
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "quality_score": 2.7,
+        "spend": 205.14,
+        "results": 242
+      },
+      {
+        "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+        "quality_score": 2.7,
+        "spend": 50,
+        "results": 227
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil -Julio",
+        "quality_score": 2.3,
+        "spend": 90,
+        "results": 93
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - Febrero",
+        "quality_score": 2.1,
+        "spend": 149.98,
+        "results": 48
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Abril",
+        "quality_score": 2.1,
+        "spend": 124.92,
+        "results": 87
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "Rotec - interacción - abril",
+        "quality_score": 0.1,
+        "spend": 49.98,
+        "results": 0
+      },
+      {
+        "campaign": "Nuevo Reconocimiento Campaña",
+        "quality_score": 0.1,
+        "spend": 93.54,
+        "results": 11
+      },
+      {
+        "campaign": "Kildes - Vendedores - Alcance - Mayo",
+        "quality_score": 0.2,
+        "spend": 29.97,
+        "results": 3
+      },
+      {
+        "campaign": "Kildes - Retargeting - Leads - Febrero",
+        "quality_score": 0.3,
+        "spend": 14.54,
+        "results": 0
+      },
+      {
+        "campaign": "Nuevo Tráfico Campaña",
+        "quality_score": 0.4,
+        "spend": 0.55,
+        "results": 0
+      }
+    ]
+  },
+  "campaign_keywords": [
+    {
+      "word": "KILDES",
+      "count": 9
+    },
+    {
+      "word": "ROTEC",
+      "count": 7
+    },
+    {
+      "word": "VISITAS",
+      "count": 6
+    },
+    {
+      "word": "PERFIL",
+      "count": 6
+    },
+    {
+      "word": "LEADS",
+      "count": 6
+    },
+    {
+      "word": "CAMPAÑA",
+      "count": 4
+    },
+    {
+      "word": "FEBRERO",
+      "count": 4
+    },
+    {
+      "word": "TOFU",
+      "count": 4
+    },
+    {
+      "word": "ABRIL",
+      "count": 4
+    },
+    {
+      "word": "NUEVO",
+      "count": 3
+    },
+    {
+      "word": "VENTAS",
+      "count": 2
+    },
+    {
+      "word": "MARZO",
+      "count": 2
+    },
+    {
+      "word": "JUNIO",
+      "count": 2
+    },
+    {
+      "word": "MAYO",
+      "count": 2
+    },
+    {
+      "word": "VENDEDORES",
+      "count": 2
+    },
+    {
+      "word": "ALCANCE",
+      "count": 2
+    },
+    {
+      "word": "AGOSTO",
+      "count": 1
+    },
+    {
+      "word": "NUEVA",
+      "count": 1
+    },
+    {
+      "word": "RECONOCIMIENTO",
+      "count": 1
+    },
+    {
+      "word": "JULIO",
+      "count": 1
+    }
+  ]
+}

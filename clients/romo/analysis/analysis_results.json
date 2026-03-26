@@ -1,0 +1,445 @@
+{
+  "metadata": {
+    "client": "romo",
+    "report_period": "2026-01-07 to 2026-02-07",
+    "generated_at": "2026-02-12T12:35:52.065224",
+    "total_rows": 530,
+    "total_columns": 35,
+    "columns_found": [
+      "campaign",
+      "ad_name",
+      "age",
+      "gender",
+      "reach",
+      "impressions",
+      "frequency",
+      "Currency",
+      "spend",
+      "Attribution setting",
+      "link_clicks",
+      "CPC (cost per link click)",
+      "clicks_all",
+      "cpc",
+      "ctr_all",
+      "Views",
+      "video_25",
+      "video_50",
+      "video_75",
+      "video_95",
+      "video_100",
+      "comments",
+      "Cost per post engagement",
+      "Messaging conversations started",
+      "cost_per_messaging",
+      "cpm",
+      "report_start",
+      "report_end",
+      "results",
+      "cost_per_result",
+      "unique_clicks",
+      "unique_ctr",
+      "result_rate",
+      "outbound_ctr",
+      "ctr_link"
+    ]
+  },
+  "global_kpis": {
+    "total_spend": 360.85,
+    "total_reach": 369043,
+    "total_impressions": 583634,
+    "total_results": 1775,
+    "total_clicks": 9987,
+    "total_comments": 573,
+    "cost_per_result": 0.2033,
+    "avg_cpm": 0.6183,
+    "avg_cpc": 0.0361,
+    "avg_ctr": 2.9171,
+    "avg_frequency": 1.58,
+    "unique_campaigns": 1,
+    "total_rows": 530,
+    "result_type_breakdown": []
+  },
+  "campaign_performance": {
+    "top_campaigns": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "spend": 360.85,
+        "results": 1775,
+        "cost_per_result": 0.2033,
+        "efficiency_score": 4.9189,
+        "reach": 369043
+      }
+    ],
+    "most_efficient": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "spend": 360.85,
+        "results": 1775,
+        "cost_per_result": 0.2033,
+        "efficiency_score": 4.9189
+      }
+    ],
+    "pareto": {
+      "campaigns_for_80pct_spend": 0,
+      "results_from_80pct_spend": 0.0,
+      "data": [
+        {
+          "campaign": "CP - ROMO VENEZUELA",
+          "spend": 360.85,
+          "spend_cumulative_pct": 100.0,
+          "results": 1775,
+          "results_cumulative_pct": 100.0
+        }
+      ]
+    },
+    "all_campaigns": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "spend": 360.85,
+        "results": 1775,
+        "cpr": 0.2033
+      }
+    ]
+  },
+  "demographic_analysis": {
+    "heatmap_spend": [
+      {
+        "age": "18-24",
+        "female": 5.88,
+        "male": 2.12,
+        "unknown": 0.02
+      },
+      {
+        "age": "25-34",
+        "female": 27.61,
+        "male": 5.26,
+        "unknown": 0.17
+      },
+      {
+        "age": "35-44",
+        "female": 66.89,
+        "male": 9.12,
+        "unknown": 0.38
+      },
+      {
+        "age": "45-54",
+        "female": 72.86,
+        "male": 13.52,
+        "unknown": 0.59
+      },
+      {
+        "age": "55-64",
+        "female": 55.3,
+        "male": 18.72,
+        "unknown": 0.82
+      },
+      {
+        "age": "65+",
+        "female": 58.77,
+        "male": 22.1,
+        "unknown": 0.72
+      },
+      {
+        "age": "Unknown",
+        "female": 0.0,
+        "male": 0.0,
+        "unknown": 0.0
+      }
+    ],
+    "heatmap_results": [
+      {
+        "age": "18-24",
+        "female": 18.0,
+        "male": 2.0,
+        "unknown": 0.0
+      },
+      {
+        "age": "25-34",
+        "female": 145.0,
+        "male": 25.0,
+        "unknown": 0.0
+      },
+      {
+        "age": "35-44",
+        "female": 413.0,
+        "male": 60.0,
+        "unknown": 2.0
+      },
+      {
+        "age": "45-54",
+        "female": 383.0,
+        "male": 85.0,
+        "unknown": 0.0
+      },
+      {
+        "age": "55-64",
+        "female": 219.0,
+        "male": 97.0,
+        "unknown": 2.0
+      },
+      {
+        "age": "65+",
+        "female": 229.0,
+        "male": 89.0,
+        "unknown": 5.0
+      },
+      {
+        "age": "Unknown",
+        "female": 0.0,
+        "male": 0.0,
+        "unknown": 1.0
+      }
+    ],
+    "heatmap_cpr": [
+      {
+        "age": "18-24",
+        "female": 0.33,
+        "male": 1.06,
+        "unknown": 0.0
+      },
+      {
+        "age": "25-34",
+        "female": 0.19,
+        "male": 0.21,
+        "unknown": 0.0
+      },
+      {
+        "age": "35-44",
+        "female": 0.16,
+        "male": 0.15,
+        "unknown": 0.19
+      },
+      {
+        "age": "45-54",
+        "female": 0.19,
+        "male": 0.16,
+        "unknown": 0.0
+      },
+      {
+        "age": "55-64",
+        "female": 0.25,
+        "male": 0.19,
+        "unknown": 0.41
+      },
+      {
+        "age": "65+",
+        "female": 0.26,
+        "male": 0.25,
+        "unknown": 0.14
+      },
+      {
+        "age": "Unknown",
+        "female": 0.0,
+        "male": 0.0,
+        "unknown": 0.0
+      }
+    ],
+    "age_distribution": [
+      {
+        "age": "18-24",
+        "spend": 8.02,
+        "results": 20,
+        "pct_spend": 2.2
+      },
+      {
+        "age": "25-34",
+        "spend": 33.04,
+        "results": 170,
+        "pct_spend": 9.2
+      },
+      {
+        "age": "35-44",
+        "spend": 76.39,
+        "results": 475,
+        "pct_spend": 21.2
+      },
+      {
+        "age": "45-54",
+        "spend": 86.97,
+        "results": 468,
+        "pct_spend": 24.1
+      },
+      {
+        "age": "55-64",
+        "spend": 74.84,
+        "results": 318,
+        "pct_spend": 20.7
+      },
+      {
+        "age": "65+",
+        "spend": 81.59,
+        "results": 323,
+        "pct_spend": 22.6
+      },
+      {
+        "age": "Unknown",
+        "spend": 0.0,
+        "results": 1,
+        "pct_spend": 0.0
+      }
+    ],
+    "best_demographics": [
+      {
+        "age": "45-54",
+        "gender": "male",
+        "cost_per_result": 0.1591,
+        "results": 85,
+        "spend": 13.52
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "cost_per_result": 0.162,
+        "results": 413,
+        "spend": 66.89
+      },
+      {
+        "age": "45-54",
+        "gender": "female",
+        "cost_per_result": 0.1902,
+        "results": 383,
+        "spend": 72.86
+      },
+      {
+        "age": "25-34",
+        "gender": "female",
+        "cost_per_result": 0.1904,
+        "results": 145,
+        "spend": 27.61
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "cost_per_result": 0.193,
+        "results": 97,
+        "spend": 18.72
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "cost_per_result": 0.2483,
+        "results": 89,
+        "spend": 22.1
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "cost_per_result": 0.2525,
+        "results": 219,
+        "spend": 55.3
+      },
+      {
+        "age": "65+",
+        "gender": "female",
+        "cost_per_result": 0.2567,
+        "results": 229,
+        "spend": 58.77
+      }
+    ]
+  },
+  "clustering": {},
+  "conversation_analysis": {
+    "total_conversations": 11058,
+    "has_data": true,
+    "sample_fields": [
+      "id",
+      "session_id",
+      "message"
+    ],
+    "intent_analysis": [
+      {
+        "intent": "general",
+        "count": 1793,
+        "pct": 33.7
+      },
+      {
+        "intent": "precio",
+        "count": 1754,
+        "pct": 33.0
+      },
+      {
+        "intent": "informacion",
+        "count": 1180,
+        "pct": 22.2
+      },
+      {
+        "intent": "ubicacion",
+        "count": 262,
+        "pct": 4.9
+      },
+      {
+        "intent": "compra",
+        "count": 182,
+        "pct": 3.4
+      },
+      {
+        "intent": "saludo",
+        "count": 150,
+        "pct": 2.8
+      },
+      {
+        "intent": "reclamo",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "sentiment": {
+      "distribution": {
+        "positive": 260,
+        "neutral": 1634,
+        "negative": 2
+      },
+      "avg_polarity": 0.0565
+    },
+    "conversion_by_length": [
+      {
+        "length": "1-2",
+        "total": 297,
+        "rate": 15.4
+      },
+      {
+        "length": "3-5",
+        "total": 864,
+        "rate": 44.9
+      },
+      {
+        "length": "6-10",
+        "total": 599,
+        "rate": 31.1
+      },
+      {
+        "length": "10+",
+        "total": 166,
+        "rate": 8.6
+      }
+    ],
+    "total_sessions": 1926,
+    "total_messages": 11058,
+    "lead_funnel": {
+      "total_sessions": 1926,
+      "funnel_steps": [
+        {
+          "step": "Inicio conversación",
+          "count": 1926,
+          "pct": 100.0
+        },
+        {
+          "step": "Saludo",
+          "count": 136,
+          "pct": 7.1
+        },
+        {
+          "step": "Consulta (Info/Precio)",
+          "count": 1734,
+          "pct": 90.0
+        },
+        {
+          "step": "Intención de compra",
+          "count": 163,
+          "pct": 8.5
+        }
+      ],
+      "conversion_rate_complete": 8.5
+    }
+  }
+}

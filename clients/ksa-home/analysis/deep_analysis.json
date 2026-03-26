@@ -1,0 +1,333 @@
+{
+  "video_retention": {
+    "totals": {
+      "video_25": 175819,
+      "video_50": 103283,
+      "video_75": 62555,
+      "video_95": 42346,
+      "video_100": 36879
+    },
+    "retention_rates": {
+      "video_25": 100,
+      "video_50": 58.7,
+      "video_75": 35.6,
+      "video_95": 24.1,
+      "video_100": 21
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "retention_100": 10.7
+      },
+      {
+        "age": "25-34",
+        "retention_100": 16.6
+      },
+      {
+        "age": "35-44",
+        "retention_100": 20.7
+      },
+      {
+        "age": "45-54",
+        "retention_100": 22.8
+      },
+      {
+        "age": "55-64",
+        "retention_100": 23.1
+      },
+      {
+        "age": "65+",
+        "retention_100": 21.4
+      },
+      {
+        "age": "Unknown",
+        "retention_100": null
+      }
+    ]
+  },
+  "frequency_optimization": {
+    "avg_frequency": 2.59,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5x",
+        "spend": 1371.6,
+        "results": 47901,
+        "cpr": 0.03,
+        "rows": 535
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "spend": 634.11,
+        "results": 26112,
+        "cpr": 0.02,
+        "rows": 220
+      },
+      {
+        "bucket": "2.5-4x",
+        "spend": 1.53,
+        "results": 48,
+        "cpr": 0.03,
+        "rows": 24
+      },
+      {
+        "bucket": "4x+",
+        "spend": 0.55,
+        "results": 20,
+        "cpr": 0.03,
+        "rows": 9
+      }
+    ]
+  },
+  "engagement": {
+    "total_comments": 523,
+    "total_engagements": 0,
+    "total_ig_profile_visits": 0,
+    "avg_engagements_per_row": 0,
+    "top_campaigns_by_engagement": [
+      {
+        "campaign": "día del padre anuncio",
+        "engagements": 39466,
+        "comments": 10,
+        "ig_visits": 4028
+      },
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "engagements": 30783,
+        "comments": 7,
+        "ig_visits": 5077
+      },
+      {
+        "campaign": "Publicación de Instagram: En cada producto MA...",
+        "engagements": 28681,
+        "comments": 8,
+        "ig_visits": 3293
+      },
+      {
+        "campaign": "Nueva campaña de Tráfico",
+        "engagements": 27582,
+        "comments": 2,
+        "ig_visits": 8
+      },
+      {
+        "campaign": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "engagements": 26966,
+        "comments": 22,
+        "ig_visits": 4228
+      }
+    ]
+  },
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 84.5,
+      "results": 3647,
+      "cpr": 0.0232,
+      "cpm": 0.8629,
+      "cpc": 0.0213,
+      "ctr": 3.9549,
+      "comments": 17,
+      "link_clicks": 3658
+    },
+    {
+      "age": "25-34",
+      "spend": 311,
+      "results": 13174,
+      "cpr": 0.0236,
+      "cpm": 0.888,
+      "cpc": 0.0223,
+      "ctr": 3.8354,
+      "comments": 57,
+      "link_clicks": 12939
+    },
+    {
+      "age": "35-44",
+      "spend": 462.22,
+      "results": 16145,
+      "cpr": 0.0286,
+      "cpm": 1.0222,
+      "cpc": 0.0255,
+      "ctr": 3.3375,
+      "comments": 100,
+      "link_clicks": 16709
+    },
+    {
+      "age": "45-54",
+      "spend": 497.87,
+      "results": 16488,
+      "cpr": 0.0302,
+      "cpm": 1.1962,
+      "cpc": 0.0266,
+      "ctr": 3.6936,
+      "comments": 150,
+      "link_clicks": 17250
+    },
+    {
+      "age": "55-64",
+      "spend": 420.03,
+      "results": 15539,
+      "cpr": 0.027,
+      "cpm": 1.1297,
+      "cpc": 0.0231,
+      "ctr": 4.734,
+      "comments": 132,
+      "link_clicks": 16551
+    },
+    {
+      "age": "65+",
+      "spend": 232.47,
+      "results": 9098,
+      "cpr": 0.0256,
+      "cpm": 1.0452,
+      "cpc": 0.0207,
+      "ctr": 4.9253,
+      "comments": 67,
+      "link_clicks": 9943
+    },
+    {
+      "age": "Unknown",
+      "spend": 0,
+      "results": 0,
+      "cpr": 0,
+      "cpm": 0,
+      "cpc": 0,
+      "ctr": 0,
+      "comments": 0,
+      "link_clicks": 0
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 1212.81,
+      "results": 49881,
+      "cpr": 0.0243,
+      "ctr": 3.9876,
+      "comments": 388,
+      "link_clicks": 50747,
+      "frequency": 1.3758
+    },
+    {
+      "gender": "male",
+      "spend": 781.54,
+      "results": 23710,
+      "cpr": 0.033,
+      "ctr": 3.7181,
+      "comments": 133,
+      "link_clicks": 25786,
+      "frequency": 1.3888
+    },
+    {
+      "gender": "unknown",
+      "spend": 13.74,
+      "results": 500,
+      "cpr": 0.0275,
+      "ctr": 4.48,
+      "comments": 2,
+      "link_clicks": 517,
+      "frequency": 1.5088
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "reach",
+      "var_b": "results",
+      "pearson_r": 0.8001
+    },
+    {
+      "var_a": "impressions",
+      "var_b": "comments",
+      "pearson_r": 0.5422
+    },
+    {
+      "var_a": "spend",
+      "var_b": "results",
+      "pearson_r": 0.691
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "results",
+      "pearson_r": 0.0227
+    },
+    {
+      "var_a": "spend",
+      "var_b": "ctr_all",
+      "pearson_r": -0.012
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0327
+    }
+  ],
+  "campaign_ranking": {
+    "top": [
+      {
+        "campaign": "Publicación de Instagram: Nos encanta que...",
+        "spend": 31.97,
+        "results": 3503,
+        "cpr": 0.0091,
+        "efficiency": 109.5715
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+        "spend": 19.91,
+        "results": 2065,
+        "cpr": 0.0096,
+        "efficiency": 103.7167
+      },
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cpr": 0.0098,
+        "efficiency": 101.7231
+      },
+      {
+        "campaign": "Publicación de Instagram: ATENCIÓN CONSTRUCTORES,...",
+        "spend": 26.79,
+        "results": 2421,
+        "cpr": 0.0111,
+        "efficiency": 90.3695
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "spend": 39.97,
+        "results": 3249,
+        "cpr": 0.0123,
+        "efficiency": 81.286
+      }
+    ],
+    "bottom": [
+      {
+        "campaign": "DRYWALL",
+        "spend": 60.57,
+        "results": 8,
+        "cpr": 7.5713
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡EL TRÍO DINÁMICO DE LA...",
+        "spend": 19.56,
+        "results": 20,
+        "cpr": 0.978
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+        "spend": 70.11,
+        "results": 272,
+        "cpr": 0.2578
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Atención! ❗️ Este...",
+        "spend": 39.95,
+        "results": 168,
+        "cpr": 0.2378
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "spend": 209.86,
+        "results": 1312,
+        "cpr": 0.16
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "product_performance": [
+    {
+      "product": "OTROS",
+      "spend": 360.85,
+      "results": 1775,
+      "cpr": 0.2033,
+      "campaigns": 1,
+      "reach": 369043
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 360.85,
+    "wasted_spend": 0.0,
+    "waste_percentage": 0.0,
+    "rows_without_results": 0,
+    "by_campaign": [],
+    "by_product": []
+  },
+  "ad_fatigue": {
+    "by_saturation": [
+      {
+        "bucket": "1-1.5x",
+        "ctr": 3.3308,
+        "spend": 147.25,
+        "results": 400
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr": 2.343,
+        "spend": 213.55,
+        "results": 1374
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr": 0.0,
+        "spend": 0.05,
+        "results": 0
+      }
+    ]
+  },
+  "anomaly_detection": {
+    "total_anomalies": 8,
+    "anomalies": [
+      {
+        "spend": 18.7826,
+        "results": 121.0,
+        "ctr_all": 1.6967,
+        "frequency": 2.0353,
+        "reach": 8890,
+        "anomaly": -1,
+        "anomaly_score": -0.063,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 16.8723,
+        "results": 106.0,
+        "ctr_all": 1.3726,
+        "frequency": 2.1893,
+        "reach": 9584,
+        "anomaly": -1,
+        "anomaly_score": -0.0612,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 16.1,
+        "results": 98.0,
+        "ctr_all": 2.303,
+        "frequency": 1.983,
+        "reach": 13532,
+        "anomaly": -1,
+        "anomaly_score": -0.0614,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 13.93,
+        "results": 151.0,
+        "ctr_all": 4.9066,
+        "frequency": 1.5327,
+        "reach": 12154,
+        "anomaly": -1,
+        "anomaly_score": -0.1218,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 11.31,
+        "results": 114.0,
+        "ctr_all": 5.099,
+        "frequency": 1.5078,
+        "reach": 7466,
+        "anomaly": -1,
+        "anomaly_score": -0.0313,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 7.66,
+        "results": 48.0,
+        "ctr_all": 3.019,
+        "frequency": 2.2202,
+        "reach": 12845,
+        "anomaly": -1,
+        "anomaly_score": -0.029,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 7.41,
+        "results": 43.0,
+        "ctr_all": 3.6277,
+        "frequency": 1.8167,
+        "reach": 13231,
+        "anomaly": -1,
+        "anomaly_score": -0.0098,
+        "campaign": "CP - ROMO VENEZUELA"
+      },
+      {
+        "spend": 0.0,
+        "results": 1.0,
+        "ctr_all": 100.0,
+        "frequency": 1.0,
+        "reach": 1,
+        "anomaly": -1,
+        "anomaly_score": -0.0337,
+        "campaign": "CP - ROMO VENEZUELA"
+      }
+    ]
+  },
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "quality_score": 1.6,
+        "spend": 360.85,
+        "results": 1775
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "CP - ROMO VENEZUELA",
+        "quality_score": 1.6,
+        "spend": 360.85,
+        "results": 1775
+      }
+    ]
+  },
+  "campaign_keywords": [
+    {
+      "word": "ROMO",
+      "count": 1
+    },
+    {
+      "word": "VENEZUELA",
+      "count": 1
+    }
+  ]
+}

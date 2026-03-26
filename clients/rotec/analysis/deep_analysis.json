@@ -1,0 +1,321 @@
+{
+  "video_retention": {
+    "totals": {
+      "video_25": 234360,
+      "video_50": 138820,
+      "video_75": 93738,
+      "video_95": 49575,
+      "video_100": 37925
+    },
+    "retention_rates": {
+      "video_25": 100,
+      "video_50": 59.2,
+      "video_75": 40,
+      "video_95": 21.2,
+      "video_100": 16.2
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "retention_100": 14.6
+      },
+      {
+        "age": "25-34",
+        "retention_100": 15
+      },
+      {
+        "age": "35-44",
+        "retention_100": 16.3
+      },
+      {
+        "age": "45-54",
+        "retention_100": 16.8
+      },
+      {
+        "age": "55-64",
+        "retention_100": 16.4
+      },
+      {
+        "age": "65+",
+        "retention_100": 15.7
+      },
+      {
+        "age": "Unknown",
+        "retention_100": null
+      }
+    ]
+  },
+  "frequency_optimization": {
+    "avg_frequency": 2.56,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5",
+        "spend": 662.31,
+        "results": 370,
+        "cpr": 1.79,
+        "rows": 364
+      },
+      {
+        "bucket": "1.5-2.5",
+        "spend": 1226.17,
+        "results": 1152,
+        "cpr": 1.06,
+        "rows": 364
+      },
+      {
+        "bucket": "2.5-4",
+        "spend": 41.92,
+        "results": 30,
+        "cpr": 1.4,
+        "rows": 61
+      },
+      {
+        "bucket": "4+",
+        "spend": 6.51,
+        "results": 2,
+        "cpr": 3.25,
+        "rows": 16
+      }
+    ]
+  },
+  "engagement": {
+    "total_comments": 977,
+    "avg_comments": 1.17,
+    "top_campaigns": [
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "comments": 275
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Abril",
+        "comments": 176
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Junio",
+        "comments": 98
+      },
+      {
+        "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+        "comments": 83
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil -Julio",
+        "comments": 54
+      }
+    ]
+  },
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 75.6268,
+      "results": 30,
+      "cpr": 2.5209,
+      "cpm": 0.165,
+      "cpc": 0.0345,
+      "ctr": 2.2083,
+      "comments": 7,
+      "link_clicks": 891
+    },
+    {
+      "age": "25-34",
+      "spend": 231.3939,
+      "results": 149,
+      "cpr": 1.553,
+      "cpm": 0.302,
+      "cpc": 0.0334,
+      "ctr": 1.7135,
+      "comments": 85,
+      "link_clicks": 3540
+    },
+    {
+      "age": "35-44",
+      "spend": 351.2294,
+      "results": 340,
+      "cpr": 1.033,
+      "cpm": 0.4926,
+      "cpc": 0.0312,
+      "ctr": 2.231,
+      "comments": 226,
+      "link_clicks": 5951
+    },
+    {
+      "age": "45-54",
+      "spend": 467.5933,
+      "results": 403,
+      "cpr": 1.1603,
+      "cpm": 0.7123,
+      "cpc": 0.0341,
+      "ctr": 2.3455,
+      "comments": 307,
+      "link_clicks": 8074
+    },
+    {
+      "age": "55-64",
+      "spend": 484.8224,
+      "results": 392,
+      "cpr": 1.2368,
+      "cpm": 0.8475,
+      "cpc": 0.0363,
+      "ctr": 3.4086,
+      "comments": 227,
+      "link_clicks": 8686
+    },
+    {
+      "age": "65+",
+      "spend": 326.5042,
+      "results": 240,
+      "cpr": 1.3604,
+      "cpm": 0.9674,
+      "cpc": 0.0377,
+      "ctr": 3.0113,
+      "comments": 125,
+      "link_clicks": 6112
+    },
+    {
+      "age": "Unknown",
+      "spend": 0,
+      "results": 0,
+      "cpr": 0,
+      "cpm": 0,
+      "cpc": 0,
+      "ctr": 0,
+      "comments": 0,
+      "link_clicks": 0
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 677.1029,
+      "results": 373,
+      "cpr": 1.8153,
+      "ctr": 2.6072,
+      "comments": 207,
+      "link_clicks": 11353,
+      "frequency": 1.5911
+    },
+    {
+      "gender": "male",
+      "spend": 1244.2993,
+      "results": 1166,
+      "cpr": 1.0672,
+      "ctr": 2.3734,
+      "comments": 766,
+      "link_clicks": 21665,
+      "frequency": 1.7157
+    },
+    {
+      "gender": "unknown",
+      "spend": 15.7678,
+      "results": 15,
+      "cpr": 1.0512,
+      "ctr": 2.4794,
+      "comments": 4,
+      "link_clicks": 236,
+      "frequency": 1.7046
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "reach",
+      "var_b": "results",
+      "pearson_r": 0.4403
+    },
+    {
+      "var_a": "impressions",
+      "var_b": "comments",
+      "pearson_r": 0.3551
+    },
+    {
+      "var_a": "spend",
+      "var_b": "results",
+      "pearson_r": 0.6615
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "results",
+      "pearson_r": 0.0149
+    },
+    {
+      "var_a": "spend",
+      "var_b": "ctr_all",
+      "pearson_r": -0.0026
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "ctr_all",
+      "pearson_r": -0.0968
+    }
+  ],
+  "campaign_ranking": {
+    "top": [
+      {
+        "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+        "spend": 50,
+        "results": 227,
+        "cpr": 0.2203,
+        "efficiency": 4.54
+      },
+      {
+        "campaign": "Nueva campaña de Ventas",
+        "spend": 161.7,
+        "results": 295,
+        "cpr": 0.5481,
+        "efficiency": 1.8244
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Junio",
+        "spend": 99.97,
+        "results": 170,
+        "cpr": 0.5881,
+        "efficiency": 1.7005
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "spend": 205.14,
+        "results": 242,
+        "cpr": 0.8477,
+        "efficiency": 1.1797
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil -Julio",
+        "spend": 90,
+        "results": 93,
+        "cpr": 0.9677,
+        "efficiency": 1.0333
+      }
+    ],
+    "bottom": [
+      {
+        "campaign": "Kildes - Promo llaves  - Febrero",
+        "spend": 59.84,
+        "results": 4,
+        "cpr": 14.96
+      },
+      {
+        "campaign": "Kildes - Vendedores - Alcance - Mayo",
+        "spend": 29.97,
+        "results": 3,
+        "cpr": 9.99
+      },
+      {
+        "campaign": "Publicación de Instagram: Extractor de Aire...",
+        "spend": 72.92,
+        "results": 8,
+        "cpr": 9.115
+      },
+      {
+        "campaign": "Nuevo Reconocimiento Campaña",
+        "spend": 93.54,
+        "results": 11,
+        "cpr": 8.5036
+      },
+      {
+        "campaign": "Kildes - Vendedores - Alcance - Abril",
+        "spend": 24.95,
+        "results": 3,
+        "cpr": 8.3167
+      }
+    ]
+  }
+}

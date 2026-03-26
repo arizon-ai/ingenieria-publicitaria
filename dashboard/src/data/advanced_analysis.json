@@ -1,0 +1,1502 @@
+{
+  "product_performance": [
+    {
+      "product": "PIRAMIDE",
+      "spend": 7975.58,
+      "results": 11172,
+      "reach": 4000177,
+      "ctr": 78.91,
+      "cost_per_result": 0.71,
+      "cpm": 1.11,
+      "campaigns": 67,
+      "comments": 972,
+      "clicks": 56872,
+      "frequency": 1.27
+    },
+    {
+      "product": "RACK",
+      "spend": 3067.81,
+      "results": 3105,
+      "reach": 1630697,
+      "ctr": 78.59,
+      "cost_per_result": 0.99,
+      "cpm": 1.05,
+      "campaigns": 26,
+      "comments": 786,
+      "clicks": 22785,
+      "frequency": 1.31
+    },
+    {
+      "product": "OTROS",
+      "spend": 2764.92,
+      "results": 3180,
+      "reach": 1345802,
+      "ctr": 94.7,
+      "cost_per_result": 0.87,
+      "cpm": 1.22,
+      "campaigns": 23,
+      "comments": 385,
+      "clicks": 18914,
+      "frequency": 1.31
+    },
+    {
+      "product": "PASILLO",
+      "spend": 481.64,
+      "results": 0,
+      "reach": 159296,
+      "ctr": 95.62,
+      "cost_per_result": 0,
+      "cpm": 1.46,
+      "campaigns": 1,
+      "comments": 40,
+      "clicks": 2406,
+      "frequency": 2.03
+    },
+    {
+      "product": "ROSARIO",
+      "spend": 80.2,
+      "results": 0,
+      "reach": 29639,
+      "ctr": 53.32,
+      "cost_per_result": 0,
+      "cpm": 1.05,
+      "campaigns": 1,
+      "comments": 1,
+      "clicks": 431,
+      "frequency": 2.57
+    },
+    {
+      "product": "MOSTRADOR",
+      "spend": 79.89,
+      "results": 0,
+      "reach": 57588,
+      "ctr": 225.77,
+      "cost_per_result": 0,
+      "cpm": 1.09,
+      "campaigns": 1,
+      "comments": 75,
+      "clicks": 1273,
+      "frequency": 1.36
+    },
+    {
+      "product": "CHECK OUT",
+      "spend": 62.74,
+      "results": 29,
+      "reach": 46670,
+      "ctr": 49.34,
+      "cost_per_result": 2.16,
+      "cpm": 1.15,
+      "campaigns": 1,
+      "comments": 5,
+      "clicks": 291,
+      "frequency": 1.47
+    },
+    {
+      "product": "ESTANTE",
+      "spend": 15.36,
+      "results": 0,
+      "reach": 9551,
+      "ctr": 199.73,
+      "cost_per_result": 0,
+      "cpm": 1.38,
+      "campaigns": 1,
+      "comments": 2,
+      "clicks": 105,
+      "frequency": 1.17
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 14528.14,
+    "wasted_spend": 3659.53,
+    "waste_percentage": 25.19,
+    "rows_without_results": 1333,
+    "total_rows": 2197,
+    "by_campaign": [
+      {
+        "campaign": "PIRAMIDE N4",
+        "wasted": 1611.98,
+        "reach": 513408,
+        "impressions": 1268439,
+        "clicks": 9801
+      },
+      {
+        "campaign": "PASILLO GALA 24",
+        "wasted": 481.64,
+        "reach": 159296,
+        "impressions": 329730,
+        "clicks": 2406
+      },
+      {
+        "campaign": "RACK N3",
+        "wasted": 390.8,
+        "reach": 162432,
+        "impressions": 339944,
+        "clicks": 3643
+      },
+      {
+        "campaign": "SIERRA BOIA 1",
+        "wasted": 85.35,
+        "reach": 53563,
+        "impressions": 67999,
+        "clicks": 543
+      },
+      {
+        "campaign": "MARKET Y ALMACEN VILLA MACHIQUES Y VILLA DEL ROSARIO",
+        "wasted": 80.2,
+        "reach": 29639,
+        "impressions": 76458,
+        "clicks": 431
+      },
+      {
+        "campaign": "MOSTRADOR N1",
+        "wasted": 79.89,
+        "reach": 57588,
+        "impressions": 73609,
+        "clicks": 1273
+      },
+      {
+        "campaign": "PIRAMIDE N1",
+        "wasted": 64.94,
+        "reach": 38475,
+        "impressions": 41742,
+        "clicks": 297
+      },
+      {
+        "campaign": "MUEBLES DE MADERA A MEDIDA 24",
+        "wasted": 42.93,
+        "reach": 26344,
+        "impressions": 34772,
+        "clicks": 825
+      },
+      {
+        "campaign": "Nueva campaña de Interacción",
+        "wasted": 38.99,
+        "reach": 19335,
+        "impressions": 22410,
+        "clicks": 173
+      },
+      {
+        "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+        "wasted": 34.9,
+        "reach": 18920,
+        "impressions": 21896,
+        "clicks": 757
+      },
+      {
+        "campaign": "RACK BLANCO 1",
+        "wasted": 34.34,
+        "reach": 17152,
+        "impressions": 19565,
+        "clicks": 87
+      },
+      {
+        "campaign": "RACK JULIO 2",
+        "wasted": 23.79,
+        "reach": 11518,
+        "impressions": 12565,
+        "clicks": 59
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 4",
+        "wasted": 23.3,
+        "reach": 13122,
+        "impressions": 14760,
+        "clicks": 98
+      },
+      {
+        "campaign": "PIRAMIDES  IA MOD 24",
+        "wasted": 22.99,
+        "reach": 14207,
+        "impressions": 15596,
+        "clicks": 122
+      },
+      {
+        "campaign": "RACKS NUEVA ESPARTA",
+        "wasted": 22.83,
+        "reach": 12523,
+        "impressions": 20766,
+        "clicks": 75
+      }
+    ],
+    "waste_by_product": [
+      {
+        "product": "PIRAMIDE",
+        "wasted": 2055.76,
+        "rows": 682
+      },
+      {
+        "product": "RACK",
+        "wasted": 599.16,
+        "rows": 283
+      },
+      {
+        "product": "PASILLO",
+        "wasted": 481.64,
+        "rows": 18
+      },
+      {
+        "product": "OTROS",
+        "wasted": 341.58,
+        "rows": 287
+      },
+      {
+        "product": "ROSARIO",
+        "wasted": 80.2,
+        "rows": 18
+      },
+      {
+        "product": "MOSTRADOR",
+        "wasted": 79.89,
+        "rows": 18
+      },
+      {
+        "product": "ESTANTE",
+        "wasted": 15.36,
+        "rows": 18
+      },
+      {
+        "product": "CHECK OUT",
+        "wasted": 5.94,
+        "rows": 9
+      }
+    ]
+  },
+  "ad_fatigue": {
+    "avg_saturation": 1.33,
+    "median_saturation": 1.14,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5x",
+        "ctr_avg": 82.898,
+        "results": 7146,
+        "spend": 4045.32,
+        "cost_per_result": 0.57,
+        "rows": 1770
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr_avg": 89.4897,
+        "results": 10287,
+        "spend": 9161.61,
+        "cost_per_result": 0.89,
+        "rows": 315
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr_avg": 79.3428,
+        "results": 40,
+        "spend": 1295.08,
+        "cost_per_result": 32.38,
+        "rows": 52
+      },
+      {
+        "bucket": "4-8x",
+        "ctr_avg": 89.33,
+        "results": 5,
+        "spend": 21.89,
+        "cost_per_result": 4.38,
+        "rows": 22
+      },
+      {
+        "bucket": "8x+",
+        "ctr_avg": 34.1297,
+        "results": 0,
+        "spend": 0.23,
+        "cost_per_result": 0,
+        "rows": 1
+      }
+    ],
+    "saturation_ctr_correlation": {
+      "pearson_r": 0.0103,
+      "p_value": 0.633704,
+      "interpretation": "Sin fatiga significativa"
+    }
+  },
+  "anomalies": {
+    "total_anomalies": 37,
+    "pct_anomalous": 5.12,
+    "anomalous_records": [
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "product": "PIRAMIDE",
+        "spend": 263.87,
+        "results": 319,
+        "ctr": 94.4348,
+        "frequency": 2.25,
+        "score": -0.1841
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "product": "PIRAMIDE",
+        "spend": 262.21,
+        "results": 292,
+        "ctr": 99.1459,
+        "frequency": 2.15,
+        "score": -0.1668
+      },
+      {
+        "campaign": "RACK N3",
+        "product": "RACK",
+        "spend": 339.71,
+        "results": 10,
+        "ctr": 80.9245,
+        "frequency": 2.69,
+        "score": -0.1619
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "product": "PIRAMIDE",
+        "spend": 224.05,
+        "results": 246,
+        "ctr": 76.2255,
+        "frequency": 2.37,
+        "score": -0.151
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "product": "OTROS",
+        "spend": 247.48,
+        "results": 292,
+        "ctr": 72.7309,
+        "frequency": 2.28,
+        "score": -0.1504
+      },
+      {
+        "campaign": "RACK N3",
+        "product": "RACK",
+        "spend": 227.19,
+        "results": 6,
+        "ctr": 72.8808,
+        "frequency": 2.65,
+        "score": -0.1375
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "product": "OTROS",
+        "spend": 194.3,
+        "results": 219,
+        "ctr": 65.1692,
+        "frequency": 2.19,
+        "score": -0.1292
+      },
+      {
+        "campaign": "RACK N3",
+        "product": "RACK",
+        "spend": 267.47,
+        "results": 2,
+        "ctr": 97.6437,
+        "frequency": 2.43,
+        "score": -0.1291
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "product": "PIRAMIDE",
+        "spend": 209.22,
+        "results": 197,
+        "ctr": 78.734,
+        "frequency": 2.49,
+        "score": -0.1274
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "product": "RACK",
+        "spend": 26.08,
+        "results": 468,
+        "ctr": 57.0212,
+        "frequency": 1.61,
+        "score": -0.1241
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "product": "OTROS",
+        "spend": 208.75,
+        "results": 259,
+        "ctr": 86.5723,
+        "frequency": 1.96,
+        "score": -0.1074
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "product": "PIRAMIDE",
+        "spend": 172.39,
+        "results": 143,
+        "ctr": 62.6044,
+        "frequency": 2.06,
+        "score": -0.1029
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "product": "PIRAMIDE",
+        "spend": 163.14,
+        "results": 140,
+        "ctr": 50.2601,
+        "frequency": 2.36,
+        "score": -0.0931
+      },
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "product": "PIRAMIDE",
+        "spend": 22.81,
+        "results": 510,
+        "ctr": 110.5908,
+        "frequency": 1.58,
+        "score": -0.082
+      },
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "product": "PIRAMIDE",
+        "spend": 18.96,
+        "results": 506,
+        "ctr": 105.0362,
+        "frequency": 1.55,
+        "score": -0.0745
+      },
+      {
+        "campaign": "RACK N3",
+        "product": "RACK",
+        "spend": 174.47,
+        "results": 1,
+        "ctr": 98.2813,
+        "frequency": 1.99,
+        "score": -0.0729
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "product": "PIRAMIDE",
+        "spend": 163.13,
+        "results": 120,
+        "ctr": 46.9795,
+        "frequency": 2.2,
+        "score": -0.0708
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "product": "PIRAMIDE",
+        "spend": 158.62,
+        "results": 158,
+        "ctr": 118.2383,
+        "frequency": 1.95,
+        "score": -0.0682
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "product": "PIRAMIDE",
+        "spend": 157.79,
+        "results": 124,
+        "ctr": 60.4246,
+        "frequency": 1.88,
+        "score": -0.0682
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "product": "RACK",
+        "spend": 15.63,
+        "results": 298,
+        "ctr": 45.7559,
+        "frequency": 1.61,
+        "score": -0.0647
+      }
+    ]
+  },
+  "best_combinations": [
+    {
+      "product": "RACK",
+      "age": "18-24",
+      "gender": "female",
+      "spend": 78.56,
+      "results": 352,
+      "cost_per_result": 0.22,
+      "ctr": 47.4807
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "65+",
+      "gender": "female",
+      "spend": 152.01,
+      "results": 514,
+      "cost_per_result": 0.3,
+      "ctr": 106.7734
+    },
+    {
+      "product": "OTROS",
+      "age": "65+",
+      "gender": "unknown",
+      "spend": 2.54,
+      "results": 7,
+      "cost_per_result": 0.36,
+      "ctr": 37.0733
+    },
+    {
+      "product": "OTROS",
+      "age": "65+",
+      "gender": "female",
+      "spend": 90.61,
+      "results": 234,
+      "cost_per_result": 0.39,
+      "ctr": 196.7326
+    },
+    {
+      "product": "RACK",
+      "age": "25-34",
+      "gender": "female",
+      "spend": 231.11,
+      "results": 558,
+      "cost_per_result": 0.41,
+      "ctr": 46.1342
+    },
+    {
+      "product": "RACK",
+      "age": "65+",
+      "gender": "female",
+      "spend": 103.74,
+      "results": 238,
+      "cost_per_result": 0.44,
+      "ctr": 106.4425
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "18-24",
+      "gender": "female",
+      "spend": 414.26,
+      "results": 932,
+      "cost_per_result": 0.44,
+      "ctr": 67.7977
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "18-24",
+      "gender": "male",
+      "spend": 370.21,
+      "results": 766,
+      "cost_per_result": 0.48,
+      "ctr": 50.6344
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "55-64",
+      "gender": "female",
+      "spend": 315.47,
+      "results": 628,
+      "cost_per_result": 0.5,
+      "ctr": 101.4385
+    },
+    {
+      "product": "OTROS",
+      "age": "18-24",
+      "gender": "female",
+      "spend": 79.93,
+      "results": 151,
+      "cost_per_result": 0.53,
+      "ctr": 79.7456
+    },
+    {
+      "product": "OTROS",
+      "age": "18-24",
+      "gender": "unknown",
+      "spend": 2.2,
+      "results": 4,
+      "cost_per_result": 0.55,
+      "ctr": 70.4729
+    },
+    {
+      "product": "RACK",
+      "age": "18-24",
+      "gender": "male",
+      "spend": 102.34,
+      "results": 184,
+      "cost_per_result": 0.56,
+      "ctr": 56.9282
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "25-34",
+      "gender": "female",
+      "spend": 1154.2,
+      "results": 1967,
+      "cost_per_result": 0.59,
+      "ctr": 85.6386
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "18-24",
+      "gender": "unknown",
+      "spend": 7.97,
+      "results": 13,
+      "cost_per_result": 0.61,
+      "ctr": 69.3303
+    },
+    {
+      "product": "OTROS",
+      "age": "25-34",
+      "gender": "female",
+      "spend": 225.88,
+      "results": 328,
+      "cost_per_result": 0.69,
+      "ctr": 92.77
+    },
+    {
+      "product": "OTROS",
+      "age": "55-64",
+      "gender": "female",
+      "spend": 135.81,
+      "results": 187,
+      "cost_per_result": 0.73,
+      "ctr": 117.2481
+    },
+    {
+      "product": "OTROS",
+      "age": "65+",
+      "gender": "male",
+      "spend": 112.99,
+      "results": 153,
+      "cost_per_result": 0.74,
+      "ctr": 103.5057
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "65+",
+      "gender": "male",
+      "spend": 154.58,
+      "results": 206,
+      "cost_per_result": 0.75,
+      "ctr": 111.6557
+    },
+    {
+      "product": "OTROS",
+      "age": "18-24",
+      "gender": "male",
+      "spend": 111.1,
+      "results": 143,
+      "cost_per_result": 0.78,
+      "ctr": 93.7266
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "35-44",
+      "gender": "female",
+      "spend": 1138.74,
+      "results": 1464,
+      "cost_per_result": 0.78,
+      "ctr": 92.0779
+    }
+  ],
+  "worst_combinations": [
+    {
+      "product": "RACK",
+      "age": "35-44",
+      "gender": "unknown",
+      "spend": 9.63,
+      "results": 2,
+      "cost_per_result": 4.81,
+      "ctr": 65.5139
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "35-44",
+      "gender": "female",
+      "spend": 7.1,
+      "results": 2,
+      "cost_per_result": 3.55,
+      "ctr": 52.2942
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "45-54",
+      "gender": "female",
+      "spend": 5.57,
+      "results": 2,
+      "cost_per_result": 2.79,
+      "ctr": 62.3501
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "18-24",
+      "gender": "male",
+      "spend": 2.57,
+      "results": 1,
+      "cost_per_result": 2.57,
+      "ctr": 40.9707
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "55-64",
+      "gender": "male",
+      "spend": 5.1,
+      "results": 2,
+      "cost_per_result": 2.55,
+      "ctr": 55.9611
+    },
+    {
+      "product": "RACK",
+      "age": "18-24",
+      "gender": "unknown",
+      "spend": 2.5,
+      "results": 1,
+      "cost_per_result": 2.5,
+      "ctr": 89.0006
+    },
+    {
+      "product": "RACK",
+      "age": "45-54",
+      "gender": "male",
+      "spend": 430.35,
+      "results": 182,
+      "cost_per_result": 2.36,
+      "ctr": 64.3254
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "45-54",
+      "gender": "male",
+      "spend": 9.33,
+      "results": 4,
+      "cost_per_result": 2.33,
+      "ctr": 49.3421
+    },
+    {
+      "product": "RACK",
+      "age": "45-54",
+      "gender": "unknown",
+      "spend": 11.62,
+      "results": 5,
+      "cost_per_result": 2.32,
+      "ctr": 130.626
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "25-34",
+      "gender": "male",
+      "spend": 9.15,
+      "results": 4,
+      "cost_per_result": 2.29,
+      "ctr": 43.6983
+    },
+    {
+      "product": "OTROS",
+      "age": "45-54",
+      "gender": "unknown",
+      "spend": 8.63,
+      "results": 4,
+      "cost_per_result": 2.16,
+      "ctr": 73.4754
+    },
+    {
+      "product": "RACK",
+      "age": "55-64",
+      "gender": "unknown",
+      "spend": 8.2,
+      "results": 4,
+      "cost_per_result": 2.05,
+      "ctr": 93.2642
+    },
+    {
+      "product": "RACK",
+      "age": "35-44",
+      "gender": "male",
+      "spend": 547.52,
+      "results": 274,
+      "cost_per_result": 2.0,
+      "ctr": 59.1184
+    },
+    {
+      "product": "RACK",
+      "age": "55-64",
+      "gender": "male",
+      "spend": 272.21,
+      "results": 141,
+      "cost_per_result": 1.93,
+      "ctr": 77.7883
+    },
+    {
+      "product": "OTROS",
+      "age": "25-34",
+      "gender": "unknown",
+      "spend": 4.79,
+      "results": 3,
+      "cost_per_result": 1.6,
+      "ctr": 45.4117
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "65+",
+      "gender": "unknown",
+      "spend": 4.25,
+      "results": 3,
+      "cost_per_result": 1.42,
+      "ctr": 66.3805
+    },
+    {
+      "product": "CHECK OUT",
+      "age": "35-44",
+      "gender": "male",
+      "spend": 12.68,
+      "results": 9,
+      "cost_per_result": 1.41,
+      "ctr": 65.9772
+    },
+    {
+      "product": "RACK",
+      "age": "45-54",
+      "gender": "female",
+      "spend": 274.36,
+      "results": 199,
+      "cost_per_result": 1.38,
+      "ctr": 77.1823
+    },
+    {
+      "product": "PIRAMIDE",
+      "age": "35-44",
+      "gender": "unknown",
+      "spend": 21.75,
+      "results": 16,
+      "cost_per_result": 1.36,
+      "ctr": 62.288
+    },
+    {
+      "product": "RACK",
+      "age": "65+",
+      "gender": "male",
+      "spend": 113.8,
+      "results": 86,
+      "cost_per_result": 1.32,
+      "ctr": 68.3987
+    }
+  ],
+  "diminishing_returns": [
+    {
+      "quartile": "Q1 (Low)",
+      "total_spend": 155.57,
+      "avg_spend": 7.07,
+      "total_results": 109,
+      "avg_results": 5.0,
+      "avg_cost_per_result": 2.39,
+      "campaigns": 22
+    },
+    {
+      "quartile": "Q2",
+      "total_spend": 471.42,
+      "avg_spend": 22.45,
+      "total_results": 1198,
+      "avg_results": 57.0,
+      "avg_cost_per_result": 2.89,
+      "campaigns": 21
+    },
+    {
+      "quartile": "Q3",
+      "total_spend": 1238.4,
+      "avg_spend": 58.97,
+      "total_results": 3453,
+      "avg_results": 164.4,
+      "avg_cost_per_result": 2.75,
+      "campaigns": 21
+    },
+    {
+      "quartile": "Q4 (High)",
+      "total_spend": 9906.18,
+      "avg_spend": 471.72,
+      "total_results": 12726,
+      "avg_results": 606.0,
+      "avg_cost_per_result": 4.23,
+      "campaigns": 21
+    }
+  ],
+  "campaign_keywords": [
+    {
+      "keyword": "PIRAMIDES",
+      "frequency": 51
+    },
+    {
+      "keyword": "RACK",
+      "frequency": 26
+    },
+    {
+      "keyword": "PIRAMIDE",
+      "frequency": 16
+    },
+    {
+      "keyword": "RACKS",
+      "frequency": 13
+    },
+    {
+      "keyword": "NUEVO",
+      "frequency": 13
+    },
+    {
+      "keyword": "MODELO",
+      "frequency": 10
+    },
+    {
+      "keyword": "JUN",
+      "frequency": 10
+    },
+    {
+      "keyword": "REEL",
+      "frequency": 9
+    },
+    {
+      "keyword": "NUEVA",
+      "frequency": 9
+    },
+    {
+      "keyword": "CARRETE",
+      "frequency": 6
+    },
+    {
+      "keyword": "NUEVOS",
+      "frequency": 5
+    },
+    {
+      "keyword": "INT",
+      "frequency": 5
+    },
+    {
+      "keyword": "MOD",
+      "frequency": 5
+    },
+    {
+      "keyword": "TITULO",
+      "frequency": 3
+    },
+    {
+      "keyword": "ABAJO",
+      "frequency": 3
+    },
+    {
+      "keyword": "FOTOS",
+      "frequency": 3
+    },
+    {
+      "keyword": "OFERTA",
+      "frequency": 3
+    },
+    {
+      "keyword": "TRAFICO",
+      "frequency": 3
+    },
+    {
+      "keyword": "PLUS",
+      "frequency": 3
+    },
+    {
+      "keyword": "JULIO",
+      "frequency": 3
+    },
+    {
+      "keyword": "ESPARTA",
+      "frequency": 3
+    },
+    {
+      "keyword": "NEVERAS",
+      "frequency": 3
+    },
+    {
+      "keyword": "LIBRE",
+      "frequency": 3
+    },
+    {
+      "keyword": "SEPTIEMBRE",
+      "frequency": 2
+    },
+    {
+      "keyword": "HUMANO",
+      "frequency": 2
+    },
+    {
+      "keyword": "CESTAS",
+      "frequency": 2
+    },
+    {
+      "keyword": "VIDEO",
+      "frequency": 2
+    },
+    {
+      "keyword": "MUEBLE",
+      "frequency": 2
+    },
+    {
+      "keyword": "GLUTEN",
+      "frequency": 2
+    },
+    {
+      "keyword": "ALMACEN",
+      "frequency": 2
+    }
+  ],
+  "version_performance": [
+    {
+      "version": "N1",
+      "spend": 144.83,
+      "results": 0,
+      "ctr": 145.5301,
+      "cost_per_result": 0,
+      "campaigns": 2
+    },
+    {
+      "version": "N2",
+      "spend": 10.34,
+      "results": 0,
+      "ctr": 33.9682,
+      "cost_per_result": 0,
+      "campaigns": 1
+    },
+    {
+      "version": "N3",
+      "spend": 1677.99,
+      "results": 27,
+      "ctr": 64.4236,
+      "cost_per_result": 62.15,
+      "campaigns": 2
+    },
+    {
+      "version": "N4",
+      "spend": 1611.98,
+      "results": 0,
+      "ctr": 83.1512,
+      "cost_per_result": 0,
+      "campaigns": 1
+    }
+  ],
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "quality_score": 16.2,
+        "spend": 133.56,
+        "results": 3309,
+        "ctr": 173.8626
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "quality_score": 13.8,
+        "spend": 73.41,
+        "results": 1370,
+        "ctr": 139.5131
+      },
+      {
+        "campaign": "RACKS REELS 24",
+        "quality_score": 13.4,
+        "spend": 51.35,
+        "results": 925,
+        "ctr": 134.3565
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "quality_score": 12.4,
+        "spend": 103.4,
+        "results": 1990,
+        "ctr": 122.4418
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS ULTRA",
+        "quality_score": 11.7,
+        "spend": 35.6,
+        "results": 617,
+        "ctr": 116.9274
+      },
+      {
+        "campaign": "RACK 2424 REEL",
+        "quality_score": 11.5,
+        "spend": 13.73,
+        "results": 202,
+        "ctr": 108.4018
+      },
+      {
+        "campaign": "PIRAMIDES COMBO TRÁFICO",
+        "quality_score": 11.3,
+        "spend": 14.33,
+        "results": 328,
+        "ctr": 125.0885
+      },
+      {
+        "campaign": "PIRAMIDES IA MOD 1",
+        "quality_score": 9.8,
+        "spend": 15.24,
+        "results": 296,
+        "ctr": 91.4354
+      },
+      {
+        "campaign": "RACK REEL WHATSSAP TRAFICO 3",
+        "quality_score": 8.1,
+        "spend": 17.23,
+        "results": 197,
+        "ctr": 72.336
+      },
+      {
+        "campaign": "RACK JUN 1.1",
+        "quality_score": 6.8,
+        "spend": 171.07,
+        "results": 80,
+        "ctr": 64.7722
+      },
+      {
+        "campaign": "RACK MODELO NUEVO 2 2025",
+        "quality_score": 6.5,
+        "spend": 13.31,
+        "results": 11,
+        "ctr": 169.3238
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO MOD NUEVO 1",
+        "quality_score": 6.3,
+        "spend": 17.51,
+        "results": 0,
+        "ctr": 218.3694
+      },
+      {
+        "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+        "quality_score": 6.3,
+        "spend": 34.9,
+        "results": 0,
+        "ctr": 368.3039
+      },
+      {
+        "campaign": "MOSTRADOR N1",
+        "quality_score": 6.2,
+        "spend": 79.89,
+        "results": 0,
+        "ctr": 225.7706
+      },
+      {
+        "campaign": "PIRAMIDES 3 2025B",
+        "quality_score": 6.1,
+        "spend": 311.4,
+        "results": 269,
+        "ctr": 98.4835
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "RACK LIBRE 25 1",
+        "quality_score": 2.4,
+        "spend": 4.67,
+        "results": 0,
+        "ctr": 130.1992
+      },
+      {
+        "campaign": "RACKS ALMACEN NUEVO 1",
+        "quality_score": 2.3,
+        "spend": 14.65,
+        "results": 3,
+        "ctr": 47.7662
+      },
+      {
+        "campaign": "PIRAMIDES N3",
+        "quality_score": 2.3,
+        "spend": 9.03,
+        "results": 0,
+        "ctr": 33.2871
+      },
+      {
+        "campaign": "PIRAMIDES VALOR 1",
+        "quality_score": 2.2,
+        "spend": 6.37,
+        "results": 0,
+        "ctr": 29.0377
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 5",
+        "quality_score": 2.2,
+        "spend": 7.38,
+        "results": 0,
+        "ctr": 33.6096
+      },
+      {
+        "campaign": "RACKS ALT 2",
+        "quality_score": 2.2,
+        "spend": 15.01,
+        "results": 0,
+        "ctr": 58.845
+      },
+      {
+        "campaign": "PIRAMIDE  JUN 5",
+        "quality_score": 1.8,
+        "spend": 2.19,
+        "results": 5,
+        "ctr": 61.1514
+      },
+      {
+        "campaign": "RACKS REELS A",
+        "quality_score": 1.8,
+        "spend": 19.96,
+        "results": 2,
+        "ctr": 41.1439
+      },
+      {
+        "campaign": "PIRAMIDE  JUN 1",
+        "quality_score": 1.7,
+        "spend": 3.35,
+        "results": 1,
+        "ctr": 43.0877
+      },
+      {
+        "campaign": "RACK NUEVO 1",
+        "quality_score": 1.7,
+        "spend": 13.59,
+        "results": 4,
+        "ctr": 31.7434
+      },
+      {
+        "campaign": "RACKS MODELO NUEVO 11",
+        "quality_score": 1.6,
+        "spend": 8.86,
+        "results": 2,
+        "ctr": 24.5757
+      },
+      {
+        "campaign": "PIRAMIDES 2410",
+        "quality_score": 1.5,
+        "spend": 6.98,
+        "results": 1,
+        "ctr": 25.0287
+      },
+      {
+        "campaign": "PIRAMIDE 25 2",
+        "quality_score": 1.1,
+        "spend": 5.61,
+        "results": 0,
+        "ctr": 20.6529
+      },
+      {
+        "campaign": "RACK JUN 2",
+        "quality_score": 1.0,
+        "spend": 1.83,
+        "results": 1,
+        "ctr": 15.0885
+      },
+      {
+        "campaign": "RACKS ALT 1",
+        "quality_score": 0.7,
+        "spend": 4.45,
+        "results": 0,
+        "ctr": 22.8632
+      }
+    ],
+    "by_product": [
+      {
+        "product": "MOSTRADOR",
+        "quality_score": 6.2
+      },
+      {
+        "product": "PASILLO",
+        "quality_score": 5.7
+      },
+      {
+        "product": "ROSARIO",
+        "quality_score": 5.2
+      },
+      {
+        "product": "RACK",
+        "quality_score": 4.6
+      },
+      {
+        "product": "ESTANTE",
+        "quality_score": 4.5
+      },
+      {
+        "product": "PIRAMIDE",
+        "quality_score": 4.5
+      },
+      {
+        "product": "OTROS",
+        "quality_score": 4.4
+      },
+      {
+        "product": "CHECK OUT",
+        "quality_score": 3.2
+      }
+    ]
+  },
+  "budget_optimization": {
+    "current_total_spend": 11771.57,
+    "current_total_results": 17486,
+    "current_avg_cpr": 0.67,
+    "projected_results_optimized": 177458,
+    "improvement_pct": 914.9,
+    "top_increase": [
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "product": "PIRAMIDE",
+        "current_budget": 133.56,
+        "optimal_budget": 1347.57,
+        "change_pct": 909.0,
+        "cpr": 0.04
+      },
+      {
+        "campaign": "PIRAMIDES COMBO TRÁFICO",
+        "product": "PIRAMIDE",
+        "current_budget": 14.33,
+        "optimal_budget": 1244.97,
+        "change_pct": 8587.8,
+        "cpr": 0.04
+      },
+      {
+        "campaign": "PIRAMIDES IA MOD 1",
+        "product": "PIRAMIDE",
+        "current_budget": 15.24,
+        "optimal_budget": 1056.42,
+        "change_pct": 6831.9,
+        "cpr": 0.05
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "product": "RACK",
+        "current_budget": 103.4,
+        "optimal_budget": 1046.8,
+        "change_pct": 912.4,
+        "cpr": 0.05
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "product": "PIRAMIDE",
+        "current_budget": 73.41,
+        "optimal_budget": 1015.07,
+        "change_pct": 1282.7,
+        "cpr": 0.05
+      },
+      {
+        "campaign": "RACKS REELS 24",
+        "product": "OTROS",
+        "current_budget": 51.35,
+        "optimal_budget": 979.79,
+        "change_pct": 1808.1,
+        "cpr": 0.06
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS ULTRA",
+        "product": "PIRAMIDE",
+        "current_budget": 35.6,
+        "optimal_budget": 942.68,
+        "change_pct": 2548.0,
+        "cpr": 0.06
+      },
+      {
+        "campaign": "RACK 2424 REEL",
+        "product": "RACK",
+        "current_budget": 13.73,
+        "optimal_budget": 800.22,
+        "change_pct": 5728.3,
+        "cpr": 0.07
+      },
+      {
+        "campaign": "RACK REEL WHATSSAP TRAFICO 3",
+        "product": "RACK",
+        "current_budget": 17.23,
+        "optimal_budget": 621.89,
+        "change_pct": 3509.3,
+        "cpr": 0.09
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA NOVIEMBRE BLACK F 2",
+        "product": "PIRAMIDE",
+        "current_budget": 1.75,
+        "optimal_budget": 186.48,
+        "change_pct": 10556.3,
+        "cpr": 0.29
+      }
+    ],
+    "top_decrease": [
+      {
+        "campaign": "RACK N3",
+        "product": "RACK",
+        "current_budget": 1668.96,
+        "optimal_budget": 0.88,
+        "change_pct": -99.9,
+        "cpr": 61.81
+      },
+      {
+        "campaign": "RACK BLANCO 1",
+        "product": "RACK",
+        "current_budget": 49.99,
+        "optimal_budget": 4.35,
+        "change_pct": -91.3,
+        "cpr": 12.5
+      },
+      {
+        "campaign": "RACKS REELS A",
+        "product": "OTROS",
+        "current_budget": 19.96,
+        "optimal_budget": 5.45,
+        "change_pct": -72.7,
+        "cpr": 9.98
+      },
+      {
+        "campaign": "RACK 2 24",
+        "product": "RACK",
+        "current_budget": 26.99,
+        "optimal_budget": 6.05,
+        "change_pct": -77.6,
+        "cpr": 9.0
+      },
+      {
+        "campaign": "PIRAMIDE FOTOS CARRETE",
+        "product": "PIRAMIDE",
+        "current_budget": 7.68,
+        "optimal_budget": 7.08,
+        "change_pct": -7.8,
+        "cpr": 7.68
+      },
+      {
+        "campaign": "RACK JULIO 2",
+        "product": "RACK",
+        "current_budget": 37.57,
+        "optimal_budget": 7.24,
+        "change_pct": -80.7,
+        "cpr": 7.51
+      },
+      {
+        "campaign": "PIRAMIDES 2410",
+        "product": "PIRAMIDE",
+        "current_budget": 6.98,
+        "optimal_budget": 7.79,
+        "change_pct": 11.6,
+        "cpr": 6.98
+      },
+      {
+        "campaign": "RACKS NUEVA ESPARTA",
+        "product": "OTROS",
+        "current_budget": 31.0,
+        "optimal_budget": 8.77,
+        "change_pct": -71.7,
+        "cpr": 6.2
+      },
+      {
+        "campaign": "RACKS ALMACEN NUEVO 1",
+        "product": "OTROS",
+        "current_budget": 14.65,
+        "optimal_budget": 11.14,
+        "change_pct": -24.0,
+        "cpr": 4.88
+      },
+      {
+        "campaign": "NEVERAS ABIERTAS Y CERRADAS NEVERAMA 2410 2",
+        "product": "OTROS",
+        "current_budget": 24.23,
+        "optimal_budget": 11.22,
+        "change_pct": -53.7,
+        "cpr": 4.85
+      }
+    ]
+  },
+  "ad_creative_performance": [
+    {
+      "ad_type": "Nuevo anuncio de Interacción",
+      "spend": 14116.1,
+      "results": 9473,
+      "reach": 6512987,
+      "ctr": 81.1597,
+      "cost_per_result": 1.49,
+      "frequency": 1.31,
+      "campaigns": 113
+    },
+    {
+      "ad_type": "Nuevo anuncio de Tráfico",
+      "spend": 412.04,
+      "results": 8013,
+      "reach": 766433,
+      "ctr": 123.2736,
+      "cost_per_result": 0.05,
+      "frequency": 1.27,
+      "campaigns": 8
+    }
+  ]
+}

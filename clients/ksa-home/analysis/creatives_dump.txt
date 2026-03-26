@@ -1,0 +1,496 @@
+﻿=== CAMPAIGNS (63) ===
+
+  [Publicaci├│n de Instagram: ┬íCelebra con nosotros...]
+    Spend=$209.86 | Results=1312 | CPR=$0.1600 | Reach=38608 | Clicks=1056
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íCelebra con nosotros...
+
+  [d├¡a del padre anuncio]
+    Spend=$120.24 | Results=4046 | CPR=$0.0297 | Reach=54261 | Clicks=3603
+    ResultTypes: Profile and Page visits
+    Ads (1): Nuevo anuncio de Tr├ífico REEL PAPA
+
+  [Publicaci├│n de Instagram: ­ƒøá´©Å ┬┐Planeando tu...]
+    Spend=$104.87 | Results=6660 | CPR=$0.0157 | Reach=65193 | Clicks=6474
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ­ƒøá´©Å ┬┐Planeando tu...
+
+  [Publicaci├│n de Instagram: PROMOCI├ôN IMPERDIBLE EN...]
+    Spend=$83.92 | Results=4228 | CPR=$0.0198 | Reach=40844 | Clicks=4077
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: PROMOCI├ôN IMPERDIBLE EN...
+
+  [Publicaci├│n de Instagram: En cada producto MA...]
+    Spend=$79.78 | Results=3293 | CPR=$0.0242 | Reach=43976 | Clicks=3360
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: En cada producto MA...
+
+  [Publicaci├│n de Instagram: ┬íTe damos m├ís! ­ƒñ®Ô£¿...]
+    Spend=$70.11 | Results=272 | CPR=$0.2578 | Reach=10436 | Clicks=243
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íTe damos m├ís! ­ƒñ®Ô£¿...
+
+  [DRYWALL]
+    Spend=$60.57 | Results=8 | CPR=$7.5713 | Reach=31373 | Clicks=2001
+    ResultTypes: Landing page views
+    Ads (1): DRYWALL
+
+  [Publicaci├│n de Instagram: SEMANA DE OFERTAS EN...]
+    Spend=$59.96 | Results=1996 | CPR=$0.0300 | Reach=37879 | Clicks=1912
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: SEMANA DE OFERTAS EN...
+
+  [Publicaci├│n de Instagram: Caterina nos cuenta m├ís...]
+    Spend=$53.89 | Results=455 | CPR=$0.1184 | Reach=16172 | Clicks=431
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: Caterina nos cuenta m├ís...
+
+  [Instagram Post]
+    Spend=$49.99 | Results=2160 | CPR=$0.0231 | Reach=41224 | Clicks=2062
+    ResultTypes: Instagram profile visits
+    Ads (1): Instagram Post
+
+  [Publicaci├│n de Instagram: ┬íEn MA Faucet, seguimos...]
+    Spend=$49.96 | Results=2094 | CPR=$0.0239 | Reach=40656 | Clicks=2064
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íEn MA Faucet, seguimos...
+
+  [Publicaci├│n de Instagram: A todos nuestros...]
+    Spend=$49.94 | Results=513 | CPR=$0.0973 | Reach=36466 | Clicks=546
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: A todos nuestros...
+
+  [Publicaci├│n de Instagram: ­ƒîƒ ┬íLLEG├ô EL GREEN WEEK!...]
+    Spend=$49.91 | Results=5077 | CPR=$0.0098 | Reach=35064 | Clicks=4842
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ­ƒîƒ ┬íLLEG├ô EL GREEN WEEK!...
+
+  [Publicaci├│n de Instagram: AHORRA EN GRANDE­ƒñ®...]
+    Spend=$48.95 | Results=2167 | CPR=$0.0226 | Reach=41368 | Clicks=2101
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: AHORRA EN GRANDE­ƒñ®...
+
+  [Publicaci├│n de Instagram: Semana de ofertas...]
+    Spend=$48.95 | Results=1612 | CPR=$0.0304 | Reach=52704 | Clicks=1561
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: Semana de ofertas...
+
+  [Publicaci├│n de Instagram: ┬┐Cansado de tanques...]
+    Spend=$48.94 | Results=1961 | CPR=$0.0250 | Reach=43682 | Clicks=1793
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬┐Cansado de tanques...
+
+  [Publicaci├│n de Instagram: Tu ba├▒o merece...]
+    Spend=$48.88 | Results=2260 | CPR=$0.0216 | Reach=39230 | Clicks=2188
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: Tu ba├▒o merece...
+
+  [Publicaci├│n de Instagram: ┬íQue la lluvia no te...]
+    Spend=$42.50 | Results=733 | CPR=$0.0580 | Reach=33256 | Clicks=678
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íQue la lluvia no te...
+
+  [Publicaci├│n de Instagram: El lujo que tu ba├▒o...]
+    Spend=$41.95 | Results=945 | CPR=$0.0444 | Reach=24448 | Clicks=887
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: El lujo que tu ba├▒o...
+
+  [Publicaci├│n de Instagram: ┬íAlerta de Oferta KSA...]
+    Spend=$39.99 | Results=1400 | CPR=$0.0286 | Reach=43398 | Clicks=1359
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAlerta de Oferta KSA...
+
+  [Publicaci├│n de Instagram: En @ksaconstructor.ve,...]
+    Spend=$39.98 | Results=937 | CPR=$0.0427 | Reach=29231 | Clicks=882
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: En @ksaconstructor.ve,...
+
+  [Publicaci├│n de Instagram: ┬íAtenci├│n,...]
+    Spend=$39.97 | Results=1355 | CPR=$0.0295 | Reach=30144 | Clicks=1282
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAtenci├│n,...
+
+  [Publicaci├│n de Instagram: ┬íAs├¡ es! Si estabas...]
+    Spend=$39.97 | Results=3249 | CPR=$0.0123 | Reach=24741 | Clicks=3060
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAs├¡ es! Si estabas...
+
+  [Nueva campa├▒a de Tr├ífico]
+    Spend=$39.96 | Results=3208 | CPR=$0.0125 | Reach=47649 | Clicks=3645
+    ResultTypes: Link clicks
+    Ads (1): CAMPA├æA MOT 06-06
+
+  [Publicaci├│n de Instagram: ┬íAtenci├│n! ÔØù´©Å Este...]
+    Spend=$39.95 | Results=168 | CPR=$0.2378 | Reach=12292 | Clicks=171
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAtenci├│n! ÔØù´©Å Este...
+
+  [Publicaci├│n de Instagram: El Jaque Mate de la...]
+    Spend=$39.89 | Results=576 | CPR=$0.0693 | Reach=33230 | Clicks=501
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: El Jaque Mate de la...
+
+  [Publicaci├│n de Instagram: ┬íDale vida a tu Navidad...]
+    Spend=$34.92 | Results=2099 | CPR=$0.0166 | Reach=19616 | Clicks=1940
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íDale vida a tu Navidad...
+
+  [Publicaci├│n de Instagram: ┬íPara cerrar nuestro...]
+    Spend=$34.84 | Results=2506 | CPR=$0.0139 | Reach=22538 | Clicks=2365
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íPara cerrar nuestro...
+
+  [Publicaci├│n de Instagram: Nos encanta que...]
+    Spend=$31.97 | Results=3503 | CPR=$0.0091 | Reach=39799 | Clicks=3411
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: Nos encanta que...
+
+  [Publicaci├│n: ┬íPRECIOS INSUPERABLES! ­ƒÿÄ­ƒñ®]
+    Spend=$30.00 | Results=0 | CPR=$N/A | Reach=66546 | Clicks=10380
+    ResultTypes: Estimated call confirmation clicks
+    Ads (1): Publicaci├│n: ┬íPRECIOS INSUPERABLES! ­ƒÿÄ­ƒñ®
+
+  [Publicaci├│n de Instagram: ┬íPRECIOS DE LOCURA EN...]
+    Spend=$29.96 | Results=973 | CPR=$0.0308 | Reach=29799 | Clicks=956
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íPRECIOS DE LOCURA EN...
+
+  [Publicaci├│n de Instagram: ┬íOFERTAS POR...]
+    Spend=$29.96 | Results=1712 | CPR=$0.0175 | Reach=29464 | Clicks=1755
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íOFERTAS POR...
+
+  [Publicaci├│n de Instagram: ┬íAHORRA EN TU PR├ôXIMO...]
+    Spend=$29.95 | Results=1866 | CPR=$0.0161 | Reach=32285 | Clicks=1800
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAHORRA EN TU PR├ôXIMO...
+
+  [Publicaci├│n de Instagram: ┬┐Tu pr├│ximo proyecto de...]
+    Spend=$29.93 | Results=1618 | CPR=$0.0185 | Reach=33792 | Clicks=1599
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬┐Tu pr├│ximo proyecto de...
+
+  [Publicaci├│n de Instagram: ┬íEL MOMENTO DE...]
+    Spend=$26.88 | Results=1043 | CPR=$0.0258 | Reach=12687 | Clicks=1033
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íEL MOMENTO DE...
+
+  [Publicaci├│n de Instagram: ATENCI├ôN CONSTRUCTORES,...]
+    Spend=$26.79 | Results=2421 | CPR=$0.0111 | Reach=32096 | Clicks=2357
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ATENCI├ôN CONSTRUCTORES,...
+
+  [Publicaci├│n de Instagram: ┬íAhorrar y pintar con...]
+    Spend=$19.91 | Results=2065 | CPR=$0.0096 | Reach=20508 | Clicks=2005
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬íAhorrar y pintar con...
+
+  [Publicaci├│n de Instagram: ┬í4 D├ìAS DE PRECIOS...]
+    Spend=$19.89 | Results=627 | CPR=$0.0317 | Reach=20943 | Clicks=582
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: ┬í4 D├ìAS DE PRECIOS...
+
+  [Publicaci├│n de Instagram: ┬íEL TR├ìO DIN├üMICO DE LA...]
+    Spend=$19.56 | Results=20 | CPR=$0.9780 | Reach=11252 | Clicks=255
+    ResultTypes: Messaging conversations started
+    Ads (1): Publicaci├│n de Instagram: ┬íEL TR├ìO DIN├üMICO DE LA...
+
+  [Publicaci├│n de Instagram: Dale a tu hogar el...]
+    Spend=$17.30 | Results=549 | CPR=$0.0315 | Reach=8950 | Clicks=558
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: Dale a tu hogar el...
+
+  [Publicaci├│n de Instagram: POV: Encontraste al...]
+    Spend=$12.96 | Results=200 | CPR=$0.0648 | Reach=8832 | Clicks=213
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: POV: Encontraste al...
+
+  [Publicaci├│n de Instagram: En cada conexi├│n hay...]
+    Spend=$7.43 | Results=72 | CPR=$0.1032 | Reach=3176 | Clicks=46
+    ResultTypes: Instagram profile visits
+    Ads (1): Publicaci├│n de Instagram: En cada conexi├│n hay...
+
+  [CERAMICAS]
+    Spend=$2.96 | Results=132 | CPR=$0.0224 | Reach=4661 | Clicks=140
+    ResultTypes: Profile and Page visits
+    Ads (1): PORCELANATO
+
+  [Publicaci├│n de Instagram: ┬íMA PLUS! Ô£¿]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,Publicaci├│n de Instagram: ┬íMA PLUS! Ô£¿]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,65+,unknown,12,12,1,0.03,Instagram profile visits,,,,,2.5,0,,0,,,4,2,,,,,,0.006,0.006,,,,,,5,0,2.5,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,18-24,unknown,20,20,1,0.06,Instagram profile visits,2,0.03,2,0.03,3,10,,2,0.03,100,9,2,2,1,1,1,,0.0075,0.0075,,,,10,,8,2,3,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,35-44,unknown,4,33,8.25,0.1,Instagram profile visits,1,0.1,1,0.1,3.03030303,3.03030303,,1,0.1,100,4,5,1,,,,,0.01,0.01,,,,3.03030303,,10,1,25,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,55-64,unknown,16,49,3.0625,0.11,Instagram profile visits,5,0.022,5,0.022,2.24489796,10.20408163,,5,0.022,100,9,9,4,3,1,1,,0.00478261,0.00478261,,,,10.20408163,,23,5,6.875,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,45-54,unknown,4,33,8.25,0.2,Instagram profile visits,1,0.2,,,6.06060606,0,,0,,,6,4,2,2,1,,,0.01538462,0.01538462,,,,,,13,1,50,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,25-34,unknown,28,29,1.03571429,0.43,Instagram profile visits,3,0.14333333,3,0.14333333,14.82758621,6.89655172,,2,0.215,100,12,2,2,1,1,1,,0.043,0.043,,,,10.34482759,,10,3,15.35714286,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,18-24,female,572,695,1.21503497,2.3,Instagram profile visits,7,0.32857143,8,0.2875,3.30935252,1.00719424,,7,0.32857143,87.5,3,25,12,6,3,3,,0.01782946,0.01782946,,,,1.15107914,,129,7,4.02097902,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,18-24,male,492,626,1.27235772,3.08,Instagram profile visits,7,0.44,6,0.51333333,4.9201278,0.79872204,,5,0.616,116.66666667,2,30,12,2,1,1,,0.02124138,0.02124138,,,,0.95846645,,145,7,6.2601626,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,65+,male,1372,1533,1.11734694,3.92,Instagram profile visits,21,0.18666667,22,0.17818182,2.55707763,1.36986301,,21,0.18666667,95.45454545,4,129,50,27,14,12,,0.0070377,0.0070377,,,,1.43509459,,557,21,2.85714286,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,65+,female,1328,1570,1.18222892,4.39,Instagram profile visits,21,0.20904762,19,0.23105263,2.79617834,1.08280255,,17,0.25823529,110.52631579,4,119,53,28,17,15,,0.00809963,0.00809963,,,,1.21019108,,542,21,3.30572289,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,25-34,female,740,950,1.28378378,4.96,Instagram profile visits,19,0.26105263,19,0.26105263,5.22105263,1.57894737,,15,0.33066667,100,2,37,15,6,3,3,,0.0254359,0.0254359,,,,2,,195,19,6.7027027,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,55-64,female,904,1066,1.17920354,5.31,Instagram profile visits,17,0.31235294,16,0.331875,4.98123827,1.40712946,,15,0.354,106.25,5,91,32,24,16,13,,0.01412234,0.01412234,,,,1.50093809,,376,17,5.87389381,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,25-34,male,956,1256,1.31380753,5.7,Instagram profile visits,35,0.16285714,29,0.19655172,4.53821656,2.14968153,,27,0.21111111,120.68965517,3,63,26,11,5,5,,0.01893688,0.01893688,,,,2.3089172,,301,35,5.9623431,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,35-44,female,796,1029,1.29271357,6.15,Instagram profile visits,29,0.21206897,23,0.2673913,5.97667638,2.23517979,,23,0.2673913,126.08695652,4,88,40,18,7,7,,0.01958599,0.01958599,,,,2.23517979,,314,29,7.72613065,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,55-64,male,1248,1450,1.16185897,6.78,Instagram profile visits,24,0.2825,20,0.339,4.67586207,1.37931034,,20,0.339,120,4,160,68,36,24,22,,0.01164948,0.01164948,,,,1.37931034,,582,24,5.43269231,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,45-54,female,872,914,1.04816514,7.28,Instagram profile visits,22,0.33090909,21,0.34666667,7.96498906,2.18818381,,20,0.364,104.76190476,4,86,35,22,13,13,,0.02371336,0.02371336,,,,2.297593,,307,22,8.34862385,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,35-44,male,1124,1551,1.37989324,8.65,Instagram profile visits,27,0.32037037,28,0.30892857,5.57704707,1.67633785,,26,0.33269231,96.42857143,4,130,56,25,18,17,,0.01824895,0.01824895,,,,1.80528691,,474,27,7.69572954,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+  [Nuestro...,45-54,male,1272,1654,1.30031447,11.75,Instagram profile visits,48,0.24479167,33,0.35606061,7.10399033,1.87424426,,31,0.37903226,145.45454545,5,166,66,38,26,26,,0.01835938,0.01835938,,,,1.99516324,,640,48,9.23742138,2023-03-01,2026-03-01]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Clicks=0
+    ResultTypes: 
+    Ads (1): Unknown
+
+
+=== ADS/CREATIVES (44) ===
+
+  [Publicaci├│n de Instagram: ┬íCelebra con nosotros...]
+    Spend=$209.86 | Results=1312 | CPR=$0.1600 | Reach=38608 | Comments=21 | Engagements=25791
+    Views=0 | IGVisits=1312 | ResultTypes: Instagram profile visits
+
+  [Nuevo anuncio de Tr├ífico REEL PAPA]
+    Spend=$120.24 | Results=4046 | CPR=$0.0297 | Reach=54261 | Comments=10 | Engagements=39466
+    Views=0 | IGVisits=4028 | ResultTypes: Profile and Page visits
+
+  [Publicaci├│n de Instagram: ­ƒøá´©Å ┬┐Planeando tu...]
+    Spend=$104.87 | Results=6660 | CPR=$0.0157 | Reach=65193 | Comments=117 | Engagements=7219
+    Views=0 | IGVisits=6660 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: PROMOCI├ôN IMPERDIBLE EN...]
+    Spend=$83.92 | Results=4228 | CPR=$0.0198 | Reach=40844 | Comments=22 | Engagements=26966
+    Views=0 | IGVisits=4228 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: En cada producto MA...]
+    Spend=$79.78 | Results=3293 | CPR=$0.0242 | Reach=43976 | Comments=8 | Engagements=28681
+    Views=0 | IGVisits=3293 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íTe damos m├ís! ­ƒñ®Ô£¿...]
+    Spend=$70.11 | Results=272 | CPR=$0.2578 | Reach=10436 | Comments=2 | Engagements=6238
+    Views=0 | IGVisits=272 | ResultTypes: Instagram profile visits
+
+  [DRYWALL]
+    Spend=$60.57 | Results=8 | CPR=$7.5713 | Reach=31373 | Comments=1 | Engagements=21905
+    Views=0 | IGVisits=681 | ResultTypes: Landing page views
+
+  [Publicaci├│n de Instagram: SEMANA DE OFERTAS EN...]
+    Spend=$59.96 | Results=1996 | CPR=$0.0300 | Reach=37879 | Comments=6 | Engagements=11237
+    Views=0 | IGVisits=1996 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: Caterina nos cuenta m├ís...]
+    Spend=$53.89 | Results=455 | CPR=$0.1184 | Reach=16172 | Comments=8 | Engagements=10756
+    Views=0 | IGVisits=455 | ResultTypes: Instagram profile visits
+
+  [Instagram Post]
+    Spend=$49.99 | Results=2160 | CPR=$0.0231 | Reach=41224 | Comments=8 | Engagements=2613
+    Views=0 | IGVisits=2160 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íEn MA Faucet, seguimos...]
+    Spend=$49.96 | Results=2094 | CPR=$0.0239 | Reach=40656 | Comments=4 | Engagements=21090
+    Views=0 | IGVisits=2094 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: A todos nuestros...]
+    Spend=$49.94 | Results=513 | CPR=$0.0973 | Reach=36466 | Comments=5 | Engagements=17382
+    Views=0 | IGVisits=513 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ­ƒîƒ ┬íLLEG├ô EL GREEN WEEK!...]
+    Spend=$49.91 | Results=5077 | CPR=$0.0098 | Reach=35064 | Comments=7 | Engagements=30783
+    Views=0 | IGVisits=5077 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: AHORRA EN GRANDE­ƒñ®...]
+    Spend=$48.95 | Results=2167 | CPR=$0.0226 | Reach=41368 | Comments=7 | Engagements=2457
+    Views=0 | IGVisits=2167 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: Semana de ofertas...]
+    Spend=$48.95 | Results=1612 | CPR=$0.0304 | Reach=52704 | Comments=2 | Engagements=1904
+    Views=0 | IGVisits=1612 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬┐Cansado de tanques...]
+    Spend=$48.94 | Results=1961 | CPR=$0.0250 | Reach=43682 | Comments=55 | Engagements=26822
+    Views=0 | IGVisits=1961 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: Tu ba├▒o merece...]
+    Spend=$48.88 | Results=2260 | CPR=$0.0216 | Reach=39230 | Comments=30 | Engagements=23363
+    Views=0 | IGVisits=2260 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íQue la lluvia no te...]
+    Spend=$42.50 | Results=733 | CPR=$0.0580 | Reach=33256 | Comments=2 | Engagements=859
+    Views=0 | IGVisits=733 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: El lujo que tu ba├▒o...]
+    Spend=$41.95 | Results=945 | CPR=$0.0444 | Reach=24448 | Comments=0 | Engagements=1106
+    Views=0 | IGVisits=945 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íAlerta de Oferta KSA...]
+    Spend=$39.99 | Results=1400 | CPR=$0.0286 | Reach=43398 | Comments=3 | Engagements=1737
+    Views=0 | IGVisits=1400 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: En @ksaconstructor.ve,...]
+    Spend=$39.98 | Results=937 | CPR=$0.0427 | Reach=29231 | Comments=0 | Engagements=1055
+    Views=0 | IGVisits=937 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íAtenci├│n,...]
+    Spend=$39.97 | Results=1355 | CPR=$0.0295 | Reach=30144 | Comments=4 | Engagements=1554
+    Views=0 | IGVisits=1355 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íAs├¡ es! Si estabas...]
+    Spend=$39.97 | Results=3249 | CPR=$0.0123 | Reach=24741 | Comments=7 | Engagements=20770
+    Views=0 | IGVisits=3249 | ResultTypes: Instagram profile visits
+
+  [CAMPA├æA MOT 06-06]
+    Spend=$39.96 | Results=3208 | CPR=$0.0125 | Reach=47649 | Comments=2 | Engagements=27582
+    Views=0 | IGVisits=8 | ResultTypes: Link clicks
+
+  [Publicaci├│n de Instagram: ┬íAtenci├│n! ÔØù´©Å Este...]
+    Spend=$39.95 | Results=168 | CPR=$0.2378 | Reach=12292 | Comments=0 | Engagements=5535
+    Views=0 | IGVisits=168 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: El Jaque Mate de la...]
+    Spend=$39.89 | Results=576 | CPR=$0.0693 | Reach=33230 | Comments=4 | Engagements=15782
+    Views=0 | IGVisits=576 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íDale vida a tu Navidad...]
+    Spend=$34.92 | Results=2099 | CPR=$0.0166 | Reach=19616 | Comments=59 | Engagements=17110
+    Views=0 | IGVisits=2099 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íPara cerrar nuestro...]
+    Spend=$34.84 | Results=2506 | CPR=$0.0139 | Reach=22538 | Comments=3 | Engagements=13701
+    Views=0 | IGVisits=2506 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: Nos encanta que...]
+    Spend=$31.97 | Results=3503 | CPR=$0.0091 | Reach=39799 | Comments=3 | Engagements=4272
+    Views=0 | IGVisits=3503 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n: ┬íPRECIOS INSUPERABLES! ­ƒÿÄ­ƒñ®]
+    Spend=$30.00 | Results=0 | CPR=$N/A | Reach=66546 | Comments=27 | Engagements=7460
+    Views=0 | IGVisits=0 | ResultTypes: Estimated call confirmation clicks
+
+  [Publicaci├│n de Instagram: ┬íPRECIOS DE LOCURA EN...]
+    Spend=$29.96 | Results=973 | CPR=$0.0308 | Reach=29799 | Comments=2 | Engagements=1161
+    Views=0 | IGVisits=973 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íOFERTAS POR...]
+    Spend=$29.96 | Results=1712 | CPR=$0.0175 | Reach=29464 | Comments=2 | Engagements=2114
+    Views=0 | IGVisits=1712 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íAHORRA EN TU PR├ôXIMO...]
+    Spend=$29.95 | Results=1866 | CPR=$0.0161 | Reach=32285 | Comments=9 | Engagements=2165
+    Views=0 | IGVisits=1866 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬┐Tu pr├│ximo proyecto de...]
+    Spend=$29.93 | Results=1618 | CPR=$0.0185 | Reach=33792 | Comments=7 | Engagements=1886
+    Views=0 | IGVisits=1618 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íEL MOMENTO DE...]
+    Spend=$26.88 | Results=1043 | CPR=$0.0258 | Reach=12687 | Comments=2 | Engagements=1180
+    Views=0 | IGVisits=1043 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ATENCI├ôN CONSTRUCTORES,...]
+    Spend=$26.79 | Results=2421 | CPR=$0.0111 | Reach=32096 | Comments=9 | Engagements=2708
+    Views=0 | IGVisits=2421 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íAhorrar y pintar con...]
+    Spend=$19.91 | Results=2065 | CPR=$0.0096 | Reach=20508 | Comments=5 | Engagements=2274
+    Views=0 | IGVisits=2065 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬í4 D├ìAS DE PRECIOS...]
+    Spend=$19.89 | Results=627 | CPR=$0.0317 | Reach=20943 | Comments=5 | Engagements=739
+    Views=0 | IGVisits=627 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: ┬íEL TR├ìO DIN├üMICO DE LA...]
+    Spend=$19.56 | Results=20 | CPR=$0.9780 | Reach=11252 | Comments=3 | Engagements=122
+    Views=0 | IGVisits=220 | ResultTypes: Messaging conversations started
+
+  [Publicaci├│n de Instagram: Dale a tu hogar el...]
+    Spend=$17.30 | Results=549 | CPR=$0.0315 | Reach=8950 | Comments=48 | Engagements=6208
+    Views=0 | IGVisits=549 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: POV: Encontraste al...]
+    Spend=$12.96 | Results=200 | CPR=$0.0648 | Reach=8832 | Comments=3 | Engagements=3921
+    Views=0 | IGVisits=200 | ResultTypes: Instagram profile visits
+
+  [Publicaci├│n de Instagram: En cada conexi├│n hay...]
+    Spend=$7.43 | Results=72 | CPR=$0.1032 | Reach=3176 | Comments=0 | Engagements=839
+    Views=0 | IGVisits=72 | ResultTypes: Instagram profile visits
+
+  [PORCELANATO]
+    Spend=$2.96 | Results=132 | CPR=$0.0224 | Reach=4661 | Comments=1 | Engagements=307
+    Views=0 | IGVisits=123 | ResultTypes: Profile and Page visits
+
+  [Unknown]
+    Spend=$0.00 | Results=0 | CPR=$N/A | Reach=0 | Comments=0 | Engagements=0
+    Views=0 | IGVisits=0 | ResultTypes: 
+

@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "client": "rotec",
+    "report_period": "2025-01-17 to 2026-02-17",
+    "generated_at": "2026-02-17T22:06:35.830Z",
+    "total_rows": 833,
+    "total_columns": 30,
+    "columns_found": [
+      "Ads",
+      "Campaign name",
+      "Gender",
+      "Age",
+      "Reach",
+      "Impressions",
+      "Frequency",
+      "Currency",
+      "Amount spent (USD)",
+      "Attribution setting",
+      "Clicks (all)",
+      "CPC (all)",
+      "CPM (cost per 1,000 impressions)",
+      "CTR (all)",
+      "CPC (cost per link click)",
+      "Link clicks",
+      "Views",
+      "Video plays at 25%",
+      "Video plays at 50%",
+      "Video plays at 75%",
+      "Video plays at 95%",
+      "Video plays at 100%",
+      "Post comments",
+      "Post engagements",
+      "Cost per post engagement",
+      "Messaging conversations started",
+      "Cost per messaging conversation started",
+      "CTR (link click-through rate)",
+      "Reporting starts",
+      "Reporting ends"
+    ]
+  },
+  "global_kpis": {
+    "total_spend": 1937.17,
+    "total_reach": 1370038,
+    "total_impressions": 3503524,
+    "total_results": 1554,
+    "total_clicks": 56126,
+    "total_link_clicks": 33254,
+    "total_comments": 977,
+    "total_engagements": 531394,
+    "cost_per_result": 1.2466,
+    "avg_cpm": 0.5529,
+    "avg_cpc": 0.0345,
+    "avg_ctr": 1.602,
+    "avg_frequency": 2.56,
+    "unique_campaigns": 22,
+    "total_rows": 833
+  },
+  "campaign_performance": {
+    "top_campaigns": [
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "spend": 205.14,
+        "results": 242,
+        "cost_per_result": 0.8477,
+        "efficiency_score": 1.1797,
+        "reach": 148956,
+        "impressions": 246327,
+        "clicks": 9242,
+        "link_clicks": 6495,
+        "comments": 275,
+        "engagements": 21549,
+        "rows": 72
+      },
+      {
+        "campaign": "Nueva campaña de Ventas",
+        "spend": 161.7,
+        "results": 295,
+        "cost_per_result": 0.5481,
+        "efficiency_score": 1.8244,
+        "reach": 165016,
+        "impressions": 274144,
+        "clicks": 3464,
+        "link_clicks": 1265,
+        "comments": 41,
+        "engagements": 18808,
+        "rows": 18
+      },
+      {
+        "campaign": "Nuevo Ventas Campaña",
+        "spend": 150.45,
+        "results": 152,
+        "cost_per_result": 0.9898,
+        "efficiency_score": 1.0103,
+        "reach": 113220,
+        "impressions": 177697,
+        "clicks": 1352,
+        "link_clicks": 494,
+        "comments": 36,
+        "engagements": 6017,
+        "rows": 30
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - Febrero",
+        "spend": 149.98,
+        "results": 48,
+        "cost_per_result": 3.1246,
+        "efficiency_score": 0.32,
+        "reach": 105907,
+        "impressions": 142237,
+        "clicks": 4543,
+        "link_clicks": 4531,
+        "comments": 19,
+        "engagements": 71926,
+        "rows": 54
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - marzo",
+        "spend": 149.97,
+        "results": 31,
+        "cost_per_result": 4.8377,
+        "efficiency_score": 0.2067,
+        "reach": 91935,
+        "impressions": 138040,
+        "clicks": 3628,
+        "link_clicks": 3633,
+        "comments": 4,
+        "engagements": 53489,
+        "rows": 18
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Abril",
+        "spend": 124.92,
+        "results": 87,
+        "cost_per_result": 1.4359,
+        "efficiency_score": 0.6964,
+        "reach": 131178,
+        "impressions": 223337,
+        "clicks": 7985,
+        "link_clicks": 2771,
+        "comments": 176,
+        "engagements": 75670,
+        "rows": 71
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Marzo",
+        "spend": 124.88,
+        "results": 35,
+        "cost_per_result": 3.568,
+        "efficiency_score": 0.2803,
+        "reach": 29561,
+        "impressions": 47162,
+        "clicks": 1503,
+        "link_clicks": 783,
+        "comments": 18,
+        "engagements": 14573,
+        "rows": 36
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Junio",
+        "spend": 99.97,
+        "results": 170,
+        "cost_per_result": 0.5881,
+        "efficiency_score": 1.7005,
+        "reach": 69440,
+        "impressions": 144640,
+        "clicks": 5176,
+        "link_clicks": 2417,
+        "comments": 98,
+        "engagements": 44444,
+        "rows": 54
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - abril",
+        "spend": 99.92,
+        "results": 42,
+        "cost_per_result": 2.379,
+        "efficiency_score": 0.4203,
+        "reach": 89494,
+        "impressions": 140290,
+        "clicks": 2954,
+        "link_clicks": 2965,
+        "comments": 39,
+        "engagements": 38248,
+        "rows": 90
+      },
+      {
+        "campaign": "Nuevo Reconocimiento Campaña",
+        "spend": 93.54,
+        "results": 11,
+        "cost_per_result": 8.5036,
+        "efficiency_score": 0.1176,
+        "reach": 314388,
+        "impressions": 566368,
+        "clicks": 689,
+        "link_clicks": 516,
+        "comments": 0,
+        "engagements": 568,
+        "rows": 19
+      }
+    ],
+    "most_efficient": [
+      {
+        "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+        "spend": 50,
+        "results": 227,
+        "cost_per_result": 0.2203,
+        "efficiency_score": 4.54,
+        "reach": 34613,
+        "impressions": 65050,
+        "clicks": 2844,
+        "link_clicks": 1086,
+        "comments": 83,
+        "engagements": 24652,
+        "rows": 35
+      },
+      {
+        "campaign": "Nueva campaña de Ventas",
+        "spend": 161.7,
+        "results": 295,
+        "cost_per_result": 0.5481,
+        "efficiency_score": 1.8244,
+        "reach": 165016,
+        "impressions": 274144,
+        "clicks": 3464,
+        "link_clicks": 1265,
+        "comments": 41,
+        "engagements": 18808,
+        "rows": 18
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Junio",
+        "spend": 99.97,
+        "results": 170,
+        "cost_per_result": 0.5881,
+        "efficiency_score": 1.7005,
+        "reach": 69440,
+        "impressions": 144640,
+        "clicks": 5176,
+        "link_clicks": 2417,
+        "comments": 98,
+        "engagements": 44444,
+        "rows": 54
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "spend": 205.14,
+        "results": 242,
+        "cost_per_result": 0.8477,
+        "efficiency_score": 1.1797,
+        "reach": 148956,
+        "impressions": 246327,
+        "clicks": 9242,
+        "link_clicks": 6495,
+        "comments": 275,
+        "engagements": 21549,
+        "rows": 72
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil -Julio",
+        "spend": 90,
+        "results": 93,
+        "cost_per_result": 0.9677,
+        "efficiency_score": 1.0333,
+        "reach": 75028,
+        "impressions": 107179,
+        "clicks": 3652,
+        "link_clicks": 2642,
+        "comments": 54,
+        "engagements": 51265,
+        "rows": 36
+      },
+      {
+        "campaign": "Nuevo Ventas Campaña",
+        "spend": 150.45,
+        "results": 152,
+        "cost_per_result": 0.9898,
+        "efficiency_score": 1.0103,
+        "reach": 113220,
+        "impressions": 177697,
+        "clicks": 1352,
+        "link_clicks": 494,
+        "comments": 36,
+        "engagements": 6017,
+        "rows": 30
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - junio",
+        "spend": 74.97,
+        "results": 60,
+        "cost_per_result": 1.2495,
+        "efficiency_score": 0.8003,
+        "reach": 48746,
+        "impressions": 78070,
+        "clicks": 2260,
+        "link_clicks": 1693,
+        "comments": 54,
+        "engagements": 30110,
+        "rows": 36
+      },
+      {
+        "campaign": "New messages campaign",
+        "spend": 29.99,
+        "results": 23,
+        "cost_per_result": 1.3039,
+        "efficiency_score": 0.7669,
+        "reach": 9847,
+        "impressions": 16676,
+        "clicks": 154,
+        "link_clicks": 81,
+        "comments": 14,
+        "engagements": 128,
+        "rows": 18
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Abril",
+        "spend": 124.92,
+        "results": 87,
+        "cost_per_result": 1.4359,
+        "efficiency_score": 0.6964,
+        "reach": 131178,
+        "impressions": 223337,
+        "clicks": 7985,
+        "link_clicks": 2771,
+        "comments": 176,
+        "engagements": 75670,
+        "rows": 71
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - abril",
+        "spend": 99.92,
+        "results": 42,
+        "cost_per_result": 2.379,
+        "efficiency_score": 0.4203,
+        "reach": 89494,
+        "impressions": 140290,
+        "clicks": 2954,
+        "link_clicks": 2965,
+        "comments": 39,
+        "engagements": 38248,
+        "rows": 90
+      }
+    ],
+    "pareto": {
+      "campaigns_for_80pct_spend": 13,
+      "data": [
+        {
+          "campaign": "Rotec - Visitas al perfil - Agosto",
+          "spend": 205.14,
+          "spend_cumulative_pct": 10.6,
+          "results": 242,
+          "results_cumulative_pct": 15.6
+        },
+        {
+          "campaign": "Nueva campaña de Ventas",
+          "spend": 161.7,
+          "spend_cumulative_pct": 18.9,
+          "results": 295,
+          "results_cumulative_pct": 34.6
+        },
+        {
+          "campaign": "Nuevo Ventas Campaña",
+          "spend": 150.45,
+          "spend_cumulative_pct": 26.7,
+          "results": 152,
+          "results_cumulative_pct": 44.3
+        },
+        {
+          "campaign": "Rotec - visitas al perfil - Febrero",
+          "spend": 149.98,
+          "spend_cumulative_pct": 34.4,
+          "results": 48,
+          "results_cumulative_pct": 47.4
+        },
+        {
+          "campaign": "Rotec - visitas al perfil - marzo",
+          "spend": 149.97,
+          "spend_cumulative_pct": 42.2,
+          "results": 31,
+          "results_cumulative_pct": 49.4
+        },
+        {
+          "campaign": "Kildes - TOFU - Leads - Abril",
+          "spend": 124.92,
+          "spend_cumulative_pct": 48.6,
+          "results": 87,
+          "results_cumulative_pct": 55
+        },
+        {
+          "campaign": "Kildes - TOFU - Leads - Marzo",
+          "spend": 124.88,
+          "spend_cumulative_pct": 55.1,
+          "results": 35,
+          "results_cumulative_pct": 57.3
+        },
+        {
+          "campaign": "Kildes - TOFU - Leads - Junio",
+          "spend": 99.97,
+          "spend_cumulative_pct": 60.2,
+          "results": 170,
+          "results_cumulative_pct": 68.2
+        },
+        {
+          "campaign": "Rotec - visitas al perfil - abril",
+          "spend": 99.92,
+          "spend_cumulative_pct": 65.4,
+          "results": 42,
+          "results_cumulative_pct": 70.9
+        },
+        {
+          "campaign": "Nuevo Reconocimiento Campaña",
+          "spend": 93.54,
+          "spend_cumulative_pct": 70.2,
+          "results": 11,
+          "results_cumulative_pct": 71.6
+        },
+        {
+          "campaign": "Rotec - Visitas al perfil -Julio",
+          "spend": 90,
+          "spend_cumulative_pct": 74.9,
+          "results": 93,
+          "results_cumulative_pct": 77.6
+        },
+        {
+          "campaign": "Kildes - TOFU - Leads - Febrero",
+          "spend": 78.99,
+          "spend_cumulative_pct": 79,
+          "results": 20,
+          "results_cumulative_pct": 78.9
+        },
+        {
+          "campaign": "Rotec - visitas al perfil - junio",
+          "spend": 74.97,
+          "spend_cumulative_pct": 82.8,
+          "results": 60,
+          "results_cumulative_pct": 82.8
+        },
+        {
+          "campaign": "Publicación de Instagram: Extractor de Aire...",
+          "spend": 72.92,
+          "spend_cumulative_pct": 86.6,
+          "results": 8,
+          "results_cumulative_pct": 83.3
+        },
+        {
+          "campaign": "Kildes - Promo llaves  - Febrero",
+          "spend": 59.84,
+          "spend_cumulative_pct": 89.7,
+          "results": 4,
+          "results_cumulative_pct": 83.5
+        },
+        {
+          "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+          "spend": 50,
+          "spend_cumulative_pct": 92.3,
+          "results": 227,
+          "results_cumulative_pct": 98.1
+        },
+        {
+          "campaign": "Rotec - interacción - abril",
+          "spend": 49.98,
+          "spend_cumulative_pct": 94.8,
+          "results": 0,
+          "results_cumulative_pct": 98.1
+        },
+        {
+          "campaign": "New messages campaign",
+          "spend": 29.99,
+          "spend_cumulative_pct": 96.4,
+          "results": 23,
+          "results_cumulative_pct": 99.6
+        },
+        {
+          "campaign": "Kildes - Vendedores - Alcance - Mayo",
+          "spend": 29.97,
+          "spend_cumulative_pct": 97.9,
+          "results": 3,
+          "results_cumulative_pct": 99.8
+        },
+        {
+          "campaign": "Kildes - Vendedores - Alcance - Abril",
+          "spend": 24.95,
+          "spend_cumulative_pct": 99.2,
+          "results": 3,
+          "results_cumulative_pct": 100
+        },
+        {
+          "campaign": "Kildes - Retargeting - Leads - Febrero",
+          "spend": 14.54,
+          "spend_cumulative_pct": 100,
+          "results": 0,
+          "results_cumulative_pct": 100
+        },
+        {
+          "campaign": "Nuevo Tráfico Campaña",
+          "spend": 0.55,
+          "spend_cumulative_pct": 100,
+          "results": 0,
+          "results_cumulative_pct": 100
+        }
+      ]
+    },
+    "all_campaigns": [
+      {
+        "campaign": "Rotec - Visitas al perfil - Agosto",
+        "spend": 205.14,
+        "results": 242,
+        "cpr": 0.8477
+      },
+      {
+        "campaign": "Nueva campaña de Ventas",
+        "spend": 161.7,
+        "results": 295,
+        "cpr": 0.5481
+      },
+      {
+        "campaign": "Nuevo Ventas Campaña",
+        "spend": 150.45,
+        "results": 152,
+        "cpr": 0.9898
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - Febrero",
+        "spend": 149.98,
+        "results": 48,
+        "cpr": 3.1246
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - marzo",
+        "spend": 149.97,
+        "results": 31,
+        "cpr": 4.8377
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Abril",
+        "spend": 124.92,
+        "results": 87,
+        "cpr": 1.4359
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Marzo",
+        "spend": 124.88,
+        "results": 35,
+        "cpr": 3.568
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Junio",
+        "spend": 99.97,
+        "results": 170,
+        "cpr": 0.5881
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - abril",
+        "spend": 99.92,
+        "results": 42,
+        "cpr": 2.379
+      },
+      {
+        "campaign": "Nuevo Reconocimiento Campaña",
+        "spend": 93.54,
+        "results": 11,
+        "cpr": 8.5036
+      },
+      {
+        "campaign": "Rotec - Visitas al perfil -Julio",
+        "spend": 90,
+        "results": 93,
+        "cpr": 0.9677
+      },
+      {
+        "campaign": "Kildes - TOFU - Leads - Febrero",
+        "spend": 78.99,
+        "results": 20,
+        "cpr": 3.9495
+      },
+      {
+        "campaign": "Rotec - visitas al perfil - junio",
+        "spend": 74.97,
+        "results": 60,
+        "cpr": 1.2495
+      },
+      {
+        "campaign": "Publicación de Instagram: Extractor de Aire...",
+        "spend": 72.92,
+        "results": 8,
+        "cpr": 9.115
+      },
+      {
+        "campaign": "Kildes - Promo llaves  - Febrero",
+        "spend": 59.84,
+        "results": 4,
+        "cpr": 14.96
+      },
+      {
+        "campaign": "Kildes - Leads - Compresores Abr - Mayo",
+        "spend": 50,
+        "results": 227,
+        "cpr": 0.2203
+      },
+      {
+        "campaign": "Rotec - interacción - abril",
+        "spend": 49.98,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "New messages campaign",
+        "spend": 29.99,
+        "results": 23,
+        "cpr": 1.3039
+      },
+      {
+        "campaign": "Kildes - Vendedores - Alcance - Mayo",
+        "spend": 29.97,
+        "results": 3,
+        "cpr": 9.99
+      },
+      {
+        "campaign": "Kildes - Vendedores - Alcance - Abril",
+        "spend": 24.95,
+        "results": 3,
+        "cpr": 8.3167
+      },
+      {
+        "campaign": "Kildes - Retargeting - Leads - Febrero",
+        "spend": 14.54,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "Nuevo Tráfico Campaña",
+        "spend": 0.55,
+        "results": 0,
+        "cpr": null
+      }
+    ]
+  },
+  "demographic_analysis": {
+    "heatmap_spend": [
+      {
+        "age": "18-24",
+        "female": 30.95,
+        "male": 43.99,
+        "unknown": 0.68
+      },
+      {
+        "age": "25-34",
+        "female": 76.25,
+        "male": 153.55,
+        "unknown": 1.59
+      },
+      {
+        "age": "35-44",
+        "female": 93.28,
+        "male": 255.04,
+        "unknown": 2.91
+      },
+      {
+        "age": "45-54",
+        "female": 139.39,
+        "male": 324.46,
+        "unknown": 3.74
+      },
+      {
+        "age": "55-64",
+        "female": 184.69,
+        "male": 296.25,
+        "unknown": 3.88
+      },
+      {
+        "age": "65+",
+        "female": 152.53,
+        "male": 171,
+        "unknown": 2.97
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "heatmap_results": [
+      {
+        "age": "18-24",
+        "female": 7,
+        "male": 23,
+        "unknown": 0
+      },
+      {
+        "age": "25-34",
+        "female": 28,
+        "male": 121,
+        "unknown": 0
+      },
+      {
+        "age": "35-44",
+        "female": 57,
+        "male": 281,
+        "unknown": 2
+      },
+      {
+        "age": "45-54",
+        "female": 82,
+        "male": 315,
+        "unknown": 6
+      },
+      {
+        "age": "55-64",
+        "female": 109,
+        "male": 277,
+        "unknown": 6
+      },
+      {
+        "age": "65+",
+        "female": 90,
+        "male": 149,
+        "unknown": 1
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "heatmap_cpr": [
+      {
+        "age": "18-24",
+        "female": 4.42,
+        "male": 1.91,
+        "unknown": 0
+      },
+      {
+        "age": "25-34",
+        "female": 2.72,
+        "male": 1.27,
+        "unknown": 0
+      },
+      {
+        "age": "35-44",
+        "female": 1.64,
+        "male": 0.91,
+        "unknown": 1.45
+      },
+      {
+        "age": "45-54",
+        "female": 1.7,
+        "male": 1.03,
+        "unknown": 0.62
+      },
+      {
+        "age": "55-64",
+        "female": 1.69,
+        "male": 1.07,
+        "unknown": 0.65
+      },
+      {
+        "age": "65+",
+        "female": 1.69,
+        "male": 1.15,
+        "unknown": 2.97
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "age_distribution": [
+      {
+        "age": "18-24",
+        "spend": 75.63,
+        "results": 30,
+        "pct_spend": 3.9
+      },
+      {
+        "age": "25-34",
+        "spend": 231.39,
+        "results": 149,
+        "pct_spend": 11.9
+      },
+      {
+        "age": "35-44",
+        "spend": 351.23,
+        "results": 340,
+        "pct_spend": 18.1
+      },
+      {
+        "age": "45-54",
+        "spend": 467.59,
+        "results": 403,
+        "pct_spend": 24.1
+      },
+      {
+        "age": "55-64",
+        "spend": 484.82,
+        "results": 392,
+        "pct_spend": 25
+      },
+      {
+        "age": "65+",
+        "spend": 326.5,
+        "results": 240,
+        "pct_spend": 16.9
+      },
+      {
+        "age": "Unknown",
+        "spend": 0,
+        "results": 0,
+        "pct_spend": 0
+      }
+    ],
+    "best_demographics": [
+      {
+        "age": "45-54",
+        "gender": "unknown",
+        "cost_per_result": 0.6232,
+        "results": 6,
+        "spend": 3.74
+      },
+      {
+        "age": "55-64",
+        "gender": "unknown",
+        "cost_per_result": 0.6466,
+        "results": 6,
+        "spend": 3.88
+      },
+      {
+        "age": "35-44",
+        "gender": "male",
+        "cost_per_result": 0.9076,
+        "results": 281,
+        "spend": 255.04
+      },
+      {
+        "age": "45-54",
+        "gender": "male",
+        "cost_per_result": 1.03,
+        "results": 315,
+        "spend": 324.46
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "cost_per_result": 1.0695,
+        "results": 277,
+        "spend": 296.25
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "cost_per_result": 1.1476,
+        "results": 149,
+        "spend": 171
+      },
+      {
+        "age": "25-34",
+        "gender": "male",
+        "cost_per_result": 1.269,
+        "results": 121,
+        "spend": 153.55
+      },
+      {
+        "age": "35-44",
+        "gender": "unknown",
+        "cost_per_result": 1.4547,
+        "results": 2,
+        "spend": 2.91
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "cost_per_result": 1.6365,
+        "results": 57,
+        "spend": 93.28
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "cost_per_result": 1.6944,
+        "results": 109,
+        "spend": 184.69
+      }
+    ]
+  },
+  "clustering": {},
+  "conversation_analysis": {
+    "total_conversations": 8306,
+    "has_data": true,
+    "sample_fields": [
+      "id",
+      "session_id",
+      "message"
+    ],
+    "intent_analysis": [
+      {
+        "intent": "general",
+        "count": 1316,
+        "pct": 36.6
+      },
+      {
+        "intent": "precio",
+        "count": 955,
+        "pct": 26.6
+      },
+      {
+        "intent": "informacion",
+        "count": 862,
+        "pct": 24
+      },
+      {
+        "intent": "saludo",
+        "count": 527,
+        "pct": 14.7
+      },
+      {
+        "intent": "ubicacion",
+        "count": 405,
+        "pct": 11.3
+      },
+      {
+        "intent": "compra",
+        "count": 227,
+        "pct": 6.3
+      },
+      {
+        "intent": "motor",
+        "count": 175,
+        "pct": 4.9
+      },
+      {
+        "intent": "compresor",
+        "count": 132,
+        "pct": 3.7
+      },
+      {
+        "intent": "regulador",
+        "count": 38,
+        "pct": 1.1
+      },
+      {
+        "intent": "correa",
+        "count": 13,
+        "pct": 0.4
+      },
+      {
+        "intent": "reclamo",
+        "count": 12,
+        "pct": 0.3
+      }
+    ],
+    "sentiment": {
+      "distribution": {
+        "positive": 443,
+        "neutral": 3150,
+        "negative": 2
+      },
+      "avg_polarity": 0.1227
+    },
+    "conversion_by_length": [
+      {
+        "length": "1-2",
+        "total": 514,
+        "rate": 44.9
+      },
+      {
+        "length": "3-5",
+        "total": 249,
+        "rate": 21.7
+      },
+      {
+        "length": "6-10",
+        "total": 212,
+        "rate": 18.5
+      },
+      {
+        "length": "10+",
+        "total": 171,
+        "rate": 14.9
+      }
+    ],
+    "total_sessions": 1146,
+    "total_messages": 8306,
+    "product_interest": [
+      {
+        "product": "Compresores",
+        "count": 367,
+        "pct": 10.2
+      },
+      {
+        "product": "Motores",
+        "count": 177,
+        "pct": 4.9
+      },
+      {
+        "product": "Correas",
+        "count": 135,
+        "pct": 3.8
+      },
+      {
+        "product": "Extractores",
+        "count": 58,
+        "pct": 1.6
+      },
+      {
+        "product": "Reguladores",
+        "count": 42,
+        "pct": 1.2
+      },
+      {
+        "product": "Capacitores",
+        "count": 14,
+        "pct": 0.4
+      },
+      {
+        "product": "Llaves",
+        "count": 12,
+        "pct": 0.3
+      }
+    ],
+    "lead_funnel": {
+      "total_sessions": 1146,
+      "funnel_steps": [
+        {
+          "step": "Inicio conversación",
+          "count": 1146,
+          "pct": 100
+        },
+        {
+          "step": "Consulta (Info/Precio)",
+          "count": 785,
+          "pct": 68.5
+        },
+        {
+          "step": "Intención de compra",
+          "count": 234,
+          "pct": 20.4
+        }
+      ],
+      "conversion_rate_complete": 20.4
+    }
+  }
+}

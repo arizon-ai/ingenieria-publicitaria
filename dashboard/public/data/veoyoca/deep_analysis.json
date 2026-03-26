@@ -1,0 +1,453 @@
+{
+  "video_retention": {
+    "totals": {
+      "video_25": 139951,
+      "video_50": 74845,
+      "video_75": 42044,
+      "video_95": 29115,
+      "video_100": 27658
+    },
+    "retention_rates": {
+      "video_25": 100.0,
+      "video_50": 53.5,
+      "video_75": 30.0,
+      "video_95": 20.8,
+      "video_100": 19.8
+    },
+    "avg_play_time": {
+      "mean": 2.24,
+      "median": 1.0,
+      "max": 188.0
+    },
+    "by_age": [
+      {
+        "age": "18-24",
+        "retention_100": 20.6
+      },
+      {
+        "age": "25-34",
+        "retention_100": 18.1
+      },
+      {
+        "age": "35-44",
+        "retention_100": 17.7
+      },
+      {
+        "age": "45-54",
+        "retention_100": 20.2
+      },
+      {
+        "age": "55-64",
+        "retention_100": 22.3
+      },
+      {
+        "age": "65+",
+        "retention_100": 24.7
+      },
+      {
+        "age": "Unknown",
+        "retention_100": null
+      }
+    ]
+  },
+  "frequency_optimization": {
+    "avg_frequency": 1.33,
+    "by_bucket": [
+      {
+        "bucket": "1-1.5",
+        "spend": 4045.32,
+        "results": 7146,
+        "cpr": 0.57,
+        "rows": 1770
+      },
+      {
+        "bucket": "1.5-2.5",
+        "spend": 9161.61,
+        "results": 10287,
+        "cpr": 0.89,
+        "rows": 315
+      },
+      {
+        "bucket": "2.5-4",
+        "spend": 1295.08,
+        "results": 40,
+        "cpr": 32.38,
+        "rows": 52
+      },
+      {
+        "bucket": "4-8",
+        "spend": 21.89,
+        "results": 5,
+        "cpr": 4.38,
+        "rows": 22
+      },
+      {
+        "bucket": "8+",
+        "spend": 0.23,
+        "results": 0,
+        "cpr": null,
+        "rows": 1
+      }
+    ]
+  },
+  "delivery_status": [
+    {
+      "status": "active",
+      "spend": 3280.94,
+      "results": 27,
+      "campaigns": 2,
+      "cpr": 121.52
+    },
+    {
+      "status": "archived",
+      "spend": 84.53,
+      "results": 46,
+      "campaigns": 3,
+      "cpr": 1.84
+    },
+    {
+      "status": "inactive",
+      "spend": 11162.67,
+      "results": 17413,
+      "campaigns": 116,
+      "cpr": 0.64
+    }
+  ],
+  "engagement": {
+    "total_comments": 2266,
+    "avg_comments": 1.03,
+    "top_campaigns": [
+      {
+        "campaign": "RACK N3",
+        "comments": 610
+      },
+      {
+        "campaign": "PIRAMIDE N4",
+        "comments": 218
+      },
+      {
+        "campaign": "PIRAMIDES TITULO ABAJO 2025",
+        "comments": 208
+      },
+      {
+        "campaign": "RACKS 2025 NUEVO MODELO",
+        "comments": 191
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA SEPTIEMBRE 5",
+        "comments": 117
+      },
+      {
+        "campaign": "PIRAMIDES NUEVAS FOTOS",
+        "comments": 111
+      },
+      {
+        "campaign": "REEL PIRAMIDE HUMANO 1",
+        "comments": 109
+      },
+      {
+        "campaign": "RACK MODELO NUEVO 2",
+        "comments": 89
+      },
+      {
+        "campaign": "MOSTRADOR N1",
+        "comments": 75
+      },
+      {
+        "campaign": "RACK 2410",
+        "comments": 62
+      }
+    ]
+  },
+  "age_performance": [
+    {
+      "age": "18-24",
+      "spend": 1206.51,
+      "results": 2548.0,
+      "cpr": 0.4735,
+      "cpm": 1.104,
+      "cpc": 0.1111,
+      "ctr": 0.6756,
+      "comments": 112.0,
+      "link_clicks": 5720.0
+    },
+    {
+      "age": "25-34",
+      "spend": 3750.93,
+      "results": 5089.0,
+      "cpr": 0.7371,
+      "cpm": 1.2025,
+      "cpc": 0.1368,
+      "ctr": 0.6621,
+      "comments": 489.0,
+      "link_clicks": 14574.0
+    },
+    {
+      "age": "35-44",
+      "spend": 4185.06,
+      "results": 3951.0,
+      "cpr": 1.0592,
+      "cpm": 1.6813,
+      "cpc": 0.1762,
+      "ctr": 0.7499,
+      "comments": 795.0,
+      "link_clicks": 13166.0
+    },
+    {
+      "age": "45-54",
+      "spend": 2976.35,
+      "results": 2656.0,
+      "cpr": 1.1206,
+      "cpm": 2.0752,
+      "cpc": 0.1873,
+      "ctr": 0.8978,
+      "comments": 570.0,
+      "link_clicks": 8738.0
+    },
+    {
+      "age": "55-64",
+      "spend": 1648.04,
+      "results": 1796.0,
+      "cpr": 0.9176,
+      "cpm": 2.5662,
+      "cpc": 0.2058,
+      "ctr": 0.9472,
+      "comments": 222.0,
+      "link_clicks": 5202.0
+    },
+    {
+      "age": "65+",
+      "spend": 761.25,
+      "results": 1446.0,
+      "cpr": 0.5265,
+      "cpm": 3.0028,
+      "cpc": 0.1805,
+      "ctr": 1.1193,
+      "comments": 78.0,
+      "link_clicks": 2836.0
+    },
+    {
+      "age": "Unknown",
+      "spend": 0.0,
+      "results": 0.0,
+      "cpr": null,
+      "cpm": 0.0,
+      "cpc": 0.0,
+      "ctr": 0.0,
+      "comments": 0.0,
+      "link_clicks": 0.0
+    }
+  ],
+  "gender_performance": [
+    {
+      "gender": "female",
+      "spend": 6331.21,
+      "results": 9607.0,
+      "cpr": 0.659,
+      "ctr": 0.9439,
+      "comments": 917.0,
+      "link_clicks": 24072.0,
+      "frequency": 1.2088
+    },
+    {
+      "gender": "male",
+      "spend": 8032.14,
+      "results": 7751.0,
+      "cpr": 1.0363,
+      "ctr": 0.8016,
+      "comments": 1330.0,
+      "link_clicks": 25707.0,
+      "frequency": 1.2542
+    },
+    {
+      "gender": "unknown",
+      "spend": 164.79,
+      "results": 128.0,
+      "cpr": 1.2874,
+      "ctr": 0.7688,
+      "comments": 19.0,
+      "link_clicks": 457.0,
+      "frequency": 1.4541
+    }
+  ],
+  "correlations": [
+    {
+      "var_a": "reach",
+      "var_b": "results",
+      "pearson_r": 0.5759,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "impressions",
+      "var_b": "comments",
+      "pearson_r": 0.7945,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "spend",
+      "var_b": "results",
+      "pearson_r": 0.4103,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "results",
+      "pearson_r": 0.1113,
+      "p_value": 0.0
+    },
+    {
+      "var_a": "cpm",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0522,
+      "p_value": 0.014431
+    },
+    {
+      "var_a": "spend",
+      "var_b": "ctr_all",
+      "pearson_r": 0.002,
+      "p_value": 0.924388
+    },
+    {
+      "var_a": "frequency",
+      "var_b": "ctr_all",
+      "pearson_r": 0.0087,
+      "p_value": 0.684225
+    }
+  ],
+  "campaign_ranking": {
+    "top": [
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "spend": 133.56,
+        "results": 3309,
+        "cpr": 0.0404,
+        "efficiency": 24.7754
+      },
+      {
+        "campaign": "PIRAMIDES COMBO TRÁFICO",
+        "spend": 14.33,
+        "results": 328,
+        "cpr": 0.0437,
+        "efficiency": 22.889
+      },
+      {
+        "campaign": "PIRAMIDES IA MOD 1",
+        "spend": 15.24,
+        "results": 296,
+        "cpr": 0.0515,
+        "efficiency": 19.4226
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "spend": 103.4,
+        "results": 1990,
+        "cpr": 0.052,
+        "efficiency": 19.2456
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "spend": 73.41,
+        "results": 1370,
+        "cpr": 0.0536,
+        "efficiency": 18.6623
+      },
+      {
+        "campaign": "RACKS REELS 24",
+        "spend": 51.35,
+        "results": 925,
+        "cpr": 0.0555,
+        "efficiency": 18.0136
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS ULTRA",
+        "spend": 35.6,
+        "results": 617,
+        "cpr": 0.0577,
+        "efficiency": 17.3315
+      },
+      {
+        "campaign": "RACK 2424 REEL",
+        "spend": 13.73,
+        "results": 202,
+        "cpr": 0.068,
+        "efficiency": 14.7123
+      },
+      {
+        "campaign": "RACK REEL WHATSSAP TRAFICO 3",
+        "spend": 17.23,
+        "results": 197,
+        "cpr": 0.0875,
+        "efficiency": 11.4335
+      },
+      {
+        "campaign": "PIRAMIDES OFERTA NOVIEMBRE BLACK F 2",
+        "spend": 1.75,
+        "results": 6,
+        "cpr": 0.2917,
+        "efficiency": 3.4286
+      }
+    ],
+    "bottom": [
+      {
+        "campaign": "PIRAMIDES NUEVA INT 5",
+        "spend": 7.38,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "RACK TENDENCIA 2",
+        "spend": 7.23,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 1",
+        "spend": 4.76,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "RACK LIBRE 25 1",
+        "spend": 4.67,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 2",
+        "spend": 4.56,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "RACKS ALT 1",
+        "spend": 4.45,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "CARRETE PIRAMIDES 24",
+        "spend": 2.25,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "PIRAMIDES 24 LIBRE",
+        "spend": 2.33,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "RACK JUN 4",
+        "spend": 2.58,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "RACK NUEVO MODELO",
+        "spend": 1.18,
+        "results": 0,
+        "cpr": null
+      }
+    ]
+  }
+}

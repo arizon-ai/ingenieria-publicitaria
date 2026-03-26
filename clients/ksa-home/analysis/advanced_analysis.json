@@ -1,0 +1,244 @@
+{
+  "product_performance": [
+    {
+      "product": "Brand/Lifestyle",
+      "spend": 625.95,
+      "results": 16321,
+      "cpr": 0.0384,
+      "campaigns": 11,
+      "reach": 298980,
+      "impressions": 415975,
+      "engagements": 106257,
+      "ig_visits": 16321
+    },
+    {
+      "product": "Ofertas/Promociones",
+      "spend": 387.52,
+      "results": 17430,
+      "cpr": 0.0222,
+      "campaigns": 10,
+      "reach": 389450,
+      "impressions": 551471,
+      "engagements": 61757,
+      "ig_visits": 17430
+    },
+    {
+      "product": "Otros",
+      "spend": 237.55,
+      "results": 6521,
+      "cpr": 0.0364,
+      "campaigns": 6,
+      "reach": 122491,
+      "impressions": 174502,
+      "engagements": 57393,
+      "ig_visits": 6721
+    },
+    {
+      "product": "Construcción General",
+      "spend": 201.57,
+      "results": 11636,
+      "cpr": 0.0173,
+      "campaigns": 4,
+      "reach": 160312,
+      "impressions": 245431,
+      "engagements": 12868,
+      "ig_visits": 11636
+    },
+    {
+      "product": "Tráfico/Leads",
+      "spend": 160.2,
+      "results": 7254,
+      "cpr": 0.0221,
+      "campaigns": 2,
+      "reach": 101910,
+      "impressions": 154268,
+      "engagements": 67048,
+      "ig_visits": 4036
+    },
+    {
+      "product": "Grifería/Faucet",
+      "spend": 129.74,
+      "results": 5387,
+      "cpr": 0.0241,
+      "campaigns": 2,
+      "reach": 84632,
+      "impressions": 106226,
+      "engagements": 49771,
+      "ig_visits": 5387
+    },
+    {
+      "product": "Cerámicas/Porcelanato",
+      "spend": 93.79,
+      "results": 3337,
+      "cpr": 0.0281,
+      "campaigns": 3,
+      "reach": 68339,
+      "impressions": 91859,
+      "engagements": 24776,
+      "ig_visits": 3328
+    },
+    {
+      "product": "Drywall",
+      "spend": 60.57,
+      "results": 8,
+      "cpr": 7.5713,
+      "campaigns": 1,
+      "reach": 31373,
+      "impressions": 53320,
+      "engagements": 21905,
+      "ig_visits": 681
+    },
+    {
+      "product": "Tanques",
+      "spend": 48.94,
+      "results": 1961,
+      "cpr": 0.025,
+      "campaigns": 1,
+      "reach": 43682,
+      "impressions": 53477,
+      "engagements": 26822,
+      "ig_visits": 1961
+    },
+    {
+      "product": "Navidad/Temporal",
+      "spend": 34.92,
+      "results": 2099,
+      "cpr": 0.0166,
+      "campaigns": 1,
+      "reach": 19616,
+      "impressions": 29108,
+      "engagements": 17110,
+      "ig_visits": 2099
+    },
+    {
+      "product": "Pinturas",
+      "spend": 19.91,
+      "results": 2065,
+      "cpr": 0.0096,
+      "campaigns": 1,
+      "reach": 20508,
+      "impressions": 31704,
+      "engagements": 2274,
+      "ig_visits": 2065
+    },
+    {
+      "product": "Eléctricos/Conexiones",
+      "spend": 7.43,
+      "results": 72,
+      "cpr": 0.1032,
+      "campaigns": 1,
+      "reach": 3176,
+      "impressions": 3442,
+      "engagements": 839,
+      "ig_visits": 72
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 2081.34,
+    "wasted_spend": 68.69,
+    "waste_percentage": 3.3,
+    "rows_without_results": 103,
+    "total_rows": 816,
+    "by_campaign": [
+      {
+        "campaign": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+        "spend": 30
+      }
+    ],
+    "by_product": []
+  },
+  "ad_fatigue": {
+    "by_saturation": [
+      {
+        "bucket": "1-1.5x",
+        "ctr": 3.807,
+        "spend": 1371.6,
+        "results": 47901
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr": 4.5153,
+        "spend": 634.11,
+        "results": 26112
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr": 4.3611,
+        "spend": 1.53,
+        "results": 48
+      },
+      {
+        "bucket": "4x+",
+        "ctr": 4.9233,
+        "spend": 0.55,
+        "results": 20
+      }
+    ]
+  },
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "quality_score": 7.9,
+        "spend": 49.91,
+        "results": 5077
+      },
+      {
+        "campaign": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "quality_score": 5.2,
+        "spend": 83.92,
+        "results": 4228
+      },
+      {
+        "campaign": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+        "quality_score": 5,
+        "spend": 30,
+        "results": 0
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "quality_score": 4.9,
+        "spend": 39.97,
+        "results": 3249
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "quality_score": 4.9,
+        "spend": 34.84,
+        "results": 2506
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "Publicación de Instagram: ¡Atención! ❗️ Este...",
+        "quality_score": 0.7,
+        "spend": 39.95,
+        "results": 168
+      },
+      {
+        "campaign": "Publicación de Instagram: En cada conexión hay...",
+        "quality_score": 0.8,
+        "spend": 7.43,
+        "results": 72
+      },
+      {
+        "campaign": "Publicación de Instagram: El Jaque Mate de la...",
+        "quality_score": 0.9,
+        "spend": 39.89,
+        "results": 576
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Que la lluvia no te...",
+        "quality_score": 1,
+        "spend": 42.5,
+        "results": 733
+      },
+      {
+        "campaign": "Publicación de Instagram: POV: Encontraste al...",
+        "quality_score": 1.1,
+        "spend": 12.96,
+        "results": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "product_performance": [
+    {
+      "product": "OTROS",
+      "spend": 1604.49,
+      "results": 88582,
+      "cpr": 0.0181,
+      "campaigns": 25,
+      "reach": 623813
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 1604.49,
+    "wasted_spend": 113.35,
+    "waste_percentage": 7.06,
+    "rows_without_results": 201,
+    "by_campaign": [
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMA...",
+        "wasted": 28.27
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅ TU PRÓXIMO...",
+        "wasted": 21.05
+      },
+      {
+        "campaign": "Publicación de Instagram: DISCOVERY SPORT 2023...",
+        "wasted": 15.03
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...",
+        "wasted": 14.41
+      },
+      {
+        "campaign": "Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...",
+        "wasted": 11.73
+      },
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025 2)",
+        "wasted": 9.45
+      },
+      {
+        "campaign": "Publicación de Instagram: BRONCO WILDTRAK 2022...",
+        "wasted": 4.52
+      },
+      {
+        "campaign": "Publicación de Instagram: 🚨 ¡Atención Valencia!...",
+        "wasted": 3.51
+      },
+      {
+        "campaign": "Publicación de Instagram: LC200 BLINDADA...",
+        "wasted": 1.4
+      },
+      {
+        "campaign": "Publicación de Instagram: TOYOTA COROLLA LEVIN...",
+        "wasted": 1.19
+      }
+    ],
+    "by_product": [
+      {
+        "product": "OTROS",
+        "wasted": 113.35
+      }
+    ]
+  },
+  "ad_fatigue": {
+    "by_saturation": [
+      {
+        "bucket": "1-1.5x",
+        "ctr": 2.2911,
+        "spend": 872.96,
+        "results": 68449
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr": 2.0054,
+        "spend": 731.33,
+        "results": 20129
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr": 2.7778,
+        "spend": 0.2,
+        "results": 4
+      }
+    ]
+  },
+  "anomaly_detection": {
+    "total_anomalies": 33,
+    "anomalies": [
+      {
+        "spend": 17.18,
+        "results": 660.0,
+        "ctr_all": 3.0981,
+        "frequency": 1.2105,
+        "reach": 17492,
+        "anomaly": -1,
+        "anomaly_score": -0.1491,
+        "campaign": "Publicación de Instagram: Solo para quienes saben..."
+      },
+      {
+        "spend": 16.18,
+        "results": 523.0,
+        "ctr_all": 3.3469,
+        "frequency": 1.3742,
+        "reach": 11480,
+        "anomaly": -1,
+        "anomaly_score": -0.1162,
+        "campaign": "Publicación de Instagram: Hay detalles que solo..."
+      },
+      {
+        "spend": 13.51,
+        "results": 479.0,
+        "ctr_all": 4.4572,
+        "frequency": 1.4398,
+        "reach": 7760,
+        "anomaly": -1,
+        "anomaly_score": -0.0739,
+        "campaign": "Publicación de Instagram: Hay detalles que solo..."
+      },
+      {
+        "spend": 12.63,
+        "results": 572.0,
+        "ctr_all": 2.917,
+        "frequency": 1.3079,
+        "reach": 14600,
+        "anomaly": -1,
+        "anomaly_score": -0.0888,
+        "campaign": "Publicación de Instagram: Solo para quienes saben..."
+      },
+      {
+        "spend": 12.52,
+        "results": 531.0,
+        "ctr_all": 4.1686,
+        "frequency": 1.2754,
+        "reach": 9931,
+        "anomaly": -1,
+        "anomaly_score": -0.0649,
+        "campaign": "Publicación de Instagram: Solo para quienes saben..."
+      },
+      {
+        "spend": 12.24,
+        "results": 372.0,
+        "ctr_all": 5.2121,
+        "frequency": 1.2645,
+        "reach": 5629,
+        "anomaly": -1,
+        "anomaly_score": -0.0169,
+        "campaign": "Publicación de Instagram: Hay detalles que solo..."
+      },
+      {
+        "spend": 12.17,
+        "results": 360.0,
+        "ctr_all": 4.1234,
+        "frequency": 1.3889,
+        "reach": 6164,
+        "anomaly": -1,
+        "anomaly_score": -0.0159,
+        "campaign": "Publicación de Instagram: Hay detalles que solo..."
+      },
+      {
+        "spend": 12.06,
+        "results": 4647.0,
+        "ctr_all": 0.4898,
+        "frequency": 1.4063,
+        "reach": 18581,
+        "anomaly": -1,
+        "anomaly_score": -0.164,
+        "campaign": "REEL RANGE ROVER"
+      },
+      {
+        "spend": 11.91,
+        "results": 219.0,
+        "ctr_all": 2.2212,
+        "frequency": 1.2335,
+        "reach": 8869,
+        "anomaly": -1,
+        "anomaly_score": -0.0234,
+        "campaign": "Publicación de Instagram: Cada aplicación es..."
+      },
+      {
+        "spend": 11.56,
+        "results": 209.0,
+        "ctr_all": 2.9921,
+        "frequency": 1.1759,
+        "reach": 6338,
+        "anomaly": -1,
+        "anomaly_score": -0.0036,
+        "campaign": "Publicación de Instagram: Cada aplicación es..."
+      },
+      {
+        "spend": 10.82,
+        "results": 4229.0,
+        "ctr_all": 0.5524,
+        "frequency": 1.5043,
+        "reach": 12034,
+        "anomaly": -1,
+        "anomaly_score": -0.1214,
+        "campaign": "REEL RANGE ROVER"
+      },
+      {
+        "spend": 10.37,
+        "results": 4036.0,
+        "ctr_all": 0.3684,
+        "frequency": 1.3944,
+        "reach": 19661,
+        "anomaly": -1,
+        "anomaly_score": -0.1628,
+        "campaign": "REEL RANGE ROVER"
+      },
+      {
+        "spend": 10.34,
+        "results": 1500.0,
+        "ctr_all": 0.9219,
+        "frequency": 1.7736,
+        "reach": 10520,
+        "anomaly": -1,
+        "anomaly_score": -0.0885,
+        "campaign": "CAMPAÑA TRAFICO MENSAJES BRONCO"
+      },
+      {
+        "spend": 9.57,
+        "results": 313.0,
+        "ctr_all": 2.8873,
+        "frequency": 1.4158,
+        "reach": 7975,
+        "anomaly": -1,
+        "anomaly_score": -0.0106,
+        "campaign": "Publicación de Instagram: Hay detalles que solo..."
+      },
+      {
+        "spend": 8.7,
+        "results": 1185.0,
+        "ctr_all": 0.8158,
+        "frequency": 1.7635,
+        "reach": 8132,
+        "anomaly": -1,
+        "anomaly_score": -0.051,
+        "campaign": "CAMPAÑA TRAFICO MENSAJES BRONCO"
+      }
+    ]
+  },
+  "diminishing_returns": [
+    {
+      "bucket": "$0-50",
+      "avg_cpr": 0.438,
+      "avg_efficiency": 438.6538,
+      "campaigns": 11
+    },
+    {
+      "bucket": "$50-100",
+      "avg_cpr": 0.7646,
+      "avg_efficiency": 13.4294,
+      "campaigns": 9
+    },
+    {
+      "bucket": "$100-200",
+      "avg_cpr": 1.8586,
+      "avg_efficiency": 0.5635,
+      "campaigns": 3
+    },
+    {
+      "bucket": "$200-500",
+      "avg_cpr": 1.2231,
+      "avg_efficiency": 0.8176,
+      "campaigns": 1
+    }
+  ],
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "Publicación de Instagram: Solo para quienes saben...",
+        "quality_score": 12.7,
+        "spend": 56.93,
+        "results": 2560
+      },
+      {
+        "campaign": "Publicación de Instagram: Algo extraño empezó a...",
+        "quality_score": 9.1,
+        "spend": 54.32,
+        "results": 780
+      },
+      {
+        "campaign": "Publicación de Instagram: Después de años...",
+        "quality_score": 8.7,
+        "spend": 49.42,
+        "results": 154
+      },
+      {
+        "campaign": "Publicación de Instagram: Hay detalles que solo...",
+        "quality_score": 8.0,
+        "spend": 92.64,
+        "results": 3022
+      },
+      {
+        "campaign": "Publicación de Instagram: Protección que...",
+        "quality_score": 7.1,
+        "spend": 35.69,
+        "results": 54
+      },
+      {
+        "campaign": "Publicación de Instagram: Cada aplicación es...",
+        "quality_score": 6.4,
+        "spend": 53.97,
+        "results": 1045
+      },
+      {
+        "campaign": "Publicación de Instagram: DISCOVERY SPORT 2023...",
+        "quality_score": 6.1,
+        "spend": 121.05,
+        "results": 57
+      },
+      {
+        "campaign": "Publicación de Instagram: TOYOTA COROLLA LEVIN...",
+        "quality_score": 5.8,
+        "spend": 49.98,
+        "results": 69
+      },
+      {
+        "campaign": "Publicación de Instagram: Un choque no solo daña...",
+        "quality_score": 5.6,
+        "spend": 53.0,
+        "results": 70
+      },
+      {
+        "campaign": "Publicación de Instagram: LC200 BLINDADA...",
+        "quality_score": 5.5,
+        "spend": 25.0,
+        "results": 16
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025)",
+        "quality_score": 3.1,
+        "spend": 24.68,
+        "results": 487
+      },
+      {
+        "campaign": "Publicación de Instagram: TU PRÓXIMO RANGE ROVER,...",
+        "quality_score": 3.1,
+        "spend": 99.77,
+        "results": 64
+      },
+      {
+        "campaign": "H4 Autos: Varios (noviembre 2025 2)",
+        "quality_score": 2.8,
+        "spend": 109.93,
+        "results": 82
+      },
+      {
+        "campaign": "Publicación de Instagram: DISPONIBLE ✅TU PRÓXIMO...",
+        "quality_score": 2.5,
+        "spend": 61.68,
+        "results": 17
+      },
+      {
+        "campaign": "CAMPAÑA TRAFICO MENSAJES BRONCO",
+        "quality_score": 2.4,
+        "spend": 43.87,
+        "results": 6029
+      },
+      {
+        "campaign": "Reel FULL PPF · Multiservicios H4",
+        "quality_score": 1.9,
+        "spend": 10.79,
+        "results": 43932
+      },
+      {
+        "campaign": "CARRUSEL LAND ROVER",
+        "quality_score": 1.4,
+        "spend": 49.96,
+        "results": 4944
+      },
+      {
+        "campaign": "CAMPAÑA TRAFICO COROLLA",
+        "quality_score": 1.3,
+        "spend": 49.83,
+        "results": 5261
+      },
+      {
+        "campaign": "Publicación de Instagram: 🔥 Ford Bronco Wildtrak...",
+        "quality_score": 1.3,
+        "spend": 0.82,
+        "results": 0
+      },
+      {
+        "campaign": "REEL RANGE ROVER",
+        "quality_score": 0.5,
+        "spend": 49.98,
+        "results": 19223
+      }
+    ]
+  },
+  "campaign_keywords": [
+    {
+      "word": "PUBLICACIÓN",
+      "count": 18
+    },
+    {
+      "word": "INSTAGRAM",
+      "count": 18
+    },
+    {
+      "word": "SOLO",
+      "count": 3
+    },
+    {
+      "word": "DISPONIBLE",
+      "count": 3
+    },
+    {
+      "word": "PRÓXIMO",
+      "count": 3
+    },
+    {
+      "word": "ROVER",
+      "count": 3
+    },
+    {
+      "word": "BRONCO",
+      "count": 3
+    },
+    {
+      "word": "QUE",
+      "count": 2
+    },
+    {
+      "word": "AUTOS",
+      "count": 2
+    },
+    {
+      "word": "VARIOS",
+      "count": 2
+    },
+    {
+      "word": "NOVIEMBRE",
+      "count": 2
+    },
+    {
+      "word": "RANGE",
+      "count": 2
+    },
+    {
+      "word": "REEL",
+      "count": 2
+    },
+    {
+      "word": "CAMPAÑA",
+      "count": 2
+    },
+    {
+      "word": "TRAFICO",
+      "count": 2
+    },
+    {
+      "word": "WILDTRAK",
+      "count": 2
+    },
+    {
+      "word": "COROLLA",
+      "count": 2
+    },
+    {
+      "word": "PARA",
+      "count": 1
+    },
+    {
+      "word": "QUIENES",
+      "count": 1
+    },
+    {
+      "word": "SABEN",
+      "count": 1
+    }
+  ]
+}

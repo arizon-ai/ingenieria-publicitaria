@@ -1,0 +1,377 @@
+{
+  "executive_diagnosis": {
+    "total_investment": 14528.14,
+    "total_results": 17486,
+    "global_cost_per_result": 0.83,
+    "total_reach": 7279420,
+    "total_impressions": 12885909,
+    "avg_ctr": 79.99,
+    "avg_cpm": 1.13,
+    "avg_frequency": 1.77,
+    "unique_campaigns": 121,
+    "chatbot_leads": 323,
+    "chatbot_conversion_rate": 3.93,
+    "cost_per_qualified_lead": 29.84
+  },
+  "critical_findings": [
+    {
+      "severity": "critical",
+      "category": "Desperdicio Presupuestario",
+      "title": "$3,659.53 gastados sin generar resultados",
+      "detail": "El 25.19% del presupuesto total ($14,528.14) se invirtió en segmentos que no produjeron resultados medibles. Esto equivale a 1333 de 2197 registros.",
+      "action": "Implementar reglas automáticas de pausa para ad sets sin conversiones después de $5-10 de gasto. Revisar targeting y creativos de las campañas con mayor desperdicio.",
+      "impact": "Ahorro potencial inmediato de $3,659.53"
+    },
+    {
+      "severity": "critical",
+      "category": "Optimización de Presupuesto",
+      "title": "+914.9% más resultados con el mismo presupuesto",
+      "detail": "La redistribución del presupuesto hacia campañas eficientes proyecta 177,458 resultados vs 17,486 actuales, sin gastar un centavo adicional.",
+      "action": "Redistribuir presupuesto proporcionalmente a la inversa del costo por resultado. Las campañas más económicas deben recibir más presupuesto.",
+      "impact": "+159,972 resultados adicionales"
+    },
+    {
+      "severity": "high",
+      "category": "Rendimiento por Producto",
+      "title": "PIRAMIDE es el producto más publicitado ($7,975.58)",
+      "detail": "El producto más eficiente vs más costoso muestra una brecha importante. Algunos productos tienen CPR mucho más altos que otros.",
+      "action": "Analizar por qué CHECK OUT tiene un CPR de $2.16. Considerar pausar o reducir su presupuesto.",
+      "impact": "Reasignar presupuesto de productos ineficientes a los más eficientes"
+    },
+    {
+      "severity": "medium",
+      "category": "Frecuencia Óptima",
+      "title": "Rango óptimo de frecuencia: 1-1.5",
+      "detail": "La frecuencia promedio actual es 1.33 (mediana: 1.14). El rango 1-1.5 produce el menor costo por resultado.",
+      "action": "Configurar frequency caps en las campañas para evitar sobre-exposición. Mantener la frecuencia dentro del rango óptimo.",
+      "impact": "Reducción del CPR al evitar impresiones redundantes"
+    },
+    {
+      "severity": "medium",
+      "category": "Retención de Video",
+      "title": "Solo 19.76% de espectadores completan el video",
+      "detail": "De 139,951 reproducciones al 25%, solo 27,658 llegan al 100%. La mayor caída ocurre entre el 25% y el 50% del video.",
+      "action": "Colocar el mensaje clave y CTA en los primeros 3-5 segundos. Reducir la duración de los videos publicitarios. Testear versiones cortas (15s) vs largas.",
+      "impact": "Mayor retención = mayor recall de marca y conversiones"
+    },
+    {
+      "severity": "low",
+      "category": "Fatiga Publicitaria",
+      "title": "Saturación promedio: 1.33x — Sin fatiga significativa",
+      "detail": "Correlación saturación↔CTR: r=0.0103 (p=0.633704). No se detecta fatiga severa, pero monitorear.",
+      "action": "Rotar creativos cada 2-3 semanas. Usar exclusión de audiencias que ya convirtieron.",
+      "impact": "Mantener CTR alto y evitar costos crecientes"
+    },
+    {
+      "severity": "high",
+      "category": "Embudo del Chatbot",
+      "title": "Tasa de conversión del chatbot: 16.85%",
+      "detail": "De 1917 sesiones iniciales, solo 323 completan el proceso. Se pierden 1,594 prospectos en el camino.",
+      "action": "Simplificar el flujo del chatbot. Reducir pasos requeridos. Agregar recordatorios para sesiones abandonadas.",
+      "impact": "Cada 1% de mejora en conversión = ~19 leads adicionales"
+    },
+    {
+      "severity": "low",
+      "category": "Correlaciones Estadísticas",
+      "title": "Correlación más fuerte: Impressions ↔ Post comments (r=0.7696)",
+      "detail": "7 correlaciones estadísticamente significativas encontradas. La más fuerte indica que Impressions y Post comments están positivamente relacionados.",
+      "action": "Usar estas correlaciones para predecir resultados y ajustar estrategia.",
+      "impact": "Toma de decisiones basada en datos"
+    }
+  ],
+  "demographic_strategy": {
+    "best_segments": [
+      {
+        "product": "RACK",
+        "age": "18-24",
+        "gender": "female",
+        "cost_per_result": 0.22
+      },
+      {
+        "product": "PIRAMIDE",
+        "age": "65+",
+        "gender": "female",
+        "cost_per_result": 0.3
+      },
+      {
+        "product": "OTROS",
+        "age": "65+",
+        "gender": "unknown",
+        "cost_per_result": 0.36
+      },
+      {
+        "product": "OTROS",
+        "age": "65+",
+        "gender": "female",
+        "cost_per_result": 0.39
+      },
+      {
+        "product": "RACK",
+        "age": "25-34",
+        "gender": "female",
+        "cost_per_result": 0.41
+      }
+    ],
+    "worst_segments": [
+      {
+        "product": "RACK",
+        "age": "35-44",
+        "gender": "unknown",
+        "cost_per_result": 4.81
+      },
+      {
+        "product": "CHECK OUT",
+        "age": "35-44",
+        "gender": "female",
+        "cost_per_result": 3.55
+      },
+      {
+        "product": "CHECK OUT",
+        "age": "45-54",
+        "gender": "female",
+        "cost_per_result": 2.79
+      }
+    ],
+    "recommendation": "Concentrar presupuesto en los segmentos más eficientes (menor CPR) y reducir o eliminar los más costosos."
+  },
+  "product_strategy": [
+    {
+      "product": "PIRAMIDE",
+      "spend": 7975.58,
+      "results": 11172,
+      "cost_per_result": 0.71,
+      "ctr": 78.91,
+      "campaigns": 67,
+      "quality_score": 4.5,
+      "verdict": "Mantener"
+    },
+    {
+      "product": "RACK",
+      "spend": 3067.81,
+      "results": 3105,
+      "cost_per_result": 0.99,
+      "ctr": 78.59,
+      "campaigns": 26,
+      "quality_score": 4.6,
+      "verdict": "Mantener"
+    },
+    {
+      "product": "OTROS",
+      "spend": 2764.92,
+      "results": 3180,
+      "cost_per_result": 0.87,
+      "ctr": 94.7,
+      "campaigns": 23,
+      "quality_score": 4.4,
+      "verdict": "Mantener"
+    },
+    {
+      "product": "PASILLO",
+      "spend": 481.64,
+      "results": 0,
+      "cost_per_result": 0,
+      "ctr": 95.62,
+      "campaigns": 1,
+      "quality_score": 5.7,
+      "verdict": "Escalar"
+    },
+    {
+      "product": "ROSARIO",
+      "spend": 80.2,
+      "results": 0,
+      "cost_per_result": 0,
+      "ctr": 53.32,
+      "campaigns": 1,
+      "quality_score": 5.2,
+      "verdict": "Escalar"
+    },
+    {
+      "product": "MOSTRADOR",
+      "spend": 79.89,
+      "results": 0,
+      "cost_per_result": 0,
+      "ctr": 225.77,
+      "campaigns": 1,
+      "quality_score": 6.2,
+      "verdict": "Escalar"
+    },
+    {
+      "product": "CHECK OUT",
+      "spend": 62.74,
+      "results": 29,
+      "cost_per_result": 2.16,
+      "ctr": 49.34,
+      "campaigns": 1,
+      "quality_score": 3.2,
+      "verdict": "Revisar/Reducir"
+    },
+    {
+      "product": "ESTANTE",
+      "spend": 15.36,
+      "results": 0,
+      "cost_per_result": 0,
+      "ctr": 199.73,
+      "campaigns": 1,
+      "quality_score": 4.5,
+      "verdict": "Escalar"
+    }
+  ],
+  "result_type_strategy": [
+    {
+      "type": "Link clicks",
+      "spend": 457.85,
+      "results": 9234,
+      "cost_per_result": 0.05,
+      "cpm": 0.39,
+      "verdict": "Mejor opción"
+    },
+    {
+      "type": "Messaging conversations started",
+      "spend": 9638.81,
+      "results": 8225,
+      "cost_per_result": 1.17,
+      "cpm": 1.2,
+      "verdict": "Evaluar"
+    },
+    {
+      "type": "Meta leads",
+      "spend": 4410.7,
+      "results": 27,
+      "cost_per_result": 163.36,
+      "cpm": 1.21,
+      "verdict": "Evaluar"
+    }
+  ],
+  "diminishing_returns": [
+    {
+      "quartile": "Q1 (Low)",
+      "total_spend": 155.57,
+      "avg_spend": 7.07,
+      "total_results": 109,
+      "avg_results": 5.0,
+      "avg_cost_per_result": 2.39,
+      "campaigns": 22
+    },
+    {
+      "quartile": "Q2",
+      "total_spend": 471.42,
+      "avg_spend": 22.45,
+      "total_results": 1198,
+      "avg_results": 57.0,
+      "avg_cost_per_result": 2.89,
+      "campaigns": 21
+    },
+    {
+      "quartile": "Q3",
+      "total_spend": 1238.4,
+      "avg_spend": 58.97,
+      "total_results": 3453,
+      "avg_results": 164.4,
+      "avg_cost_per_result": 2.75,
+      "campaigns": 21
+    },
+    {
+      "quartile": "Q4 (High)",
+      "total_spend": 9906.18,
+      "avg_spend": 471.72,
+      "total_results": 12726,
+      "avg_results": 606.0,
+      "avg_cost_per_result": 4.23,
+      "campaigns": 21
+    }
+  ],
+  "action_plan": {
+    "immediate": [
+      "Pausar ad sets sin resultados (ahorro inmediato: $3,659.53)",
+      "Aplicar frequency cap al rango 1-1.5",
+      "Acortar videos publicitarios: mensaje clave en primeros 5 segundos",
+      "Simplificar flujo del chatbot para reducir abandono"
+    ],
+    "short_term": [
+      "Redistribuir presupuesto hacia campañas con menor CPR",
+      "Escalar productos con mejor rendimiento",
+      "Concentrar targeting en segmentos demográficos eficientes",
+      "Implementar A/B testing de creativos cada 2 semanas",
+      "Rotar creativos para evitar fatiga publicitaria"
+    ],
+    "medium_term": [
+      "Implementar reglas automáticas de pausa por rendimiento",
+      "Crear sistema de scoring de campañas con dashboards en tiempo real",
+      "Evaluar expansión a nuevos segmentos demográficos subexplotados",
+      "Meta de reducción de CPR a $0.58 (30% menos que actual)",
+      "Integrar datos de conversión post-lead para medir ROI real"
+    ]
+  },
+  "wasted_campaigns": [
+    {
+      "campaign": "PIRAMIDE N4",
+      "wasted": 1611.98,
+      "reach": 513408,
+      "impressions": 1268439,
+      "clicks": 9801
+    },
+    {
+      "campaign": "PASILLO GALA 24",
+      "wasted": 481.64,
+      "reach": 159296,
+      "impressions": 329730,
+      "clicks": 2406
+    },
+    {
+      "campaign": "RACK N3",
+      "wasted": 390.8,
+      "reach": 162432,
+      "impressions": 339944,
+      "clicks": 3643
+    },
+    {
+      "campaign": "SIERRA BOIA 1",
+      "wasted": 85.35,
+      "reach": 53563,
+      "impressions": 67999,
+      "clicks": 543
+    },
+    {
+      "campaign": "MARKET Y ALMACEN VILLA MACHIQUES Y VILLA DEL ROSARIO",
+      "wasted": 80.2,
+      "reach": 29639,
+      "impressions": 76458,
+      "clicks": 431
+    },
+    {
+      "campaign": "MOSTRADOR N1",
+      "wasted": 79.89,
+      "reach": 57588,
+      "impressions": 73609,
+      "clicks": 1273
+    },
+    {
+      "campaign": "PIRAMIDE N1",
+      "wasted": 64.94,
+      "reach": 38475,
+      "impressions": 41742,
+      "clicks": 297
+    },
+    {
+      "campaign": "MUEBLES DE MADERA A MEDIDA 24",
+      "wasted": 42.93,
+      "reach": 26344,
+      "impressions": 34772,
+      "clicks": 825
+    },
+    {
+      "campaign": "Nueva campaña de Interacción",
+      "wasted": 38.99,
+      "reach": 19335,
+      "impressions": 22410,
+      "clicks": 173
+    },
+    {
+      "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+      "wasted": 34.9,
+      "reach": 18920,
+      "impressions": 21896,
+      "clicks": 757
+    }
+  ]
+}

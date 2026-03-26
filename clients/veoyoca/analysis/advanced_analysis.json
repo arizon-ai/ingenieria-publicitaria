@@ -1,0 +1,597 @@
+{
+  "product_performance": [
+    {
+      "product": "PIRAMIDE",
+      "spend": 7975.58,
+      "results": 11172,
+      "cpr": 0.7139,
+      "campaigns": 67,
+      "reach": 4000177
+    },
+    {
+      "product": "RACK",
+      "spend": 3067.81,
+      "results": 3105,
+      "cpr": 0.988,
+      "campaigns": 26,
+      "reach": 1630697
+    },
+    {
+      "product": "OTROS",
+      "spend": 2679.57,
+      "results": 3180,
+      "cpr": 0.8426,
+      "campaigns": 22,
+      "reach": 1292232
+    },
+    {
+      "product": "PASILLO",
+      "spend": 481.64,
+      "results": 0,
+      "cpr": null,
+      "campaigns": 1,
+      "reach": 159296
+    },
+    {
+      "product": "SIERRA",
+      "spend": 85.35,
+      "results": 0,
+      "cpr": null,
+      "campaigns": 1,
+      "reach": 53570
+    },
+    {
+      "product": "ROSARIO",
+      "spend": 80.2,
+      "results": 0,
+      "cpr": null,
+      "campaigns": 1,
+      "reach": 29639
+    },
+    {
+      "product": "MOSTRADOR",
+      "spend": 79.89,
+      "results": 0,
+      "cpr": null,
+      "campaigns": 1,
+      "reach": 57588
+    },
+    {
+      "product": "CHECK OUT",
+      "spend": 62.74,
+      "results": 29,
+      "cpr": 2.1634,
+      "campaigns": 1,
+      "reach": 46670
+    },
+    {
+      "product": "ESTANTE",
+      "spend": 15.36,
+      "results": 0,
+      "cpr": null,
+      "campaigns": 1,
+      "reach": 9551
+    }
+  ],
+  "budget_waste": {
+    "total_spend": 14528.14,
+    "wasted_spend": 3659.53,
+    "waste_percentage": 25.19,
+    "rows_without_results": 1333,
+    "by_campaign": [
+      {
+        "campaign": "PIRAMIDE N4",
+        "wasted": 1611.98
+      },
+      {
+        "campaign": "PASILLO GALA 24",
+        "wasted": 481.64
+      },
+      {
+        "campaign": "RACK N3",
+        "wasted": 390.8
+      },
+      {
+        "campaign": "SIERRA BOIA 1",
+        "wasted": 85.35
+      },
+      {
+        "campaign": "MARKET Y ALMACEN VILLA MACHIQUES Y VILLA DEL ROSARIO",
+        "wasted": 80.2
+      },
+      {
+        "campaign": "MOSTRADOR N1",
+        "wasted": 79.89
+      },
+      {
+        "campaign": "PIRAMIDE N1",
+        "wasted": 64.94
+      },
+      {
+        "campaign": "MUEBLES DE MADERA A MEDIDA 24",
+        "wasted": 42.93
+      },
+      {
+        "campaign": "Nueva campaña de Interacción",
+        "wasted": 38.99
+      },
+      {
+        "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+        "wasted": 34.9
+      }
+    ],
+    "by_product": [
+      {
+        "product": "PIRAMIDE",
+        "wasted": 2055.76
+      },
+      {
+        "product": "RACK",
+        "wasted": 599.16
+      },
+      {
+        "product": "PASILLO",
+        "wasted": 481.64
+      },
+      {
+        "product": "OTROS",
+        "wasted": 256.23
+      },
+      {
+        "product": "SIERRA",
+        "wasted": 85.35
+      },
+      {
+        "product": "ROSARIO",
+        "wasted": 80.2
+      },
+      {
+        "product": "MOSTRADOR",
+        "wasted": 79.89
+      },
+      {
+        "product": "ESTANTE",
+        "wasted": 15.36
+      },
+      {
+        "product": "CHECK OUT",
+        "wasted": 5.94
+      }
+    ]
+  },
+  "ad_fatigue": {
+    "by_saturation": [
+      {
+        "bucket": "1-1.5x",
+        "ctr": 0.829,
+        "spend": 4045.32,
+        "results": 7146
+      },
+      {
+        "bucket": "1.5-2.5x",
+        "ctr": 0.8949,
+        "spend": 9161.61,
+        "results": 10287
+      },
+      {
+        "bucket": "2.5-4x",
+        "ctr": 0.7934,
+        "spend": 1295.08,
+        "results": 40
+      },
+      {
+        "bucket": "4-8x",
+        "ctr": 0.8933,
+        "spend": 21.89,
+        "results": 5
+      },
+      {
+        "bucket": "8x+",
+        "ctr": 0.3413,
+        "spend": 0.23,
+        "results": 0
+      }
+    ]
+  },
+  "anomaly_detection": {
+    "total_anomalies": 110,
+    "anomalies": [
+      {
+        "spend": 339.71,
+        "results": 10.0,
+        "ctr_all": 0.8092,
+        "frequency": 2.6936,
+        "reach": 123776,
+        "anomaly": -1,
+        "anomaly_score": -0.2232,
+        "campaign": "RACK N3"
+      },
+      {
+        "spend": 286.95,
+        "results": 0.0,
+        "ctr_all": 0.6522,
+        "frequency": 2.6668,
+        "reach": 82048,
+        "anomaly": -1,
+        "anomaly_score": -0.2023,
+        "campaign": "PIRAMIDE N4"
+      },
+      {
+        "spend": 276.37,
+        "results": 0.0,
+        "ctr_all": 0.5928,
+        "frequency": 2.9462,
+        "reach": 94080,
+        "anomaly": -1,
+        "anomaly_score": -0.2277,
+        "campaign": "PIRAMIDE N4"
+      },
+      {
+        "spend": 267.47,
+        "results": 2.0,
+        "ctr_all": 0.9764,
+        "frequency": 2.4285,
+        "reach": 87168,
+        "anomaly": -1,
+        "anomaly_score": -0.1937,
+        "campaign": "RACK N3"
+      },
+      {
+        "spend": 263.87,
+        "results": 319.0,
+        "ctr_all": 0.9443,
+        "frequency": 2.2489,
+        "reach": 145024,
+        "anomaly": -1,
+        "anomaly_score": -0.2704,
+        "campaign": "PIRAMIDES TITULO ABAJO 2025"
+      },
+      {
+        "spend": 262.21,
+        "results": 292.0,
+        "ctr_all": 0.9915,
+        "frequency": 2.1545,
+        "reach": 115584,
+        "anomaly": -1,
+        "anomaly_score": -0.258,
+        "campaign": "PIRAMIDES TITULO ABAJO 2025"
+      },
+      {
+        "spend": 247.48,
+        "results": 292.0,
+        "ctr_all": 0.7273,
+        "frequency": 2.2787,
+        "reach": 100224,
+        "anomaly": -1,
+        "anomaly_score": -0.2506,
+        "campaign": "RACKS 2025 NUEVO MODELO"
+      },
+      {
+        "spend": 247.15,
+        "results": 0.0,
+        "ctr_all": 0.8215,
+        "frequency": 2.4837,
+        "reach": 95616,
+        "anomaly": -1,
+        "anomaly_score": -0.2035,
+        "campaign": "PIRAMIDE N4"
+      },
+      {
+        "spend": 227.81,
+        "results": 0.0,
+        "ctr_all": 0.9311,
+        "frequency": 2.1269,
+        "reach": 71552,
+        "anomaly": -1,
+        "anomaly_score": -0.1608,
+        "campaign": "PIRAMIDE N4"
+      },
+      {
+        "spend": 227.19,
+        "results": 6.0,
+        "ctr_all": 0.7288,
+        "frequency": 2.653,
+        "reach": 112384,
+        "anomaly": -1,
+        "anomaly_score": -0.204,
+        "campaign": "RACK N3"
+      },
+      {
+        "spend": 224.05,
+        "results": 246.0,
+        "ctr_all": 0.7623,
+        "frequency": 2.3695,
+        "reach": 123136,
+        "anomaly": -1,
+        "anomaly_score": -0.2395,
+        "campaign": "PIRAMIDES TITULO ABAJO 2025"
+      },
+      {
+        "spend": 209.22,
+        "results": 197.0,
+        "ctr_all": 0.7873,
+        "frequency": 2.4909,
+        "reach": 93056,
+        "anomaly": -1,
+        "anomaly_score": -0.2276,
+        "campaign": "PIRAMIDES TITULO ABAJO 2025"
+      },
+      {
+        "spend": 208.75,
+        "results": 259.0,
+        "ctr_all": 0.8657,
+        "frequency": 1.9608,
+        "reach": 76288,
+        "anomaly": -1,
+        "anomaly_score": -0.2213,
+        "campaign": "RACKS 2025 NUEVO MODELO"
+      },
+      {
+        "spend": 194.3,
+        "results": 219.0,
+        "ctr_all": 0.6517,
+        "frequency": 2.1936,
+        "reach": 103808,
+        "anomaly": -1,
+        "anomaly_score": -0.2276,
+        "campaign": "RACKS 2025 NUEVO MODELO"
+      },
+      {
+        "spend": 174.47,
+        "results": 1.0,
+        "ctr_all": 0.9828,
+        "frequency": 1.988,
+        "reach": 73344,
+        "anomaly": -1,
+        "anomaly_score": -0.1506,
+        "campaign": "RACK N3"
+      }
+    ]
+  },
+  "diminishing_returns": [
+    {
+      "bucket": "$0-50",
+      "avg_cpr": 2.9179,
+      "avg_efficiency": 2.3132,
+      "campaigns": 50
+    },
+    {
+      "bucket": "$50-100",
+      "avg_cpr": 1.8225,
+      "avg_efficiency": 2.9184,
+      "campaigns": 15
+    },
+    {
+      "bucket": "$100-200",
+      "avg_cpr": 1.4794,
+      "avg_efficiency": 4.8499,
+      "campaigns": 10
+    },
+    {
+      "bucket": "$200-500",
+      "avg_cpr": 1.2794,
+      "avg_efficiency": 0.8069,
+      "campaigns": 5
+    },
+    {
+      "bucket": "$500-1K",
+      "avg_cpr": 0.6775,
+      "avg_efficiency": 1.476,
+      "campaigns": 1
+    },
+    {
+      "bucket": "$1K-5K",
+      "avg_cpr": 16.229,
+      "avg_efficiency": 0.7449,
+      "campaigns": 4
+    }
+  ],
+  "quality_ranking": {
+    "top_quality": [
+      {
+        "campaign": "PIRAMIDES REEL 2 HUMANO",
+        "quality_score": 12.8,
+        "spend": 133.56,
+        "results": 3309
+      },
+      {
+        "campaign": "RACKS REELS 24",
+        "quality_score": 9.6,
+        "spend": 51.35,
+        "results": 925
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS",
+        "quality_score": 9.2,
+        "spend": 73.41,
+        "results": 1370
+      },
+      {
+        "campaign": "PIRAMIDES COMBO TRÁFICO",
+        "quality_score": 8.7,
+        "spend": 14.33,
+        "results": 328
+      },
+      {
+        "campaign": "PIRAMIDES REEL PLUS ULTRA",
+        "quality_score": 8.2,
+        "spend": 35.6,
+        "results": 617
+      },
+      {
+        "campaign": "RACK VIDEO REEL TRAFICO REY",
+        "quality_score": 8.1,
+        "spend": 103.4,
+        "results": 1990
+      },
+      {
+        "campaign": "RACK 2424 REEL",
+        "quality_score": 7.9,
+        "spend": 13.73,
+        "results": 202
+      },
+      {
+        "campaign": "MUEBLE GLUTEN ULTIMATE 1",
+        "quality_score": 7.4,
+        "spend": 34.9,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDES IA MOD 1",
+        "quality_score": 6.5,
+        "spend": 15.24,
+        "results": 296
+      },
+      {
+        "campaign": "CESTAS 2 FOTOS 2025",
+        "quality_score": 6.5,
+        "spend": 3.98,
+        "results": 6
+      }
+    ],
+    "worst_quality": [
+      {
+        "campaign": "PIRAMIDES IA MOD 2",
+        "quality_score": 0.7,
+        "spend": 10.11,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDES N2",
+        "quality_score": 0.7,
+        "spend": 10.34,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDES NUEVA INT 5",
+        "quality_score": 0.7,
+        "spend": 7.38,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDES N3",
+        "quality_score": 0.7,
+        "spend": 9.03,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDES VALOR 1",
+        "quality_score": 0.6,
+        "spend": 6.37,
+        "results": 0
+      },
+      {
+        "campaign": "RACK JUN 3",
+        "quality_score": 0.6,
+        "spend": 10.67,
+        "results": 4
+      },
+      {
+        "campaign": "RACKS MODELO NUEVO 11",
+        "quality_score": 0.5,
+        "spend": 8.86,
+        "results": 2
+      },
+      {
+        "campaign": "RACKS ALT 1",
+        "quality_score": 0.5,
+        "spend": 4.45,
+        "results": 0
+      },
+      {
+        "campaign": "PIRAMIDE 25 2",
+        "quality_score": 0.4,
+        "spend": 5.61,
+        "results": 0
+      },
+      {
+        "campaign": "RACK JUN 2",
+        "quality_score": 0.4,
+        "spend": 1.83,
+        "results": 1
+      }
+    ]
+  },
+  "campaign_keywords": [
+    {
+      "word": "PIRAMIDES",
+      "count": 51
+    },
+    {
+      "word": "RACK",
+      "count": 26
+    },
+    {
+      "word": "PIRAMIDE",
+      "count": 16
+    },
+    {
+      "word": "RACKS",
+      "count": 13
+    },
+    {
+      "word": "NUEVO",
+      "count": 13
+    },
+    {
+      "word": "MODELO",
+      "count": 10
+    },
+    {
+      "word": "JUN",
+      "count": 10
+    },
+    {
+      "word": "REEL",
+      "count": 9
+    },
+    {
+      "word": "NUEVA",
+      "count": 9
+    },
+    {
+      "word": "CARRETE",
+      "count": 6
+    },
+    {
+      "word": "NUEVOS",
+      "count": 5
+    },
+    {
+      "word": "INT",
+      "count": 5
+    },
+    {
+      "word": "MOD",
+      "count": 5
+    },
+    {
+      "word": "TITULO",
+      "count": 3
+    },
+    {
+      "word": "ABAJO",
+      "count": 3
+    },
+    {
+      "word": "FOTOS",
+      "count": 3
+    },
+    {
+      "word": "OFERTA",
+      "count": 3
+    },
+    {
+      "word": "TRAFICO",
+      "count": 3
+    },
+    {
+      "word": "PLUS",
+      "count": 3
+    },
+    {
+      "word": "JULIO",
+      "count": 3
+    }
+  ]
+}

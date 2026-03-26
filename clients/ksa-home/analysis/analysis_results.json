@@ -1,0 +1,1793 @@
+{
+  "metadata": {
+    "client": "ksa-home",
+    "client_name": "KSA Home (@ksaconstructor.ve)",
+    "report_period": "2023-03-01 to 2026-03-02",
+    "generated_at": "2026-03-02T15:07:21.133Z",
+    "total_rows": 816,
+    "total_columns": 38,
+    "columns_found": [
+      "Campaign name",
+      "Ads",
+      "Age",
+      "Gender",
+      "Reach",
+      "Impressions",
+      "Frequency",
+      "Amount spent (USD)",
+      "Result type",
+      "Results",
+      "Cost per result",
+      "Link clicks",
+      "CPC (cost per link click)",
+      "CPM (cost per 1,000 impressions)",
+      "CTR (all)",
+      "Views",
+      "Clicks (all)",
+      "CPC (all)",
+      "Results rate per link clicks",
+      "Video average play time",
+      "Video plays at 25%",
+      "Video plays at 50%",
+      "Video plays at 75%",
+      "Video plays at 95%",
+      "Video plays at 100%",
+      "Post comments",
+      "Cost per Page engagement",
+      "Cost per post engagement",
+      "Cost per unique link click",
+      "Unique CTR (all)",
+      "Unique clicks (all)",
+      "CTR (link click-through rate)",
+      "Viewers",
+      "Post engagements",
+      "Instagram profile visits",
+      "Cost per 1,000 Accounts Center accounts reached",
+      "Reporting starts",
+      "Reporting ends"
+    ],
+    "note": "No conversation data - Ari was not installed during this period"
+  },
+  "global_kpis": {
+    "total_spend": 2081.34,
+    "total_reach": 742979,
+    "total_impressions": 1927058,
+    "total_results": 74091,
+    "total_clicks": 84455,
+    "total_link_clicks": 77345,
+    "total_comments": 523,
+    "total_engagements": 0,
+    "total_views": 2051281,
+    "total_viewers": 636394,
+    "total_ig_profile_visits": 0,
+    "cost_per_result": 0.0281,
+    "avg_cpm": 1.0801,
+    "avg_cpc": 0.0246,
+    "avg_ctr": 4.3826,
+    "avg_frequency": 2.59,
+    "unique_campaigns": 43,
+    "unique_ads": 43,
+    "total_rows": 816
+  },
+  "result_types": [
+    {
+      "type": "Instagram profile visits",
+      "rows": 707,
+      "spend": 1734.8,
+      "results": 66677,
+      "cpr": 0.026,
+      "reach": 1128727
+    },
+    {
+      "type": "Profile and Page visits",
+      "rows": 35,
+      "spend": 123.2,
+      "results": 4178,
+      "cpr": 0.0295,
+      "reach": 58922
+    },
+    {
+      "type": "Landing page views",
+      "rows": 19,
+      "spend": 60.57,
+      "results": 8,
+      "cpr": 7.5713,
+      "reach": 31373
+    },
+    {
+      "type": "Link clicks",
+      "rows": 18,
+      "spend": 39.96,
+      "results": 3208,
+      "cpr": 0.0125,
+      "reach": 47649
+    },
+    {
+      "type": "Estimated call confirmation clicks",
+      "rows": 18,
+      "spend": 30,
+      "results": 0,
+      "cpr": null,
+      "reach": 66546
+    },
+    {
+      "type": "Messaging conversations started",
+      "rows": 19,
+      "spend": 19.56,
+      "results": 20,
+      "cpr": 0.978,
+      "reach": 11252
+    }
+  ],
+  "campaign_performance": {
+    "top_campaigns": [
+      {
+        "campaign": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "spend": 209.86,
+        "results": 1312,
+        "cost_per_result": 0.16,
+        "efficiency_score": 6.2518,
+        "reach": 38608,
+        "impressions": 53971,
+        "clicks": 1056,
+        "link_clicks": 1100,
+        "comments": 21,
+        "engagements": 25791,
+        "ig_visits": 1312,
+        "rows": 18
+      },
+      {
+        "campaign": "día del padre anuncio",
+        "spend": 120.24,
+        "results": 4046,
+        "cost_per_result": 0.0297,
+        "efficiency_score": 33.6494,
+        "reach": 54261,
+        "impressions": 90235,
+        "clicks": 3603,
+        "link_clicks": 3595,
+        "comments": 10,
+        "engagements": 39466,
+        "ig_visits": 4028,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "spend": 104.87,
+        "results": 6660,
+        "cost_per_result": 0.0157,
+        "efficiency_score": 63.5072,
+        "reach": 65193,
+        "impressions": 113582,
+        "clicks": 6474,
+        "link_clicks": 6500,
+        "comments": 117,
+        "engagements": 7219,
+        "ig_visits": 6660,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "spend": 83.92,
+        "results": 4228,
+        "cost_per_result": 0.0198,
+        "efficiency_score": 50.3813,
+        "reach": 40844,
+        "impressions": 63894,
+        "clicks": 4077,
+        "link_clicks": 4116,
+        "comments": 22,
+        "engagements": 26966,
+        "ig_visits": 4228,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: En cada producto MA...",
+        "spend": 79.78,
+        "results": 3293,
+        "cost_per_result": 0.0242,
+        "efficiency_score": 41.276,
+        "reach": 43976,
+        "impressions": 59362,
+        "clicks": 3360,
+        "link_clicks": 3461,
+        "comments": 8,
+        "engagements": 28681,
+        "ig_visits": 3293,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+        "spend": 70.11,
+        "results": 272,
+        "cost_per_result": 0.2578,
+        "efficiency_score": 3.8796,
+        "reach": 10436,
+        "impressions": 12042,
+        "clicks": 243,
+        "link_clicks": 247,
+        "comments": 2,
+        "engagements": 6238,
+        "ig_visits": 272,
+        "rows": 18
+      },
+      {
+        "campaign": "DRYWALL",
+        "spend": 60.57,
+        "results": 8,
+        "cost_per_result": 7.5713,
+        "efficiency_score": 0.1321,
+        "reach": 31373,
+        "impressions": 53320,
+        "clicks": 2001,
+        "link_clicks": 1419,
+        "comments": 1,
+        "engagements": 21905,
+        "ig_visits": 681,
+        "rows": 19
+      },
+      {
+        "campaign": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+        "spend": 59.96,
+        "results": 1996,
+        "cost_per_result": 0.03,
+        "efficiency_score": 33.2889,
+        "reach": 37879,
+        "impressions": 57967,
+        "clicks": 1912,
+        "link_clicks": 1983,
+        "comments": 6,
+        "engagements": 11237,
+        "ig_visits": 1996,
+        "rows": 36
+      },
+      {
+        "campaign": "Publicación de Instagram: Caterina nos cuenta más...",
+        "spend": 53.89,
+        "results": 455,
+        "cost_per_result": 0.1184,
+        "efficiency_score": 8.4431,
+        "reach": 16172,
+        "impressions": 18653,
+        "clicks": 431,
+        "link_clicks": 431,
+        "comments": 8,
+        "engagements": 10756,
+        "ig_visits": 455,
+        "rows": 18
+      },
+      {
+        "campaign": "Instagram Post",
+        "spend": 49.99,
+        "results": 2160,
+        "cost_per_result": 0.0231,
+        "efficiency_score": 43.2086,
+        "reach": 41224,
+        "impressions": 60223,
+        "clicks": 2062,
+        "link_clicks": 2104,
+        "comments": 8,
+        "engagements": 2613,
+        "ig_visits": 2160,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡En MA Faucet, seguimos...",
+        "spend": 49.96,
+        "results": 2094,
+        "cost_per_result": 0.0239,
+        "efficiency_score": 41.9135,
+        "reach": 40656,
+        "impressions": 46864,
+        "clicks": 2064,
+        "link_clicks": 2099,
+        "comments": 4,
+        "engagements": 21090,
+        "ig_visits": 2094,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: A todos nuestros...",
+        "spend": 49.94,
+        "results": 513,
+        "cost_per_result": 0.0973,
+        "efficiency_score": 10.2723,
+        "reach": 36466,
+        "impressions": 40196,
+        "clicks": 546,
+        "link_clicks": 539,
+        "comments": 5,
+        "engagements": 17382,
+        "ig_visits": 513,
+        "rows": 22
+      },
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cost_per_result": 0.0098,
+        "efficiency_score": 101.7231,
+        "reach": 35064,
+        "impressions": 48761,
+        "clicks": 4842,
+        "link_clicks": 4832,
+        "comments": 7,
+        "engagements": 30783,
+        "ig_visits": 5077,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+        "spend": 48.95,
+        "results": 2167,
+        "cost_per_result": 0.0226,
+        "efficiency_score": 44.2697,
+        "reach": 41368,
+        "impressions": 58596,
+        "clicks": 2101,
+        "link_clicks": 2116,
+        "comments": 7,
+        "engagements": 2457,
+        "ig_visits": 2167,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: Semana de ofertas...",
+        "spend": 48.95,
+        "results": 1612,
+        "cost_per_result": 0.0304,
+        "efficiency_score": 32.9316,
+        "reach": 52704,
+        "impressions": 68659,
+        "clicks": 1561,
+        "link_clicks": 1568,
+        "comments": 2,
+        "engagements": 1904,
+        "ig_visits": 1612,
+        "rows": 18
+      }
+    ],
+    "most_efficient": [
+      {
+        "campaign": "Publicación de Instagram: Nos encanta que...",
+        "spend": 31.97,
+        "results": 3503,
+        "cost_per_result": 0.0091,
+        "efficiency_score": 109.5715,
+        "reach": 39799,
+        "impressions": 56139,
+        "clicks": 3411,
+        "link_clicks": 3449,
+        "comments": 3,
+        "engagements": 4272,
+        "ig_visits": 3503,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+        "spend": 19.91,
+        "results": 2065,
+        "cost_per_result": 0.0096,
+        "efficiency_score": 103.7167,
+        "reach": 20508,
+        "impressions": 31704,
+        "clicks": 2005,
+        "link_clicks": 2033,
+        "comments": 5,
+        "engagements": 2274,
+        "ig_visits": 2065,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cost_per_result": 0.0098,
+        "efficiency_score": 101.7231,
+        "reach": 35064,
+        "impressions": 48761,
+        "clicks": 4842,
+        "link_clicks": 4832,
+        "comments": 7,
+        "engagements": 30783,
+        "ig_visits": 5077,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ATENCIÓN CONSTRUCTORES,...",
+        "spend": 26.79,
+        "results": 2421,
+        "cost_per_result": 0.0111,
+        "efficiency_score": 90.3695,
+        "reach": 32096,
+        "impressions": 48446,
+        "clicks": 2357,
+        "link_clicks": 2419,
+        "comments": 9,
+        "engagements": 2708,
+        "ig_visits": 2421,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "spend": 39.97,
+        "results": 3249,
+        "cost_per_result": 0.0123,
+        "efficiency_score": 81.286,
+        "reach": 24741,
+        "impressions": 36502,
+        "clicks": 3060,
+        "link_clicks": 3125,
+        "comments": 7,
+        "engagements": 20770,
+        "ig_visits": 3249,
+        "rows": 18
+      },
+      {
+        "campaign": "Nueva campaña de Tráfico",
+        "spend": 39.96,
+        "results": 3208,
+        "cost_per_result": 0.0125,
+        "efficiency_score": 80.2803,
+        "reach": 47649,
+        "impressions": 64033,
+        "clicks": 3645,
+        "link_clicks": 3208,
+        "comments": 2,
+        "engagements": 27582,
+        "ig_visits": 8,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "spend": 34.84,
+        "results": 2506,
+        "cost_per_result": 0.0139,
+        "efficiency_score": 71.9288,
+        "reach": 22538,
+        "impressions": 31220,
+        "clicks": 2365,
+        "link_clicks": 2372,
+        "comments": 3,
+        "engagements": 13701,
+        "ig_visits": 2506,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "spend": 104.87,
+        "results": 6660,
+        "cost_per_result": 0.0157,
+        "efficiency_score": 63.5072,
+        "reach": 65193,
+        "impressions": 113582,
+        "clicks": 6474,
+        "link_clicks": 6500,
+        "comments": 117,
+        "engagements": 7219,
+        "ig_visits": 6660,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+        "spend": 29.95,
+        "results": 1866,
+        "cost_per_result": 0.0161,
+        "efficiency_score": 62.3038,
+        "reach": 32285,
+        "impressions": 43616,
+        "clicks": 1800,
+        "link_clicks": 1828,
+        "comments": 9,
+        "engagements": 2165,
+        "ig_visits": 1866,
+        "rows": 18
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "spend": 34.92,
+        "results": 2099,
+        "cost_per_result": 0.0166,
+        "efficiency_score": 60.1088,
+        "reach": 19616,
+        "impressions": 29108,
+        "clicks": 1940,
+        "link_clicks": 2006,
+        "comments": 59,
+        "engagements": 17110,
+        "ig_visits": 2099,
+        "rows": 18
+      }
+    ],
+    "pareto": {
+      "campaigns_for_80pct_spend": 28,
+      "data": [
+        {
+          "campaign": "Publicación de Instagram: ¡Celebra con nosotros...",
+          "spend": 209.86,
+          "spend_cumulative_pct": 10.1,
+          "results": 1312,
+          "results_cumulative_pct": 1.8
+        },
+        {
+          "campaign": "día del padre anuncio",
+          "spend": 120.24,
+          "spend_cumulative_pct": 15.9,
+          "results": 4046,
+          "results_cumulative_pct": 7.2
+        },
+        {
+          "campaign": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+          "spend": 104.87,
+          "spend_cumulative_pct": 20.9,
+          "results": 6660,
+          "results_cumulative_pct": 16.2
+        },
+        {
+          "campaign": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+          "spend": 83.92,
+          "spend_cumulative_pct": 24.9,
+          "results": 4228,
+          "results_cumulative_pct": 21.9
+        },
+        {
+          "campaign": "Publicación de Instagram: En cada producto MA...",
+          "spend": 79.78,
+          "spend_cumulative_pct": 28.8,
+          "results": 3293,
+          "results_cumulative_pct": 26.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+          "spend": 70.11,
+          "spend_cumulative_pct": 32.1,
+          "results": 272,
+          "results_cumulative_pct": 26.7
+        },
+        {
+          "campaign": "DRYWALL",
+          "spend": 60.57,
+          "spend_cumulative_pct": 35,
+          "results": 8,
+          "results_cumulative_pct": 26.7
+        },
+        {
+          "campaign": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+          "spend": 59.96,
+          "spend_cumulative_pct": 37.9,
+          "results": 1996,
+          "results_cumulative_pct": 29.4
+        },
+        {
+          "campaign": "Publicación de Instagram: Caterina nos cuenta más...",
+          "spend": 53.89,
+          "spend_cumulative_pct": 40.5,
+          "results": 455,
+          "results_cumulative_pct": 30.1
+        },
+        {
+          "campaign": "Instagram Post",
+          "spend": 49.99,
+          "spend_cumulative_pct": 42.9,
+          "results": 2160,
+          "results_cumulative_pct": 33
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡En MA Faucet, seguimos...",
+          "spend": 49.96,
+          "spend_cumulative_pct": 45.3,
+          "results": 2094,
+          "results_cumulative_pct": 35.8
+        },
+        {
+          "campaign": "Publicación de Instagram: A todos nuestros...",
+          "spend": 49.94,
+          "spend_cumulative_pct": 47.7,
+          "results": 513,
+          "results_cumulative_pct": 36.5
+        },
+        {
+          "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+          "spend": 49.91,
+          "spend_cumulative_pct": 50.1,
+          "results": 5077,
+          "results_cumulative_pct": 43.3
+        },
+        {
+          "campaign": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+          "spend": 48.95,
+          "spend_cumulative_pct": 52.5,
+          "results": 2167,
+          "results_cumulative_pct": 46.3
+        },
+        {
+          "campaign": "Publicación de Instagram: Semana de ofertas...",
+          "spend": 48.95,
+          "spend_cumulative_pct": 54.8,
+          "results": 1612,
+          "results_cumulative_pct": 48.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¿Cansado de tanques...",
+          "spend": 48.94,
+          "spend_cumulative_pct": 57.2,
+          "results": 1961,
+          "results_cumulative_pct": 51.1
+        },
+        {
+          "campaign": "Publicación de Instagram: Tu baño merece...",
+          "spend": 48.88,
+          "spend_cumulative_pct": 59.5,
+          "results": 2260,
+          "results_cumulative_pct": 54.1
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Que la lluvia no te...",
+          "spend": 42.5,
+          "spend_cumulative_pct": 61.6,
+          "results": 733,
+          "results_cumulative_pct": 55.1
+        },
+        {
+          "campaign": "Publicación de Instagram: El lujo que tu baño...",
+          "spend": 41.95,
+          "spend_cumulative_pct": 63.6,
+          "results": 945,
+          "results_cumulative_pct": 56.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Alerta de Oferta KSA...",
+          "spend": 39.99,
+          "spend_cumulative_pct": 65.5,
+          "results": 1400,
+          "results_cumulative_pct": 58.3
+        },
+        {
+          "campaign": "Publicación de Instagram: En @ksaconstructor.ve,...",
+          "spend": 39.98,
+          "spend_cumulative_pct": 67.4,
+          "results": 937,
+          "results_cumulative_pct": 59.6
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Atención,...",
+          "spend": 39.97,
+          "spend_cumulative_pct": 69.3,
+          "results": 1355,
+          "results_cumulative_pct": 61.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Así es! Si estabas...",
+          "spend": 39.97,
+          "spend_cumulative_pct": 71.3,
+          "results": 3249,
+          "results_cumulative_pct": 65.8
+        },
+        {
+          "campaign": "Nueva campaña de Tráfico",
+          "spend": 39.96,
+          "spend_cumulative_pct": 73.2,
+          "results": 3208,
+          "results_cumulative_pct": 70.1
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Atención! ❗️ Este...",
+          "spend": 39.95,
+          "spend_cumulative_pct": 75.1,
+          "results": 168,
+          "results_cumulative_pct": 70.3
+        },
+        {
+          "campaign": "Publicación de Instagram: El Jaque Mate de la...",
+          "spend": 39.89,
+          "spend_cumulative_pct": 77,
+          "results": 576,
+          "results_cumulative_pct": 71.1
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+          "spend": 34.92,
+          "spend_cumulative_pct": 78.7,
+          "results": 2099,
+          "results_cumulative_pct": 73.9
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Para cerrar nuestro...",
+          "spend": 34.84,
+          "spend_cumulative_pct": 80.4,
+          "results": 2506,
+          "results_cumulative_pct": 77.3
+        },
+        {
+          "campaign": "Publicación de Instagram: Nos encanta que...",
+          "spend": 31.97,
+          "spend_cumulative_pct": 81.9,
+          "results": 3503,
+          "results_cumulative_pct": 82.1
+        },
+        {
+          "campaign": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+          "spend": 30,
+          "spend_cumulative_pct": 83.3,
+          "results": 0,
+          "results_cumulative_pct": 82.1
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡PRECIOS DE LOCURA EN...",
+          "spend": 29.96,
+          "spend_cumulative_pct": 84.8,
+          "results": 973,
+          "results_cumulative_pct": 83.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡OFERTAS POR...",
+          "spend": 29.96,
+          "spend_cumulative_pct": 86.2,
+          "results": 1712,
+          "results_cumulative_pct": 85.7
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+          "spend": 29.95,
+          "spend_cumulative_pct": 87.7,
+          "results": 1866,
+          "results_cumulative_pct": 88.2
+        },
+        {
+          "campaign": "Publicación de Instagram: ¿Tu próximo proyecto de...",
+          "spend": 29.93,
+          "spend_cumulative_pct": 89.1,
+          "results": 1618,
+          "results_cumulative_pct": 90.4
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡EL MOMENTO DE...",
+          "spend": 26.88,
+          "spend_cumulative_pct": 90.4,
+          "results": 1043,
+          "results_cumulative_pct": 91.8
+        },
+        {
+          "campaign": "Publicación de Instagram: ATENCIÓN CONSTRUCTORES,...",
+          "spend": 26.79,
+          "spend_cumulative_pct": 91.7,
+          "results": 2421,
+          "results_cumulative_pct": 95.1
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+          "spend": 19.91,
+          "spend_cumulative_pct": 92.6,
+          "results": 2065,
+          "results_cumulative_pct": 97.8
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡4 DÍAS DE PRECIOS...",
+          "spend": 19.89,
+          "spend_cumulative_pct": 93.6,
+          "results": 627,
+          "results_cumulative_pct": 98.7
+        },
+        {
+          "campaign": "Publicación de Instagram: ¡EL TRÍO DINÁMICO DE LA...",
+          "spend": 19.56,
+          "spend_cumulative_pct": 94.5,
+          "results": 20,
+          "results_cumulative_pct": 98.7
+        },
+        {
+          "campaign": "Publicación de Instagram: Dale a tu hogar el...",
+          "spend": 17.3,
+          "spend_cumulative_pct": 95.4,
+          "results": 549,
+          "results_cumulative_pct": 99.5
+        },
+        {
+          "campaign": "Publicación de Instagram: POV: Encontraste al...",
+          "spend": 12.96,
+          "spend_cumulative_pct": 96,
+          "results": 200,
+          "results_cumulative_pct": 99.7
+        },
+        {
+          "campaign": "Publicación de Instagram: En cada conexión hay...",
+          "spend": 7.43,
+          "spend_cumulative_pct": 96.3,
+          "results": 72,
+          "results_cumulative_pct": 99.8
+        },
+        {
+          "campaign": "CERAMICAS",
+          "spend": 2.96,
+          "spend_cumulative_pct": 96.5,
+          "results": 132,
+          "results_cumulative_pct": 100
+        }
+      ]
+    },
+    "all_campaigns": [
+      {
+        "campaign": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "spend": 209.86,
+        "results": 1312,
+        "cpr": 0.16
+      },
+      {
+        "campaign": "día del padre anuncio",
+        "spend": 120.24,
+        "results": 4046,
+        "cpr": 0.0297
+      },
+      {
+        "campaign": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "spend": 104.87,
+        "results": 6660,
+        "cpr": 0.0157
+      },
+      {
+        "campaign": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "spend": 83.92,
+        "results": 4228,
+        "cpr": 0.0198
+      },
+      {
+        "campaign": "Publicación de Instagram: En cada producto MA...",
+        "spend": 79.78,
+        "results": 3293,
+        "cpr": 0.0242
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+        "spend": 70.11,
+        "results": 272,
+        "cpr": 0.2578
+      },
+      {
+        "campaign": "DRYWALL",
+        "spend": 60.57,
+        "results": 8,
+        "cpr": 7.5713
+      },
+      {
+        "campaign": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+        "spend": 59.96,
+        "results": 1996,
+        "cpr": 0.03
+      },
+      {
+        "campaign": "Publicación de Instagram: Caterina nos cuenta más...",
+        "spend": 53.89,
+        "results": 455,
+        "cpr": 0.1184
+      },
+      {
+        "campaign": "Instagram Post",
+        "spend": 49.99,
+        "results": 2160,
+        "cpr": 0.0231
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡En MA Faucet, seguimos...",
+        "spend": 49.96,
+        "results": 2094,
+        "cpr": 0.0239
+      },
+      {
+        "campaign": "Publicación de Instagram: A todos nuestros...",
+        "spend": 49.94,
+        "results": 513,
+        "cpr": 0.0973
+      },
+      {
+        "campaign": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cpr": 0.0098
+      },
+      {
+        "campaign": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+        "spend": 48.95,
+        "results": 2167,
+        "cpr": 0.0226
+      },
+      {
+        "campaign": "Publicación de Instagram: Semana de ofertas...",
+        "spend": 48.95,
+        "results": 1612,
+        "cpr": 0.0304
+      },
+      {
+        "campaign": "Publicación de Instagram: ¿Cansado de tanques...",
+        "spend": 48.94,
+        "results": 1961,
+        "cpr": 0.025
+      },
+      {
+        "campaign": "Publicación de Instagram: Tu baño merece...",
+        "spend": 48.88,
+        "results": 2260,
+        "cpr": 0.0216
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Que la lluvia no te...",
+        "spend": 42.5,
+        "results": 733,
+        "cpr": 0.058
+      },
+      {
+        "campaign": "Publicación de Instagram: El lujo que tu baño...",
+        "spend": 41.95,
+        "results": 945,
+        "cpr": 0.0444
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Alerta de Oferta KSA...",
+        "spend": 39.99,
+        "results": 1400,
+        "cpr": 0.0286
+      },
+      {
+        "campaign": "Publicación de Instagram: En @ksaconstructor.ve,...",
+        "spend": 39.98,
+        "results": 937,
+        "cpr": 0.0427
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Atención,...",
+        "spend": 39.97,
+        "results": 1355,
+        "cpr": 0.0295
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "spend": 39.97,
+        "results": 3249,
+        "cpr": 0.0123
+      },
+      {
+        "campaign": "Nueva campaña de Tráfico",
+        "spend": 39.96,
+        "results": 3208,
+        "cpr": 0.0125
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Atención! ❗️ Este...",
+        "spend": 39.95,
+        "results": 168,
+        "cpr": 0.2378
+      },
+      {
+        "campaign": "Publicación de Instagram: El Jaque Mate de la...",
+        "spend": 39.89,
+        "results": 576,
+        "cpr": 0.0693
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "spend": 34.92,
+        "results": 2099,
+        "cpr": 0.0166
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "spend": 34.84,
+        "results": 2506,
+        "cpr": 0.0139
+      },
+      {
+        "campaign": "Publicación de Instagram: Nos encanta que...",
+        "spend": 31.97,
+        "results": 3503,
+        "cpr": 0.0091
+      },
+      {
+        "campaign": "Publicación: ¡PRECIOS INSUPERABLES! 😎🤩",
+        "spend": 30,
+        "results": 0,
+        "cpr": null
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡PRECIOS DE LOCURA EN...",
+        "spend": 29.96,
+        "results": 973,
+        "cpr": 0.0308
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡OFERTAS POR...",
+        "spend": 29.96,
+        "results": 1712,
+        "cpr": 0.0175
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+        "spend": 29.95,
+        "results": 1866,
+        "cpr": 0.0161
+      },
+      {
+        "campaign": "Publicación de Instagram: ¿Tu próximo proyecto de...",
+        "spend": 29.93,
+        "results": 1618,
+        "cpr": 0.0185
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡EL MOMENTO DE...",
+        "spend": 26.88,
+        "results": 1043,
+        "cpr": 0.0258
+      },
+      {
+        "campaign": "Publicación de Instagram: ATENCIÓN CONSTRUCTORES,...",
+        "spend": 26.79,
+        "results": 2421,
+        "cpr": 0.0111
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+        "spend": 19.91,
+        "results": 2065,
+        "cpr": 0.0096
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡4 DÍAS DE PRECIOS...",
+        "spend": 19.89,
+        "results": 627,
+        "cpr": 0.0317
+      },
+      {
+        "campaign": "Publicación de Instagram: ¡EL TRÍO DINÁMICO DE LA...",
+        "spend": 19.56,
+        "results": 20,
+        "cpr": 0.978
+      },
+      {
+        "campaign": "Publicación de Instagram: Dale a tu hogar el...",
+        "spend": 17.3,
+        "results": 549,
+        "cpr": 0.0315
+      },
+      {
+        "campaign": "Publicación de Instagram: POV: Encontraste al...",
+        "spend": 12.96,
+        "results": 200,
+        "cpr": 0.0648
+      },
+      {
+        "campaign": "Publicación de Instagram: En cada conexión hay...",
+        "spend": 7.43,
+        "results": 72,
+        "cpr": 0.1032
+      },
+      {
+        "campaign": "CERAMICAS",
+        "spend": 2.96,
+        "results": 132,
+        "cpr": 0.0224
+      }
+    ]
+  },
+  "ad_creative_performance": {
+    "top_ads": [
+      {
+        "ad": "Publicación de Instagram: ¡Celebra con nosotros...",
+        "spend": 209.86,
+        "results": 1312,
+        "cpr": 0.16,
+        "reach": 38608,
+        "impressions": 53971,
+        "clicks": 1056,
+        "link_clicks": 1100,
+        "comments": 21,
+        "engagements": 25791,
+        "ig_visits": 1312,
+        "ctr": 1.96,
+        "video_retention_100": 13.2,
+        "rows": 18
+      },
+      {
+        "ad": "Nuevo anuncio de Tráfico REEL PAPA",
+        "spend": 120.24,
+        "results": 4046,
+        "cpr": 0.0297,
+        "reach": 54261,
+        "impressions": 90235,
+        "clicks": 3603,
+        "link_clicks": 3595,
+        "comments": 10,
+        "engagements": 39466,
+        "ig_visits": 4028,
+        "ctr": 3.99,
+        "video_retention_100": 8.4,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "spend": 104.87,
+        "results": 6660,
+        "cpr": 0.0157,
+        "reach": 65193,
+        "impressions": 113582,
+        "clicks": 6474,
+        "link_clicks": 6500,
+        "comments": 117,
+        "engagements": 7219,
+        "ig_visits": 6660,
+        "ctr": 5.7,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: PROMOCIÓN IMPERDIBLE EN...",
+        "spend": 83.92,
+        "results": 4228,
+        "cpr": 0.0198,
+        "reach": 40844,
+        "impressions": 63894,
+        "clicks": 4077,
+        "link_clicks": 4116,
+        "comments": 22,
+        "engagements": 26966,
+        "ig_visits": 4228,
+        "ctr": 6.38,
+        "video_retention_100": 25.7,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: En cada producto MA...",
+        "spend": 79.78,
+        "results": 3293,
+        "cpr": 0.0242,
+        "reach": 43976,
+        "impressions": 59362,
+        "clicks": 3360,
+        "link_clicks": 3461,
+        "comments": 8,
+        "engagements": 28681,
+        "ig_visits": 3293,
+        "ctr": 5.66,
+        "video_retention_100": 14.3,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡Te damos más! 🤩✨...",
+        "spend": 70.11,
+        "results": 272,
+        "cpr": 0.2578,
+        "reach": 10436,
+        "impressions": 12042,
+        "clicks": 243,
+        "link_clicks": 247,
+        "comments": 2,
+        "engagements": 6238,
+        "ig_visits": 272,
+        "ctr": 2.02,
+        "video_retention_100": 5.7,
+        "rows": 18
+      },
+      {
+        "ad": "DRYWALL",
+        "spend": 60.57,
+        "results": 8,
+        "cpr": 7.5713,
+        "reach": 31373,
+        "impressions": 53320,
+        "clicks": 2001,
+        "link_clicks": 1419,
+        "comments": 1,
+        "engagements": 21905,
+        "ig_visits": 681,
+        "ctr": 3.75,
+        "video_retention_100": 34,
+        "rows": 19
+      },
+      {
+        "ad": "Publicación de Instagram: SEMANA DE OFERTAS EN...",
+        "spend": 59.96,
+        "results": 1996,
+        "cpr": 0.03,
+        "reach": 37879,
+        "impressions": 57967,
+        "clicks": 1912,
+        "link_clicks": 1983,
+        "comments": 6,
+        "engagements": 11237,
+        "ig_visits": 1996,
+        "ctr": 3.3,
+        "video_retention_100": 48.3,
+        "rows": 36
+      },
+      {
+        "ad": "Publicación de Instagram: Caterina nos cuenta más...",
+        "spend": 53.89,
+        "results": 455,
+        "cpr": 0.1184,
+        "reach": 16172,
+        "impressions": 18653,
+        "clicks": 431,
+        "link_clicks": 431,
+        "comments": 8,
+        "engagements": 10756,
+        "ig_visits": 455,
+        "ctr": 2.31,
+        "video_retention_100": 15.9,
+        "rows": 18
+      },
+      {
+        "ad": "Instagram Post",
+        "spend": 49.99,
+        "results": 2160,
+        "cpr": 0.0231,
+        "reach": 41224,
+        "impressions": 60223,
+        "clicks": 2062,
+        "link_clicks": 2104,
+        "comments": 8,
+        "engagements": 2613,
+        "ig_visits": 2160,
+        "ctr": 3.42,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡En MA Faucet, seguimos...",
+        "spend": 49.96,
+        "results": 2094,
+        "cpr": 0.0239,
+        "reach": 40656,
+        "impressions": 46864,
+        "clicks": 2064,
+        "link_clicks": 2099,
+        "comments": 4,
+        "engagements": 21090,
+        "ig_visits": 2094,
+        "ctr": 4.4,
+        "video_retention_100": 22.1,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: A todos nuestros...",
+        "spend": 49.94,
+        "results": 513,
+        "cpr": 0.0973,
+        "reach": 36466,
+        "impressions": 40196,
+        "clicks": 546,
+        "link_clicks": 539,
+        "comments": 5,
+        "engagements": 17382,
+        "ig_visits": 513,
+        "ctr": 1.36,
+        "video_retention_100": 11.8,
+        "rows": 22
+      },
+      {
+        "ad": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cpr": 0.0098,
+        "reach": 35064,
+        "impressions": 48761,
+        "clicks": 4842,
+        "link_clicks": 4832,
+        "comments": 7,
+        "engagements": 30783,
+        "ig_visits": 5077,
+        "ctr": 9.93,
+        "video_retention_100": 30.4,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: AHORRA EN GRANDE🤩...",
+        "spend": 48.95,
+        "results": 2167,
+        "cpr": 0.0226,
+        "reach": 41368,
+        "impressions": 58596,
+        "clicks": 2101,
+        "link_clicks": 2116,
+        "comments": 7,
+        "engagements": 2457,
+        "ig_visits": 2167,
+        "ctr": 3.59,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: Semana de ofertas...",
+        "spend": 48.95,
+        "results": 1612,
+        "cpr": 0.0304,
+        "reach": 52704,
+        "impressions": 68659,
+        "clicks": 1561,
+        "link_clicks": 1568,
+        "comments": 2,
+        "engagements": 1904,
+        "ig_visits": 1612,
+        "ctr": 2.27,
+        "video_retention_100": null,
+        "rows": 18
+      }
+    ],
+    "most_efficient": [
+      {
+        "ad": "Publicación de Instagram: Nos encanta que...",
+        "spend": 31.97,
+        "results": 3503,
+        "cpr": 0.0091,
+        "reach": 39799,
+        "impressions": 56139,
+        "clicks": 3411,
+        "link_clicks": 3449,
+        "comments": 3,
+        "engagements": 4272,
+        "ig_visits": 3503,
+        "ctr": 6.08,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡Ahorrar y pintar con...",
+        "spend": 19.91,
+        "results": 2065,
+        "cpr": 0.0096,
+        "reach": 20508,
+        "impressions": 31704,
+        "clicks": 2005,
+        "link_clicks": 2033,
+        "comments": 5,
+        "engagements": 2274,
+        "ig_visits": 2065,
+        "ctr": 6.32,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: 🌟 ¡LLEGÓ EL GREEN WEEK!...",
+        "spend": 49.91,
+        "results": 5077,
+        "cpr": 0.0098,
+        "reach": 35064,
+        "impressions": 48761,
+        "clicks": 4842,
+        "link_clicks": 4832,
+        "comments": 7,
+        "engagements": 30783,
+        "ig_visits": 5077,
+        "ctr": 9.93,
+        "video_retention_100": 30.4,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ATENCIÓN CONSTRUCTORES,...",
+        "spend": 26.79,
+        "results": 2421,
+        "cpr": 0.0111,
+        "reach": 32096,
+        "impressions": 48446,
+        "clicks": 2357,
+        "link_clicks": 2419,
+        "comments": 9,
+        "engagements": 2708,
+        "ig_visits": 2421,
+        "ctr": 4.87,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡Así es! Si estabas...",
+        "spend": 39.97,
+        "results": 3249,
+        "cpr": 0.0123,
+        "reach": 24741,
+        "impressions": 36502,
+        "clicks": 3060,
+        "link_clicks": 3125,
+        "comments": 7,
+        "engagements": 20770,
+        "ig_visits": 3249,
+        "ctr": 8.38,
+        "video_retention_100": 27.5,
+        "rows": 18
+      },
+      {
+        "ad": "CAMPAÑA MOT 06-06",
+        "spend": 39.96,
+        "results": 3208,
+        "cpr": 0.0125,
+        "reach": 47649,
+        "impressions": 64033,
+        "clicks": 3645,
+        "link_clicks": 3208,
+        "comments": 2,
+        "engagements": 27582,
+        "ig_visits": 8,
+        "ctr": 5.69,
+        "video_retention_100": 2.5,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡Para cerrar nuestro...",
+        "spend": 34.84,
+        "results": 2506,
+        "cpr": 0.0139,
+        "reach": 22538,
+        "impressions": 31220,
+        "clicks": 2365,
+        "link_clicks": 2372,
+        "comments": 3,
+        "engagements": 13701,
+        "ig_visits": 2506,
+        "ctr": 7.58,
+        "video_retention_100": 12.8,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: 🛠️ ¿Planeando tu...",
+        "spend": 104.87,
+        "results": 6660,
+        "cpr": 0.0157,
+        "reach": 65193,
+        "impressions": 113582,
+        "clicks": 6474,
+        "link_clicks": 6500,
+        "comments": 117,
+        "engagements": 7219,
+        "ig_visits": 6660,
+        "ctr": 5.7,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡AHORRA EN TU PRÓXIMO...",
+        "spend": 29.95,
+        "results": 1866,
+        "cpr": 0.0161,
+        "reach": 32285,
+        "impressions": 43616,
+        "clicks": 1800,
+        "link_clicks": 1828,
+        "comments": 9,
+        "engagements": 2165,
+        "ig_visits": 1866,
+        "ctr": 4.13,
+        "video_retention_100": null,
+        "rows": 18
+      },
+      {
+        "ad": "Publicación de Instagram: ¡Dale vida a tu Navidad...",
+        "spend": 34.92,
+        "results": 2099,
+        "cpr": 0.0166,
+        "reach": 19616,
+        "impressions": 29108,
+        "clicks": 1940,
+        "link_clicks": 2006,
+        "comments": 59,
+        "engagements": 17110,
+        "ig_visits": 2099,
+        "ctr": 6.66,
+        "video_retention_100": 12.8,
+        "rows": 18
+      }
+    ],
+    "total_unique_ads": 43
+  },
+  "demographic_analysis": {
+    "heatmap_spend": [
+      {
+        "age": "18-24",
+        "female": 47.64,
+        "male": 36.24,
+        "unknown": 0.62
+      },
+      {
+        "age": "25-34",
+        "female": 184.77,
+        "male": 124.62,
+        "unknown": 1.61
+      },
+      {
+        "age": "35-44",
+        "female": 271.81,
+        "male": 187.73,
+        "unknown": 2.68
+      },
+      {
+        "age": "45-54",
+        "female": 293.75,
+        "male": 200.32,
+        "unknown": 3.8
+      },
+      {
+        "age": "55-64",
+        "female": 263.3,
+        "male": 153.54,
+        "unknown": 3.19
+      },
+      {
+        "age": "65+",
+        "female": 151.54,
+        "male": 79.09,
+        "unknown": 1.84
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "heatmap_results": [
+      {
+        "age": "18-24",
+        "female": 2359,
+        "male": 1262,
+        "unknown": 26
+      },
+      {
+        "age": "25-34",
+        "female": 8834,
+        "male": 4289,
+        "unknown": 51
+      },
+      {
+        "age": "35-44",
+        "female": 10561,
+        "male": 5488,
+        "unknown": 96
+      },
+      {
+        "age": "45-54",
+        "female": 10773,
+        "male": 5601,
+        "unknown": 114
+      },
+      {
+        "age": "55-64",
+        "female": 10830,
+        "male": 4564,
+        "unknown": 145
+      },
+      {
+        "age": "65+",
+        "female": 6524,
+        "male": 2506,
+        "unknown": 68
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "heatmap_cpr": [
+      {
+        "age": "18-24",
+        "female": 0.02,
+        "male": 0.03,
+        "unknown": 0.02
+      },
+      {
+        "age": "25-34",
+        "female": 0.02,
+        "male": 0.03,
+        "unknown": 0.03
+      },
+      {
+        "age": "35-44",
+        "female": 0.03,
+        "male": 0.03,
+        "unknown": 0.03
+      },
+      {
+        "age": "45-54",
+        "female": 0.03,
+        "male": 0.04,
+        "unknown": 0.03
+      },
+      {
+        "age": "55-64",
+        "female": 0.02,
+        "male": 0.03,
+        "unknown": 0.02
+      },
+      {
+        "age": "65+",
+        "female": 0.02,
+        "male": 0.03,
+        "unknown": 0.03
+      },
+      {
+        "age": "Unknown",
+        "female": 0,
+        "male": 0,
+        "unknown": 0
+      }
+    ],
+    "age_distribution": [
+      {
+        "age": "18-24",
+        "spend": 84.5,
+        "results": 3647,
+        "pct_spend": 4.1
+      },
+      {
+        "age": "25-34",
+        "spend": 311,
+        "results": 13174,
+        "pct_spend": 14.9
+      },
+      {
+        "age": "35-44",
+        "spend": 462.22,
+        "results": 16145,
+        "pct_spend": 22.2
+      },
+      {
+        "age": "45-54",
+        "spend": 497.87,
+        "results": 16488,
+        "pct_spend": 23.9
+      },
+      {
+        "age": "55-64",
+        "spend": 420.03,
+        "results": 15539,
+        "pct_spend": 20.2
+      },
+      {
+        "age": "65+",
+        "spend": 232.47,
+        "results": 9098,
+        "pct_spend": 11.2
+      },
+      {
+        "age": "Unknown",
+        "spend": 0,
+        "results": 0,
+        "pct_spend": 0
+      }
+    ],
+    "gender_distribution": [
+      {
+        "gender": "female",
+        "spend": 1212.81,
+        "results": 49881,
+        "cpr": 0.0243,
+        "ctr": 3.9876,
+        "comments": 388,
+        "link_clicks": 50747,
+        "pct_spend": 58.3
+      },
+      {
+        "gender": "male",
+        "spend": 781.54,
+        "results": 23710,
+        "cpr": 0.033,
+        "ctr": 3.7181,
+        "comments": 133,
+        "link_clicks": 25786,
+        "pct_spend": 37.5
+      },
+      {
+        "gender": "unknown",
+        "spend": 13.74,
+        "results": 500,
+        "cpr": 0.0275,
+        "ctr": 4.48,
+        "comments": 2,
+        "link_clicks": 517,
+        "pct_spend": 0.7
+      }
+    ],
+    "best_demographics": [
+      {
+        "age": "18-24",
+        "gender": "female",
+        "cost_per_result": 0.0202,
+        "results": 2359,
+        "spend": 47.64
+      },
+      {
+        "age": "25-34",
+        "gender": "female",
+        "cost_per_result": 0.0209,
+        "results": 8834,
+        "spend": 184.77
+      },
+      {
+        "age": "55-64",
+        "gender": "unknown",
+        "cost_per_result": 0.022,
+        "results": 145,
+        "spend": 3.19
+      },
+      {
+        "age": "65+",
+        "gender": "female",
+        "cost_per_result": 0.0232,
+        "results": 6524,
+        "spend": 151.54
+      },
+      {
+        "age": "55-64",
+        "gender": "female",
+        "cost_per_result": 0.0243,
+        "results": 10830,
+        "spend": 263.3
+      },
+      {
+        "age": "35-44",
+        "gender": "female",
+        "cost_per_result": 0.0257,
+        "results": 10561,
+        "spend": 271.81
+      },
+      {
+        "age": "65+",
+        "gender": "unknown",
+        "cost_per_result": 0.0271,
+        "results": 68,
+        "spend": 1.84
+      },
+      {
+        "age": "45-54",
+        "gender": "female",
+        "cost_per_result": 0.0273,
+        "results": 10773,
+        "spend": 293.75
+      },
+      {
+        "age": "35-44",
+        "gender": "unknown",
+        "cost_per_result": 0.0279,
+        "results": 96,
+        "spend": 2.68
+      },
+      {
+        "age": "18-24",
+        "gender": "male",
+        "cost_per_result": 0.0287,
+        "results": 1262,
+        "spend": 36.24
+      },
+      {
+        "age": "25-34",
+        "gender": "male",
+        "cost_per_result": 0.0291,
+        "results": 4289,
+        "spend": 124.62
+      },
+      {
+        "age": "25-34",
+        "gender": "unknown",
+        "cost_per_result": 0.0316,
+        "results": 51,
+        "spend": 1.61
+      },
+      {
+        "age": "65+",
+        "gender": "male",
+        "cost_per_result": 0.0316,
+        "results": 2506,
+        "spend": 79.09
+      },
+      {
+        "age": "45-54",
+        "gender": "unknown",
+        "cost_per_result": 0.0333,
+        "results": 114,
+        "spend": 3.8
+      },
+      {
+        "age": "55-64",
+        "gender": "male",
+        "cost_per_result": 0.0336,
+        "results": 4564,
+        "spend": 153.54
+      }
+    ]
+  }
+}
